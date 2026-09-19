@@ -1,0 +1,7 @@
+﻿scenario,available_effect_rows,clusters,pooled_model,reason
+All nonquarantined,207,9,NOT FIT,Compatibility threshold fails before and after restriction; clusters across different constructs cannot be pooled
+Exclude digitized,19,6,NOT FIT,Compatibility threshold fails before and after restriction; clusters across different constructs cannot be pooled
+Exclude fixed-order/high-RoB,202,7,NOT FIT,Compatibility threshold fails before and after restriction; clusters across different constructs cannot be pooled
+Exclude working variance approximations,80,6,NOT FIT,Compatibility threshold fails before and after restriction; clusters across different constructs cannot be pooled
+Exclude multimodal Bastola PTE,202,8,NOT FIT,Compatibility threshold fails before and after restriction; clusters across different constructs cannot be pooled
+Transcranial-only,207,9,NOT FIT,Compatibility threshold fails before and after restriction; clusters across different constructs cannot be pooled

@@ -1,0 +1,1 @@
+Zhao C independent experiments: r=.446 n23 and r=.563 n18. Fixed Fisher-z aggregate=0.547203876419; variance=0.028571428571; r=0.498422. Matches recorded extraction. Same-session association; not prospective validated prediction or adaptive trial.

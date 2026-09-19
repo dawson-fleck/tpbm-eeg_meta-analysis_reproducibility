@@ -1,0 +1,85 @@
+﻿file,cohort_id,outcome_id,field,old,new,evidence
+harmonization_r0.2.csv,COG-HWANG-2016,Cog-DMS-correct,n1,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+harmonization_r0.2.csv,COG-HWANG-2016,Cog-DMS-correct,n0,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+harmonization_r0.2.csv,COG-HWANG-2016,Cog-DMS-correct,comparator_intensity,No therapeutic light/control,Low/nonzero-output sham,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+harmonization_r0.2.csv,COG-DOUGAL-2021,Cog-ANAM-composite,industry_status,No documented industry association,Documented industry association,"Maculume funding and majority shareholding, Disclosure/Funding"
+harmonization_r0.2.csv,COG-CHAN-2021-DIFFICULT,Cog-3back-Aprime,industry_status,No documented industry association,Documented industry association,"Hamblin advisory boards including Vielight and JOOVV, Competing interests"
+harmonization_r0.2.csv,COG-DEOLIVEIRA-2024,Cog-MoCA-change,industry_status,No documented industry association,Documented industry association,"Cassano PBM industry funding, consultation, shareholding, patents, Declaration of competing interest"
+harmonization_r0.5.csv,COG-HWANG-2016,Cog-DMS-correct,n1,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+harmonization_r0.5.csv,COG-HWANG-2016,Cog-DMS-correct,n0,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+harmonization_r0.5.csv,COG-HWANG-2016,Cog-DMS-correct,comparator_intensity,No therapeutic light/control,Low/nonzero-output sham,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+harmonization_r0.5.csv,COG-DOUGAL-2021,Cog-ANAM-composite,industry_status,No documented industry association,Documented industry association,"Maculume funding and majority shareholding, Disclosure/Funding"
+harmonization_r0.5.csv,COG-CHAN-2021-DIFFICULT,Cog-3back-Aprime,industry_status,No documented industry association,Documented industry association,"Hamblin advisory boards including Vielight and JOOVV, Competing interests"
+harmonization_r0.5.csv,COG-DEOLIVEIRA-2024,Cog-MoCA-change,industry_status,No documented industry association,Documented industry association,"Cassano PBM industry funding, consultation, shareholding, patents, Declaration of competing interest"
+harmonization_r0.8.csv,COG-HWANG-2016,Cog-DMS-correct,n1,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+harmonization_r0.8.csv,COG-HWANG-2016,Cog-DMS-correct,n0,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+harmonization_r0.8.csv,COG-HWANG-2016,Cog-DMS-correct,comparator_intensity,No therapeutic light/control,Low/nonzero-output sham,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+harmonization_r0.8.csv,COG-DOUGAL-2021,Cog-ANAM-composite,industry_status,No documented industry association,Documented industry association,"Maculume funding and majority shareholding, Disclosure/Funding"
+harmonization_r0.8.csv,COG-CHAN-2021-DIFFICULT,Cog-3back-Aprime,industry_status,No documented industry association,Documented industry association,"Hamblin advisory boards including Vielight and JOOVV, Competing interests"
+harmonization_r0.8.csv,COG-DEOLIVEIRA-2024,Cog-MoCA-change,industry_status,No documented industry association,Documented industry association,"Cassano PBM industry funding, consultation, shareholding, patents, Declaration of competing interest"
+all_outcomes_r0.2.csv,COG-HWANG-2016,Cog-DMS-correct,n1,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.2.csv,COG-HWANG-2016,Cog-DMS-correct,n0,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.2.csv,COG-HWANG-2016,Cog-DMS-correct,comparator_intensity,No therapeutic light/control,Low/nonzero-output sham,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.2.csv,COG-DOUGAL-2021,Cog-ANAM-composite,industry_status,No documented industry association,Documented industry association,"Maculume funding and majority shareholding, Disclosure/Funding"
+all_outcomes_r0.2.csv,COG-CHAN-2021-DIFFICULT,Cog-3back-Aprime,industry_status,No documented industry association,Documented industry association,"Hamblin advisory boards including Vielight and JOOVV, Competing interests"
+all_outcomes_r0.2.csv,COG-DEOLIVEIRA-2024,Cog-MoCA-change,industry_status,No documented industry association,Documented industry association,"Cassano PBM industry funding, consultation, shareholding, patents, Declaration of competing interest"
+all_outcomes_r0.2.csv,COG-HWANG-2016,Cog-PVT-RT,n1,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.2.csv,COG-HWANG-2016,Cog-PVT-RT,n0,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.2.csv,COG-HWANG-2016,Cog-PVT-RT,comparator_intensity,No therapeutic light/control,Low/nonzero-output sham,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.2.csv,COG-DOUGAL-2021,Cog-ANAM-WM,industry_status,No documented industry association,Documented industry association,"Maculume funding and majority shareholding, Disclosure/Funding"
+all_outcomes_r0.2.csv,COG-DOUGAL-2021,Cog-ANAM-delay,industry_status,No documented industry association,Documented industry association,"Maculume funding and majority shareholding, Disclosure/Funding"
+all_outcomes_r0.2.csv,COG-CHAN-2021-DIFFICULT,Cog-3back-RT,industry_status,No documented industry association,Documented industry association,"Hamblin advisory boards including Vielight and JOOVV, Competing interests"
+all_outcomes_r0.2.csv,COG-HWANG-2016,Cog-DMS-latency,n1,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.2.csv,COG-HWANG-2016,Cog-DMS-latency,n0,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.2.csv,COG-HWANG-2016,Cog-DMS-latency,comparator_intensity,No therapeutic light/control,Low/nonzero-output sham,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.5.csv,COG-HWANG-2016,Cog-DMS-correct,n1,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.5.csv,COG-HWANG-2016,Cog-DMS-correct,n0,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.5.csv,COG-HWANG-2016,Cog-DMS-correct,comparator_intensity,No therapeutic light/control,Low/nonzero-output sham,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.5.csv,COG-DOUGAL-2021,Cog-ANAM-composite,industry_status,No documented industry association,Documented industry association,"Maculume funding and majority shareholding, Disclosure/Funding"
+all_outcomes_r0.5.csv,COG-CHAN-2021-DIFFICULT,Cog-3back-Aprime,industry_status,No documented industry association,Documented industry association,"Hamblin advisory boards including Vielight and JOOVV, Competing interests"
+all_outcomes_r0.5.csv,COG-DEOLIVEIRA-2024,Cog-MoCA-change,industry_status,No documented industry association,Documented industry association,"Cassano PBM industry funding, consultation, shareholding, patents, Declaration of competing interest"
+all_outcomes_r0.5.csv,COG-HWANG-2016,Cog-PVT-RT,n1,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.5.csv,COG-HWANG-2016,Cog-PVT-RT,n0,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.5.csv,COG-HWANG-2016,Cog-PVT-RT,comparator_intensity,No therapeutic light/control,Low/nonzero-output sham,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.5.csv,COG-DOUGAL-2021,Cog-ANAM-WM,industry_status,No documented industry association,Documented industry association,"Maculume funding and majority shareholding, Disclosure/Funding"
+all_outcomes_r0.5.csv,COG-DOUGAL-2021,Cog-ANAM-delay,industry_status,No documented industry association,Documented industry association,"Maculume funding and majority shareholding, Disclosure/Funding"
+all_outcomes_r0.5.csv,COG-CHAN-2021-DIFFICULT,Cog-3back-RT,industry_status,No documented industry association,Documented industry association,"Hamblin advisory boards including Vielight and JOOVV, Competing interests"
+all_outcomes_r0.5.csv,COG-HWANG-2016,Cog-DMS-latency,n1,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.5.csv,COG-HWANG-2016,Cog-DMS-latency,n0,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.5.csv,COG-HWANG-2016,Cog-DMS-latency,comparator_intensity,No therapeutic light/control,Low/nonzero-output sham,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.8.csv,COG-HWANG-2016,Cog-DMS-correct,n1,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.8.csv,COG-HWANG-2016,Cog-DMS-correct,n0,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.8.csv,COG-HWANG-2016,Cog-DMS-correct,comparator_intensity,No therapeutic light/control,Low/nonzero-output sham,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.8.csv,COG-DOUGAL-2021,Cog-ANAM-composite,industry_status,No documented industry association,Documented industry association,"Maculume funding and majority shareholding, Disclosure/Funding"
+all_outcomes_r0.8.csv,COG-CHAN-2021-DIFFICULT,Cog-3back-Aprime,industry_status,No documented industry association,Documented industry association,"Hamblin advisory boards including Vielight and JOOVV, Competing interests"
+all_outcomes_r0.8.csv,COG-DEOLIVEIRA-2024,Cog-MoCA-change,industry_status,No documented industry association,Documented industry association,"Cassano PBM industry funding, consultation, shareholding, patents, Declaration of competing interest"
+all_outcomes_r0.8.csv,COG-HWANG-2016,Cog-PVT-RT,n1,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.8.csv,COG-HWANG-2016,Cog-PVT-RT,n0,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.8.csv,COG-HWANG-2016,Cog-PVT-RT,comparator_intensity,No therapeutic light/control,Low/nonzero-output sham,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.8.csv,COG-DOUGAL-2021,Cog-ANAM-WM,industry_status,No documented industry association,Documented industry association,"Maculume funding and majority shareholding, Disclosure/Funding"
+all_outcomes_r0.8.csv,COG-DOUGAL-2021,Cog-ANAM-delay,industry_status,No documented industry association,Documented industry association,"Maculume funding and majority shareholding, Disclosure/Funding"
+all_outcomes_r0.8.csv,COG-CHAN-2021-DIFFICULT,Cog-3back-RT,industry_status,No documented industry association,Documented industry association,"Hamblin advisory boards including Vielight and JOOVV, Competing interests"
+all_outcomes_r0.8.csv,COG-HWANG-2016,Cog-DMS-latency,n1,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.8.csv,COG-HWANG-2016,Cog-DMS-latency,n0,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_r0.8.csv,COG-HWANG-2016,Cog-DMS-latency,comparator_intensity,No therapeutic light/control,Low/nonzero-output sham,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_specification_v2.csv,COG-HWANG-2016,Cog-DMS-correct,n1,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_specification_v2.csv,COG-HWANG-2016,Cog-DMS-correct,n0,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_specification_v2.csv,COG-HWANG-2016,Cog-DMS-correct,comparator_intensity,No therapeutic light/control,Low/nonzero-output sham,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_specification_v2.csv,COG-DOUGAL-2021,Cog-ANAM-composite,industry_status,No documented industry association,Documented industry association,"Maculume funding and majority shareholding, Disclosure/Funding"
+all_outcomes_specification_v2.csv,COG-CHAN-2021-DIFFICULT,Cog-3back-Aprime,industry_status,No documented industry association,Documented industry association,"Hamblin advisory boards including Vielight and JOOVV, Competing interests"
+all_outcomes_specification_v2.csv,COG-DEOLIVEIRA-2024,Cog-MoCA-change,industry_status,No documented industry association,Documented industry association,"Cassano PBM industry funding, consultation, shareholding, patents, Declaration of competing interest"
+all_outcomes_specification_v2.csv,COG-HWANG-2016,Cog-PVT-RT,n1,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_specification_v2.csv,COG-HWANG-2016,Cog-PVT-RT,n0,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_specification_v2.csv,COG-HWANG-2016,Cog-PVT-RT,comparator_intensity,No therapeutic light/control,Low/nonzero-output sham,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_specification_v2.csv,COG-DOUGAL-2021,Cog-ANAM-WM,industry_status,No documented industry association,Documented industry association,"Maculume funding and majority shareholding, Disclosure/Funding"
+all_outcomes_specification_v2.csv,COG-DOUGAL-2021,Cog-ANAM-delay,industry_status,No documented industry association,Documented industry association,"Maculume funding and majority shareholding, Disclosure/Funding"
+all_outcomes_specification_v2.csv,COG-CHAN-2021-DIFFICULT,Cog-3back-RT,industry_status,No documented industry association,Documented industry association,"Hamblin advisory boards including Vielight and JOOVV, Competing interests"
+all_outcomes_specification_v2.csv,COG-HWANG-2016,Cog-DMS-latency,n1,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_specification_v2.csv,COG-HWANG-2016,Cog-DMS-latency,n0,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+all_outcomes_specification_v2.csv,COG-HWANG-2016,Cog-DMS-latency,comparator_intensity,No therapeutic light/control,Low/nonzero-output sham,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+harmonization_specification_v2.csv,COG-HWANG-2016,Cog-DMS-correct,n1,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+harmonization_specification_v2.csv,COG-HWANG-2016,Cog-DMS-correct,n0,20.0,15,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+harmonization_specification_v2.csv,COG-HWANG-2016,Cog-DMS-correct,comparator_intensity,No therapeutic light/control,Low/nonzero-output sham,Hwang paper Participants and Tables 1-2: n=15 each; sham 5 seconds per minute
+harmonization_specification_v2.csv,COG-DOUGAL-2021,Cog-ANAM-composite,industry_status,No documented industry association,Documented industry association,"Maculume funding and majority shareholding, Disclosure/Funding"
+harmonization_specification_v2.csv,COG-CHAN-2021-DIFFICULT,Cog-3back-Aprime,industry_status,No documented industry association,Documented industry association,"Hamblin advisory boards including Vielight and JOOVV, Competing interests"
+harmonization_specification_v2.csv,COG-DEOLIVEIRA-2024,Cog-MoCA-change,industry_status,No documented industry association,Documented industry association,"Cassano PBM industry funding, consultation, shareholding, patents, Declaration of competing interest"

@@ -1,0 +1,18 @@
+cohort_id,pulse,device,wavelength_nm,sessions,target,mean_age_status,pulse_source
+COG-TANG-2023,Mixed CW/PW,LED,660+850,1,Frontal bilateral,22.9,Tang Table 2 six-arm aggregate
+COG-HWANG-2016,CW,Laser,1064,1,Right frontal,Arm-specific ages need weighted extraction,Hwang LLLT protocol
+COG-CHAN-2019-OLDER,CW,LED,633+870,1,Forehead bilateral plus posterior,Table 2 needs weighted extraction,Chan2019 Procedure
+COG-DOUGAL-2021,Unclear,LED,1068,At least 56,Whole head,57,Dougal no explicit pulse convention located
+COG-CHAN-2021-DIFFICULT,CW,LED,810,1,Forehead bilateral,25.24,Chan difficult Methods explicit continuous wave
+COG-YANG-2024-LANGUAGE,CW,Laser,1064,1,Left IFG,Analyzed L1 22.36 L2 22.00,Yang2024 protocol continuous output
+COG-CHAN-2021-MCI,CW,LED,810,1,Forehead bilateral,66.3,Chan MCI Materials
+COG-HASSAN-2026-STROKE,CW,Laser,980,24,Multiple motor and frontal targets,Table 1 requires weighted extraction,Hassan Methods
+COG-PENA-2026,PW,LED,810,1,Bilateral DLPFC,Arm 29.13 and 27.48 denominator inconsistency,Pena2026 40 Hz
+COG-CHUN-2025-PILOT,PW,LED,808,72,Whole head,70.23,Chun pilot device protocol 40 Hz
+COG-LEE-2025-TBI,CW,LED,810,18,Forehead,60.25,Lee TBI device
+COG-DEOLIVEIRA-2024,CW,LED,660+850,24,Whole head,Median age not mean,Oliveira Methods explicit CW
+COG-BERMAN-2017-DEMENTIA,PW,LED,1060-1080,28,Whole head,81.8 enrolled/analyzed denominator needs care,Berman helmet 10 Hz
+COG-YANG-2025-OLDER-WM,CW,Laser,1064,1,Left frontal,64.8,Yang2025 protocol
+COG-SABOURI-MOGHADAM-2017,Unclear,LED,850,1,Right frontal,21,Correct Sabouri paper describes sustained exposure but no explicit mode label
+COG-SALEHPOUR-2026-STAGE1-ADHD,CW,Laser,1064,1,Right frontal,Stage1 overall age not ADHD-subgroup mean,Salehpour Stage1 device
+COG-ZHAO-X-2022-SCD,CW,Laser,1064,6,Right prefrontal,Completer arm-specific ages need extraction,ZhaoX protocol

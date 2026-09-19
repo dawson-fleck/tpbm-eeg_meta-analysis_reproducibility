@@ -1,0 +1,24 @@
+﻿cohort_id,outcome,historical_included,current_included,route,reason
+COG-TANG-2023,Cog-DMS-RCS-all,1,1,SMD,Comparable raw-score standardizer; exact J and metafor SMD LS variance replace legacy approximations
+COG-HWANG-2016,Cog-DMS-correct,1,1,SMD,Comparable raw-score standardizer; exact J and metafor SMD LS variance replace legacy approximations
+COG-CHAN-2019-OLDER,Cog-Flanker-incongruent-RT,1,1,controlled_SMCRH,Recovered raw-score baseline standardizer from figure explicitly labeled one SEM; approximate digitization.
+COG-DOUGAL-2021,Cog-ANAM-composite,1,1,controlled_SMCRH,Difference of raw-score-standardized arm changes; sum independent arm variances (Becker/Morris implementation)
+COG-CHAN-2021-DIFFICULT,Cog-3back-Aprime,1,1,SMD_t,Comparable raw-score standardizer; exact J and metafor SMD LS variance replace legacy approximations
+COG-YANG-2024-LANGUAGE,Cog-language,1,1,SMCRPH,Replace dz with raw-score standardization; pairing retained in variance
+COG-ZHAO-C-2022-VWM-EXP1-2-AGG,Cog-VWM-K,1,0,outside_harmonized_pool,"Paired t-derived dz aggregate; condition SDs/correlation not in frozen numeric input. OSF raw files recovered, but orientation archive mixes experiments and published/code subject lists do not resolve the n23/n18 behavioral analysis sets. No unverified cohort selection or universal dz conversion."
+COG-CHAN-2021-MCI,Cog-VMS-total,1,1,controlled_SMCRH,Recovered raw-score baseline standardizer from figure explicitly labeled one SEM; approximate digitization.
+COG-BARRETT-2013,Cog-DMS-correct,1,0,outside_harmonized_pool,Interaction F from repeated-measures model with denominator df36 versus randomized n20/20; marginal raw-score denominator and analyzed arm counts for selected endpoint unresolved.
+COG-HASSAN-2026-STROKE,Cog-MMSE,1,1,SMD,Comparable raw-score standardizer; exact J and metafor SMD LS variance replace legacy approximations
+COG-PENA-2026,Cog-RAT,1,1,controlled_SMCRH,Difference of raw-score-standardized arm changes; sum independent arm variances (Becker/Morris implementation)
+COG-PAPI-2022-MCI,Cog-MMSE,1,0,outside_harmonized_pool,Group-by-time F-derived effect uses change/error SD; no marginal MMSE SD for the selected contrast in available numeric extraction.
+COG-CHUN-2025-PILOT,Cog-KMoCA,1,1,SMD,Comparable raw-score standardizer; exact J and metafor SMD LS variance replace legacy approximations
+COG-KHERADMAND-2022-DEMENTIA,Cog-MMSE,1,0,outside_harmonized_pool,Dementia-trial change means/SDs available but baseline/post MMSE SD unavailable. Retrieved similarly named PDF/extraction is schizophrenia trial and must not supply replacement values.
+COG-LEE-2025-TBI,Cog-VWM-span,1,1,SMCRPH,Replace dz with raw-score standardization; pairing retained in variance
+COG-HAN-2025,Cog-K-change,1,0,outside_harmonized_pool,Between-group t is a contrast in K-value change; no marginal raw-score SD. Treating it as independent post-score SMD was not justified.
+COG-DEOLIVEIRA-2024,Cog-MoCA-change,1,1,controlled_SMCRH,Difference of raw-score-standardized arm changes; sum independent arm variances (Becker/Morris implementation)
+COG-CHUN-2026-CONFIRMATORY,Cog-MoCAK-change,1,0,outside_harmonized_pool,Confirmed full text gives MoCA-K changes and adjusted difference/SE but no baseline or endpoint MoCA-K SD; cannot substitute change SD or unrelated mechanistic PDF.
+COG-BERMAN-2017-DEMENTIA,Cog-MMSE-change,1,1,controlled_SMCRH,Difference of raw-score-standardized arm changes; sum independent arm variances (Becker/Morris implementation)
+COG-YANG-2025-OLDER-WM,Cog-3back-accuracy,1,1,SMCRPH,Replace dz with raw-score standardization; pairing retained in variance
+COG-SABOURI-MOGHADAM-2017,Cog-PGNG-ES,1,1,controlled_SMCRH,Difference of raw-score-standardized arm changes; sum independent arm variances (Becker/Morris implementation)
+COG-SALEHPOUR-2026-STAGE1-ADHD,Cog-CPT-CR-ADHD,1,1,SMD_d,Comparable raw-score standardizer; exact J and metafor SMD LS variance replace legacy approximations
+COG-ZHAO-X-2022-SCD,Cog-2back-RT-change-SCD,1,1,controlled_SMCRH,Difference of raw-score-standardized arm changes; sum independent arm variances (Becker/Morris implementation)

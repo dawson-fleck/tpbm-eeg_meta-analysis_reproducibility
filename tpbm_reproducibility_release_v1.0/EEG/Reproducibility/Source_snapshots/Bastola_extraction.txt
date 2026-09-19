@@ -1,0 +1,155 @@
+﻿Data collection form
+Transcranial Photobiomodulation, Cognitive Outcomes, EEG Biomarkers, and Closed-Loop Potential
+Review: Transcranial Photobiomodulation for Cognitive Enhancement and Rehabilitation
+Study ID: Bastola et al. 2026
+Report IDs / overlap: Companion controlled reanalysis of the same 25-person UTSW simultaneous MEG/EEG cohort reported in Pruitt et al. 2024. The cohort match is supported by the identical sample size (n=25), sex distribution (13 female/12 male), mean age (25.6 +/- 4.8 years), UTSW recruitment/IRB setting, CG-5000 1064-nm right-prefrontal protocol, MEGIN Neuromag TRIUX Neo + 64-channel EEG acquisition, and 6-min pre / 8-min stimulation / 6-min post timeline. Do not count Bastola and Pruitt as independent cohorts.
+Notes: Bastola is not information-redundant for the EEG synthesis. Unlike the published Pruitt 2024 report, Bastola includes a counterbalanced active-vs-sham session and reports paired directional-connectivity effect sizes. Treat Bastola as the preferred controlled report for this cohort if a defensible sampling variance can be established.
+
+
+A. General Information
+Completed: 25/08/2026
+Extractor: ChatGPT-assisted extraction for Dawson; source-verified against the full report.
+Title: Transcranial 1064-nm laser photobiomodulation modulates frequency-specific cortical source dynamics and functional connectivity in healthy adults
+Reference: Bastola S, Pruitt T, Davenport EM, Maldjian JA, Liu H, Alexandrakis G. Frontiers in Human Neuroscience. 2026;19:1704482. doi:10.3389/fnhum.2025.1704482.
+Publication note: Published 8 January 2026; DOI string contains 2025.
+Publication type: Full original research article.
+Evidence classification: Direct tPBM + EEG/MEG mechanistic human study; sham-controlled within-subject companion report; controlled EEG quantitative candidate; no direct cognitive performance outcome.
+Funding: National Institute of Mental Health, NIH BRAIN Initiative, RF1MH114285.
+Conflicts: Authors reported no commercial or financial relationships that could be construed as a conflict. George Alexandrakis was a Frontiers editorial-board member at submission; the article states this did not affect peer review or the final decision.
+Data availability: Raw data supporting the conclusions are stated to be available from the authors without undue reservation.
+
+
+B. Eligibility
+Design: Within-subject active-vs-sham study on separate days; single-blind; session order counterbalanced. A randomization method for condition sequence is not clearly described in the report, so code sequence randomization as unclear rather than assume random allocation.
+Population eligible?: Yes - healthy adults.
+Intervention eligible?: Yes - transcranial-only 1064-nm right-prefrontal photobiomodulation.
+EEG eligible?: Yes - direct EEG/MEG neurophysiology with active-vs-sham comparison.
+Cognition eligible?: No direct cognitive task or cognitive performance outcome was measured.
+Follow-up: Acute/immediate post-stimulation only.
+Meta-analysis decision: Retain as a controlled EEG quantitative candidate and companion report of the Pruitt 2024 cohort. Do not count as a new independent cohort relative to Pruitt. It can add a new independent cohort to the current controlled EEG meta-analysis only if this Pruitt/Bastola cohort was previously uncounted and a defensible variance-bearing active-vs-sham effect is established.
+
+
+C. Population
+Population: Healthy young adults.
+Sample size analyzed: n=25.
+Age: 25.6 +/- 4.8 years.
+Sex: 13 female, 12 male.
+Setting: University of Texas Southwestern Medical Center MEG Center / UTSW IRB.
+Key eligibility: Normal or corrected-to-normal vision; no self-reported neurological or psychiatric disorder. Pruitt 2024, which reports the same cohort, additionally specifies no prior psychiatric diagnosis, no brain injury/nervous disorder, no caffeine/nicotine within 2 h, and no current pregnancy; do not treat those details as independently re-reported by Bastola unless confirmed in the Bastola text.
+Attrition: The report analyzes 25 participants; no additional attrition flow is prominently reported.
+
+
+D. tPBM Parameters
+Device: CG-5000 Class IV laser, Cell Gen Therapeutics, Dallas, TX.
+Wavelength: 1064 nm.
+Mode: Continuous wave.
+Target: Right prefrontal cortex, approximately 1 cm below Fp2.
+Aperture: Circular, 4.2 cm diameter.
+Nominal irradiance: 250 mW/cm2.
+Effective measured irradiance: approximately 223 mW/cm2 after optical/diffuser losses.
+Reported fluence: approximately 107 J/cm2 over 8 min based on the effective measured irradiance.
+Nominal calculated fluence: 120 J/cm2 if 250 mW/cm2 is applied for the full 480 s; retain the paper's approximately 107 J/cm2 as the reported effective value and do not silently substitute the nominal calculation.
+Duration: 8 min.
+Sessions: Two experimental conditions per participant, active and sham, conducted on separate days.
+Sham: Same device/setup, aperture occluded with a solid 5-mm opaque black PLA cap. Device remained powered at 0.1 W to match device hum. Post hoc power-meter testing found no detectable transmitted irradiance beneath the cap (approximately 3 microW/cm2 noise floor), indicating effectively zero delivered light.
+Masking: Single-blind; goggles and device positioning were used to reduce visual and tactile cues.
+Order: Counterbalanced across participants.
+Co-interventions: None reported.
+
+
+E. EEG / MEG Neurophysiology
+EEG role: Primary mechanistic biomarker alongside MEG.
+Acquisition state: Resting-state eyes open with fixation during pre and post recordings; EEG continued during stimulation.
+Timeline: 6-min pre-stimulation simultaneous MEG/EEG, 8-min active or sham stimulation, 6-min post-stimulation simultaneous MEG/EEG.
+EEG hardware: 64-channel Easycap, international 10-10 configuration; impedance maintained below 5 kOhm.
+MEG hardware: MEGIN Neuromag TRIUX Neo; 102 magnetometers + 204 planar gradiometers.
+Sampling: 1000 Hz at acquisition; downsampled to 500 Hz after preprocessing.
+Preprocessing: Brainstorm; DC offset removal; 60- and 120-Hz notch filters; 0.5-150 Hz zero-phase Butterworth bandpass; signal-space projection for cardiac and ocular artifacts.
+Structural imaging: Individual T1-weighted MRI used for co-registration/source modeling; three-layer boundary element model.
+Source methods: sLORETA distributed source imaging; group SVD/ICA source isolation; equivalent-current-dipole modeling using simulated annealing plus local optimization.
+Primary frequency bands: Alpha 8-12 Hz; beta 12-30 Hz.
+Connectivity: Phase Transfer Entropy (PTE) for directional connectivity.
+Cross-frequency analysis: Infra-slow phase-amplitude coupling (PAC) with alpha/beta amplitudes.
+Statistical model: Paired-samples t-tests as the primary PTE statistic; 5000-iteration within-subject sign-flip permutation procedure; Benjamini-Hochberg FDR correction q<0.05. Cohen's d was computed for significant connections.
+PAC statistics: Surrogate-shuffle procedure using circular shifts of amplitude envelopes; significant bins retained at p<0.05.
+Key qualitative findings: tPBM produced frequency-specific cortical reorganization, with alpha involving distributed frontal/visual/sensorimotor systems and beta involving executive, sensorimotor, and temporal association systems. Infra-slow rhythms significantly modulated alpha and beta amplitudes.
+Reporting inconsistency flag: The narrative Results and Figure 2 caption do not list identical Brodmann areas for the pre-to-post DMN/CEN source-localization pattern. Treat the DMN-to-CEN interpretation as mechanistic/qualitative unless the source maps and supplementary analyses are independently reconciled.
+Closed-loop use: None. EEG/MEG measured response but did not guide or adapt stimulation.
+
+
+F. Cognitive / Behavioral Outcomes
+Direct cognitive performance outcome: None.
+Behavioral task: None during the resting-state neurophysiology protocol.
+Cognition linkage: Interpretive/mechanistic only; the authors relate network changes to executive/cognitive-control systems but do not test cognition directly in this cohort.
+
+
+G. Safety / Feasibility
+Safety focus: Not a primary outcome.
+Adverse events: No major adverse-event signal is emphasized in the report.
+Masking feasibility: Sham procedure was designed to match device sound and minimize visual/tactile cues; transmitted irradiance was effectively zero by post hoc measurement.
+Laboratory feasibility: Acute prefrontal tPBM with simultaneous/serial EEG-MEG acquisition was feasible in 25 adults.
+
+
+H. Quality / Risk-of-Bias Considerations
+Comparator: Stronger than Pruitt 2024 because an active-vs-sham within-subject comparison is included.
+Blinding: Single-blind.
+Sequence allocation: Counterbalanced; exact randomization procedure unclear.
+Within-subject design: Reduces between-person confounding but requires paired-effect variance handling.
+Multiplicity: Extensive source-space, connectivity, and PAC analyses; FDR/permutation procedures were used, but multiple reported pathways are dependent and must not be treated as independent studies.
+Selective pathway concern: Main text emphasizes selected significant PTE pathways; a prespecified effect-selection rule is needed for meta-analysis.
+Effect-size convention RESOLVED BY AUTHOR on 26/08/2026: Subrat Bastola confirmed that the paired active-versus-sham PTE effects are Cohen's d_av, calculated as (M_active - M_sham) / sqrt[(SD_active^2 + SD_sham^2)/2], using participant-level condition means and marginal SDs.
+Other limitation: No direct cognition, acute-only mechanistic endpoint, companion cohort with Pruitt 2024, and complex multistep source analysis.
+Overall role: Controlled mechanistic EEG/MEG evidence with author-resolved d_av point estimates. Quantitative use is now permitted using the review's explicitly conservative variance route when paired correlation is unavailable; exclude/reweight in the paired-variance sensitivity.
+
+
+I. Manuscript Use
+Directly addresses review?: Yes for the EEG/neurophysiology stream; no for cognition efficacy.
+Primary manuscript role: EEG evidence table; mechanistic/source-network discussion; potential controlled quantitative EEG contribution.
+Relationship to Pruitt 2024: Same cohort. Pruitt provides the earlier source-imaging report; Bastola adds sham-controlled directional-connectivity and PAC/network analyses. Cite/report both transparently but count participants once.
+Closed-loop relevance: Biomarker/monitoring relevance only, not an actual closed-loop intervention.
+
+
+J. Meta-Analysis Allocation
+Suggested cohort ID: UTSW-1064-MEGEEG-25.
+Independent cohort count: One cohort across Pruitt 2024 and Bastola 2026.
+Preferred quantitative report: Bastola 2026, because it contains active-vs-sham controlled EEG comparisons.
+Comparator: Active tPBM vs sham within participant.
+Candidate endpoint family: Directional PTE connectivity, analyzed separately by alpha and beta band.
+Timepoint: Immediate post-stimulation.
+Dependence: Multiple PTE edges and bands within the same 25 participants are correlated. Use one prespecified pathway per family or retain multiple effects only within the existing multilevel/RVE framework.
+Do not combine: PAC, source-location trajectories, PTE edges, and conventional spectral power as if they were interchangeable outcomes.
+
+
+K. Quantitative Data
+Analyzed n: 25 paired participants.
+Alpha-band PTE active-vs-sham effect sizes reported in the main text:
+- BA9 -> BA6: Cohen's d = 0.68.
+- BA6 -> BA4: Cohen's d = 0.74.
+Beta-band PTE active-vs-sham effect sizes reported in the main text:
+- BA6 -> BA4: Cohen's d = 0.82.
+- BA4 -> BA3: Cohen's d = 0.46.
+- BA3 -> BA22: Cohen's d = 0.58.
+Statistical qualification: Visualized PTE edges survived the 5000-iteration paired permutation procedure with FDR correction; the paper reports these standardized magnitudes for selected pathways.
+Variance status: RESOLVED FOR QUANTITATIVE SENSITIVITY. The author confirmed the reported quantity is d_av with denominator sqrt[(SD_active^2+SD_sham^2)/2]. For n=25 paired participants, apply the paired-sample Hedges correction J=1-3/[4(n-1)-1]=92/95=0.968421. Because the within-participant active-sham correlation is still not reported, use the same explicitly conservative independent-groups sampling-variance approximation already used elsewhere in the EEG dataset, treating n=25 per condition for variance only. This sacrifices paired-design precision rather than inventing a correlation.
+Pooling readiness: YES for the quantitative EEG evidence set / sensitivity framework. PTE remains its own connectivity family and does not by itself create a conventional pooled PTE model unless compatible independent k reaches the protocol threshold. Multiple pathways are dependent within cohort UTSW-1064-MEGEEG-25.
+Potential effect-selection rule: If variance is resolved, preselect one biologically justified pathway per band or include all eligible edges as dependent outcomes clustered within cohort. Do not cherry-pick the largest d.
+
+
+L. Missingness / Cohort Audit
+Cohort overlap conclusion: CONFIRMED SAME COHORT AS PRUITT 2024. Exact demographic and protocol matching makes independent counting inappropriate.
+Information redundancy conclusion: NOT FULLY REDUNDANT. Bastola adds sham-controlled paired analyses absent from the Pruitt 2024 publication and therefore can change quantitative eligibility for this cohort.
+Current master implication after author response: Promote UTSW-1064-MEGEEG-25 to a quantitative controlled EEG/MEG cohort represented by Bastola 2026. Pruitt 2024 remains a companion uncontrolled report. This previously uncounted cohort adds +1 to the quantitative EEG independent-cohort inventory: k=9 -> k=10.
+Remaining nonblocking precision item: If the authors later provide the within-participant active-sham correlation, exact paired t values, SEs, or raw PTE dM. AUTHOR RESPONSE UPDATE — 26/08/2026
+Subrat Bastola confirmed by email that all paired active-versus-sham PTE Cohen's d values in the report are d_av, computed as d_av = (M_active - M_sham) / sqrt[(SD_active^2 + SD_sham^2)/2]. This resolves the effect-size-denominator ambiguity that previously prevented quantitative classification.
+
+
+Quantitative conversion used for the master dataset (n=25 paired): paired-sample Hedges correction J=1-3/[4(n-1)-1]=92/95=0.968421. The author's quantity is preserved as author-defined d_av: it uses the root-mean-square marginal SD, sqrt[(SD_active^2+SD_sham^2)/2], rather than silently substituting another paired standardizer. Because the active-sham correlation was not supplied, sampling variance is intentionally approximated using a conservative independent-groups Hedges-g formula with n=25 per condition; paired variance should replace this if correlation/raw data become available.
+- Alpha BA9 -> BA6: author d_av=.68; g=.658526; working variance=.084517.
+- Alpha BA6 -> BA4: author d_av=.74; g=.716632; working variance=.085350.
+- Beta BA6 -> BA4: author d_av=.82; g=.794105; working variance=.086569.
+- Beta BA4 -> BA3: author d_av=.46; g=.445474; working variance=.082067.
+- Beta BA3 -> BA22: author d_av=.58; g=.561684; working variance=.083286.
+
+
+Final classification: QUANTITATIVE EEG/MEG CONNECTIVITY — CONTROLLED, PAIRED, AUTHOR-RESOLVED d_av; variance-conservative sensitivity flag. All five effects are dependent within cohort UTSW-1064-MEGEEG-25. Pruitt 2024 and Bastola 2026 count as one cohort, with Bastola serving as the quantitative representative. This cohort increases the quantitative EEG independent-cohort count from k=9 to k=10. Cognition k is unaffected.
+Next action: Bastola 2026 is the preferred controlled quantitative report for cohort UTSW-1064-MEGEEG-25; enter the five reported primary PTE pathways as dependent effects, cluster within cohort, and retain Pruitt 2024 as the companion source-imaging report.

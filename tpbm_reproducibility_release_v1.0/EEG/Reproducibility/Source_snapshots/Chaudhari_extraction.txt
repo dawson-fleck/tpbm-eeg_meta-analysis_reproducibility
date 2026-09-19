@@ -1,0 +1,485 @@
+Data collection form
+Transcranial Photobiomodulation, Cognitive Outcomes, EEG Biomarkers, and Closed-Loop Potential 
+Review type: Systematic scoping review with evidence map
+Primary question: What evidence exists that tPBM improves cognitive outcomes in adults with healthy aging, MCI, TBI-related cognitive impairment, early Alzheimer’s disease, or mild-to-moderate dementia?
+Secondary question: How has EEG been used to measure, monitor, predict, or guide tPBM-related cognitive effects? 
+This form can be used as a guide for developing your own data extraction form. Sections can be expanded and added, and irrelevant sections can be removed. It is difficult to design a single form that meets the needs of all reviews, so it is important to consider carefully the information you need to collect, and design your form accordingly. Information included on this form should be comprehensive, and may be used in the text of your review, ‘Characteristics of included studies’ table, risk of bias assessment, and statistical analysis. 
+Notes on using a data extraction form: 
+Be consistent in the order and style you use to describe the information for each included study. 
+Record any missing information as unclear or not described, to make it clear that the information was not found in the study report(s), not that you forgot to extract it. 
+Include any instructions and decision rules on the data collection form, or in an accompanying document. It is important to practice using the form and give training to any other authors using the form.
+You will need to protect the document in order to use the form fields (Tools / Protect document)
+General Information
+2. Eligibility
+3. Population
+4. tPBM Intervention Parameters
+5. EEG / Neurophysiology
+6.  Cognitive and Clinical Outcomes 
+7. Safety and Feasibility
+8. Quality/ Risk of Bias
+9. Manuscript Use
+J. Quantitative Synthesis / Meta-analysis Allocation
+K. Outcome-Level Meta-analysis Data
+L. EEG + tPBM Specific Meta-analysis Variables
+Quantitative EEG Recovery Audit — 25 August 2026
+Recovery source: published Figures 8 (TP1) and 9 (TP2). Each figure reports S8−S1 normalized network-power change (ΔnP) for sham and tPBM with SEM error bars across 12 gSVD/eLORETA networks and five frequency bands. The authors compared active and sham using two-sample nonparametric ranksum tests. All available bars were digitized, including non-significant outcomes, to avoid significance-based outcome selection.
+Recovered effect summary by time period and frequency band
+Interpretation note: the sign of g represents higher versus lower ΔnP in tPBM relative to sham; it is not coded as clinically favorable/unfavorable. The large number of correlated effects requires dependence-aware estimation. The full 120-row digitized dataset, rather than this summary, is the analysis input.
+Review title or ID
+     Transcranial Photobiomodulation for Cognitive Enhancement and Rehabilitation: A Systematic Scoping Review of Cognitive Outcomes, EEG Biomarkers, and Closed-Loop Neuromodulation Potential 
+Study ID (surname of first author and year first full report of study was published e.g. Smith 2001) 
+    Chaudhari et al, 2023
+Report IDs of other reports of this study (e.g. duplicate publications, follow-up studies)
+     na
+Notes:        na
+Date form completed (dd/mm/yyyy)
+Date form completed (dd/mm/yyyy)
+     06/03/26
+Name/ID of person extracting data
+Name/ID of person extracting data
+     Dawson
+Report title 
+(title of paper/ abstract/ report that data are extracted from)
+Report title 
+(title of paper/ abstract/ report that data are extracted from)
+     Repeated Transcranial Photobiomodulation with
+Light-Emitting Diodes Improves Psychomotor Vigilance and
+EEG Networks of the Human Brain
+Report ID
+(if there are multiple reports of this study)
+Report ID
+(if there are multiple reports of this study)
+     na
+Reference details
+Reference details
+     Chaudhari A, Wang X, Wu A, Liu H. 2023. Repeated transcranial photobiomodulation with light-emitting diodes improves psychomotor vigilance and EEG networks of the human brain. Bioengineering. 10(9):1043. doi:10.3390/bioengineering10091043. 
+Publication type
+(e.g. full report, abstract, letter)
+Publication type
+(e.g. full report, abstract, letter)
+     Research Article
+Evidence category
+Evidence category
+Core tPBM cognition evidence
+Clinical cognitive impairment evidence
+MCI/AD/dementia evidence
+TBI/post-concussion evidence
+EEG/neurophysiology evidence
+Direct EEG + tPBM evidence
+Combined/adjunctive neuromodulation
+Case/proof-of-concept evidence
+Protocol/ongoing trial
+Excluded
+
+Directness of evidence	
+Directness of evidence	
+Direct
+Indirect
+Mechanistic
+Protocol only
+Excluded
+Reason for inclusion/exclusion (3-5 words)
+Reason for inclusion/exclusion (3-5 words)
+tPBM, psychomotor vigilance, EEG networks
+Use in manuscript
+Use in manuscript
+Main evidence table
+EEG table
+Safety table
+Background only
+
+Study funding source
+(including role of funders)
+Study funding source
+(including role of funders)
+     Translational Research Institute for Space Health (TRISH), sponsored by NASA, grant NNX16A069A. 
+Possible conflicts of interest
+(for study authors)
+Possible conflicts of interest
+(for study authors)
+     None declared. 
+Notes: 
+     na
+     na
+Study Characteristics
+Review Inclusion Criteria
+Location in Text
+Design
+Highlight all that apply: randomized controlled trial; sham-controlled trial; nonrandomized trial; pre-post study; pilot study; feasibility study; proof-of-concept study; dose-response study; mechanistic human study; case report; case series; protocol/ongoing trial; other. 
+2.2 Experimental Setup and Protocol
+Blinded?	
+Double-blind / single-blind / assessor-blind / not blinded / unclear / N/A 
+Intervention
+Highlight all that apply: transcranial photobiomodulation; transcranial low-level laser therapy; transcranial low-level light therapy; transcranial near-infrared stimulation; transcranial infrared laser stimulation; transcranial LED stimulation; photoneuromodulation applied to the head/brain; transcranial PBM combined with intranasal PBM; transcranial PBM combined with intraoral PBM; transcranial PBM combined with another active intervention. 
+EEG Relevance
+Highlight all that apply: no EEG; EEG outcome measure; resting-state EEG; task-based EEG; qEEG; ERP; oscillatory activity; power spectral density; coherence/connectivity; network topology; EEG biomarker; EEG response prediction; EEG-guided stimulation; closed-loop stimulation; machine-learning prediction; fNIRS/hemodynamic outcome; other neurophysiology. 
+Outcome Measures
+Highlight all that apply: working memory; attention; vigilance; executive function; processing speed; episodic memory; visual memory; verbal fluency; language processing; global cognition; cognitive efficiency; cognitive fatigue/mental effort; cognitive symptoms; EEG/neurophysiological change; cerebral oxygenation/hemodynamic response; safety; feasibility; tolerability; adherence; dose-response; treatment parameter comparison; mood/quality of life with cognitive relevance. 
+17. Follow-up duration
+Study lasted 4 wk with no follow-up afterward 
+Decision
+Highlight one: Include; Exclude; Background only; Unclear/discuss with reviewer. 
+Field
+Response
+Location in Text
+Population Type
+Healthy young / healthy older / MCI / AD / dementia / TBI / post-concussion / ADHD / schizophrenia / bipolar / post-stroke / other 
+2.1 Study Participants
+Sample Size
+n = 22 randomized (11 active, 11 sham). EEG quality exclusions differed by visit: S1 = 7 active/9 sham; S8 = 8 active/8 sham. The article states that EEG observations were based on 16 participants, but it does not explicitly report the matched longitudinal sample used to generate each S8−S1 ΔnP bar in Figures 8–9.
+Experimental Groups
+Active, sham
+Mean age or age range
+26 +- 5 yr
+Sex distribution
+7/22 male
+Baseline cognitive status
+Normal / subjective decline / MCI / dementia / TBI-related impairment / other 
+Diagnostic criteria or screening tool
+MoCA / MMSE / clinical diagnosis / DSM / other / not reported 
+Key inclusion criteria
+EEG, tPBM, vigilance
+Key Exclusion criteria
+none
+Device name/model	
+Thor-LX2, THOR Photomedicine Inc. 
+2.2 Experimental Setup and Protocol
+Light source
+LED / laser / mixed / unclear 
+Wavelength, nm	
+660 and 810
+Power output
+nr, but calculated 0.96 W
+Irradiance/power density
+~30 mW/cm^2
+Fluence/energy density
+18 J/cm^2
+Total energy per session 
+576 J 
+Session duration
+10 min active/sham LED-tPBM per session 
+Number of sessions
+8 total sessions 
+Treatment frequency
+2 sessions/week 
+Total treatment Period
+4 wk
+Pulsed or continuous
+Pulsed / continuous / both / unclear 
+Pulse frequency, Hz
+na
+Dose Fully Reported?
+partial
+Calculated dose (if not provided)
+Fluence = 0.03 W/cm² × 600 s = 18 J/cm²; total energy = 18 J/cm² × 32 cm² = 576 J 
+Calculation assumptions
+Used reported irradiance ~30 mW/cm², aperture area 32 cm², and 10-min exposure. Sham power set to 0.0 W. 
+Confidence in dose extraction
+Moderate-high; key parameters are reported, but power output is calculated rather than directly stated. 
+Duty cycle
+100%
+Brain target/site
+right PFC
+Laterality
+Left / right / bilateral / midline / whole head / unclear 
+Transcranial only? 	
+Yes / No, combined with intranasal / intraoral / whole-body / other 
+Sham details 
+Same right-forehead LED-tPBM setup, but sham power set to 0.0 W; no active light dose delivered; participants wore goggles and were blinded to condition. 
+Co-interventions	
+Exercise / cognitive training / speech therapy / TMS / medication / none / unclear 
+Location in Text
+EEG used?	
+Yes / No 
+EEG role 
+None / outcome only / baseline measure / response prediction / treatment guidance / closed-loop feedback 
+Open-loop or closed-loop? 
+Open-loop / closed-loop / EEG-monitored only / N/A 
+EEG type 
+Resting EEG / task EEG / qEEG / ERP / network analysis / other / N/A 
+EEG Timing	
+Baseline / during stimulation / post-treatment / follow-up / N/A 
+EEG metrics
+64-channel EEG; normalized PSD across delta/theta/alpha/beta/gamma bands; topographical EEG power; global nPSD64; sham-subtracted nPSD; gSVD-derived EEG network components; eLORETA source localization; EEG network power changes.  
+EEG changed after tPBM? 
+Yes / No / Mixed / Not tested 
+Algorithm/ model used?	
+Group singular value decomposition (gSVD) combined with eLORETA source localization to identify 12 EEG brain networks and quantify network power changes after repeated LED-tPBM. MATLAB ranksum  nonparametric tests were used for between-group network power comparisons. 
+fNIRS/hemodynamics measured? 
+Yes / No 
+Hemodynamic finding 
+na
+Location in text
+Direct Cognitive Outcome
+tPBM significantly increased psychomotor vigilance in 8 treatments over 4 wk compared to the sham.
+Cognitive Domain
+Working memory / attention / vigilance / executive function / processing speed / episodic memory / visual memory / language / global cognition / cognitive efficiency / other 
+Cognitive Test/Tool Used	
+Psychomotor Vigilance Task (PVT)
+EEG/neurophysiological Outcomes
+64-channel EEG; normalized PSD across delta, theta, alpha, beta, gamma; topographical EEG power maps; gSVD + eLORETA-derived EEG brain networks; network power changes after 4 weeks. 
+Timepoints measured
+PVT measured twice per session across 8 sessions over 4 weeks = 16 reaction-time measurements. EEG measured only during S1/week 1 and S8/week 4, during the 10-min sham/tPBM period split into TP1 and TP2. 
+Direction of Cognitive Effect
+Improved / no change / worse / mixed (reaction times decreased for the experimental group)
+Statistically Significant?
+Yes for PVT reaction time improvement in active tPBM group; sham did not reach significance. Selected EEG outcomes also significant.  
+Statistical test/model
+Behavioral: linear regression/Pearson correlation trend over sessions. EEG: paired t-tests for rest vs PVT pooling check; cluster-based permutation testing for EEG topography; two-sample nonparametric ranksum tests for gSVD/eLORETA network power changes. 
+p-values
+PVT active tPBM: p = 0.002. Sham: p = 0.07. EEG topography/network results reported using thresholds p < 0.05 and p < 0.01. 
+Effect Size Reported?	
+No standardized effect size was reported by the authors. Figures 8–9 report group-level S8−S1 ΔnP means with SEM error bars; these were digitized on 25/08/26 to recover standardized quantitative EEG effects.
+Durability of Effect
+sustained over the 4 wk period with no follow-up
+Confidence Interval
+nr
+Multiple Comparison Correction?
+Yes for EEG topography via cluster-based permutation testing. Unclear/limited for gSVD network comparisons; many ranksum tests were reported with p-thresholds but no clear global correction. Not reported for PVT trend analysis. 
+Mood/QOL outcomes
+nr
+Author’s Main Cognitive Conclusion
+repeated tPBM induced increased PVT compared to control and this was mirrored in the EEG readings. More work needs to be done wiith a simpler experimental design and larger sample size.
+Your interpretation and perceived significance 
+Very strong study for the review paper. Establishing within-study correlations between improvements in EEG readings and improvements in cognitive ability. 
+Location in Text
+Adverse Events Reported?
+Yes / No / Not reported 
+nr
+Type of Adverse Events
+nr
+Dropouts/Withdrawals
+Not reported as dropouts. EEG exclusions occurred due to data-quality criteria: 6 removed from EEG analysis at first visit and 6 at last visit, but these were not adverse-event withdrawals. 
+Adherence/Compliance
+Appears good, but not quantified. Participants completed repeated sessions over 4 weeks; no adherence percentage reported. 
+Tolerability
+Likely good / not formally measured. Participants wore goggles and reportedly could not see or feel the light.  
+Home-use feasibility
+Yes / No / unclear / not discussed 
+Safety Conclusion
+No explicit safety conclusion
+Randomization Adequate?
+Yes / No / Unclear / N/A 
+Sham/control adequate?
+Yes / No / Unclear / N/A 
+Blinding adequate?
+Yes / No / Unclear / N/A 
+Attrition Concern?
+Low / some / high / unclear 
+Outcome measures validated?
+Yes / No / Mixed/ N/A 
+tPBM parameters sufficiently reported?
+Yes / No / partial 
+Main limitation
+small sample size, experimental design unnecessarily complex, no long-term followup, and no closed loop feedback
+Overall evidence strength for this study
+High / moderate / low / preliminary 
+Directly addresses review question?
+Yes / partly / no 
+Relevance to tPBM cognition?
+High / moderate / low 
+Relevance to EEG-guided tPBM?
+Direct / indirect / none 
+Use in manuscript
+Main text / evidence table / EEG table / safety table / background only / exclude 
+One sentence takeaway
+EEG markers + vigilance task indicated a significant improvement after repeated stimulation using tPBM- need for dose-response curve and some standardization in regard to dosage and parameter reporting.
+Useful quotations
+“Such critical daily administration of tPBM appears to be the key to success and thus necessitates an understanding of the repeated effects of tPBM on the human brain.”
+
+“As tPBM is a relatively new research field, a dose-response curve has not yet been investigated or developed for most tPBM intervention protocols, particularly for the enhancement of cognition in healthy participants.”
+Notes for discussion
+none
+Field
+Response / decision rule
+Location in Text
+91. Planned synthesis category
+tPBM + cognition meta-analysis; EEG + tPBM meta-analysis; tPBM + EEG + cognition linked analysis; safety/feasibility narrative.
+Abstract; Methods sections 2.1-2.4; Figure 1
+92. Primary quantitative decision for this study
+EEG: INCLUDE in the dependence-aware multilevel/RVE quantitative synthesis. Figures 8–9 yield 120 dependent network-power effects (12 networks × 5 bands × TP1/TP2). Cognition/PVT remains separate and is not newly promoted here because a valid between-group PVT effect with uncertainty is still not directly recoverable.
+Abstract; Behavioral Data Analysis; PVT results
+93. Reason if excluded from meta-analysis
+Not excluded. Caveats: small sample, healthy young adults, EEG analysis sample smaller than enrolled sample, and no long-term post-treatment follow-up.
+Abstract; Methods sections 2.1-2.4; Figure 1
+94. Analysis design classification
+Randomized sham-controlled parallel-group repeated-treatment study over 4 weeks.
+Abstract; Methods sections 2.1-2.4; Figure 1
+95. Comparator used for pooled effect
+Sham LED-tPBM group.
+Abstract; Methods sections 2.1-2.4; Figure 1
+96. Time point selected for primary pooling
+End of treatment at 4 weeks for primary cognition effect. EEG can be extracted as acute first-session effect and repeated 4-week effect; keep separate.
+Abstract; Behavioral Data Analysis; PVT results
+97. Cognitive outcome hierarchy for pooling
+Primary cognitive outcome: psychomotor vigilance task reaction time. Domain: sustained attention/vigilance/processing speed.
+Abstract; Behavioral Data Analysis; PVT results
+98. EEG outcome hierarchy for pooling
+Repeated EEG endpoint: all digitizable S8−S1 normalized network-power (ΔnP) effects across 12 gSVD/eLORETA networks, delta/theta/alpha/beta/gamma bands, and TP1/TP2. Retaining all figure-available effects avoids selecting only statistically significant networks.
+Abstract; EEG preprocessing; gSVD + eLORETA methods; Results
+99. Effect size type planned
+Between-group SMD/Hedges g or mean difference for PVT reaction time; SMD for EEG normalized PSD/network power if numeric data are extractable.
+Abstract; Behavioral Data Analysis; PVT results
+100. Raw data sufficient for effect size?
+Yes for repeated EEG network power after figure digitization. Figures 8–9 provide group means and SEM for every network × band × TP cell. Standardized effects are approximate because the exact matched longitudinal n underlying ΔnP is not explicitly reported.
+Abstract; Behavioral Data Analysis; PVT results
+101. Duplicate sample or overlapping report?
+No confirmed duplicate sample. Same research group as Wang/Shahdadian, but this is an LED repeated-treatment PVT study and appears distinct from the acute 1064-nm laser datasets.
+Abstract; Methods sections 2.1-2.4; Figure 1
+102. Number of independent effects extracted
+1 independent EEG study; 120 dependent effect sizes recovered from Figures 8–9. These must be nested/clustered within Chaudhari 2023 and must never be counted as 120 independent studies.
+Abstract; Behavioral Data Analysis; PVT results
+Field
+Response / decision rule
+Location in Text
+103. Outcome row ID
+Cog-1: PVT reaction time over 4 weeks. EEG-1: acute LED-tPBM PSD change during S1. EEG-2: repeated 4-week EEG network/nPSD change from S1 to S8.
+Abstract; Behavioral Data Analysis; PVT results
+104. Synthesis label for this outcome
+Cog-1 = tPBM + cognition. EEG-1/EEG-2 = EEG + tPBM. Linked EEG-cognition = exploratory association.
+Abstract; Behavioral Data Analysis; PVT results
+105. Exact outcome or EEG metric
+PVT reaction time; 64-channel normalized PSD in delta/theta/alpha/beta/gamma; gSVD + eLORETA EEG network powers.
+Abstract; EEG preprocessing; gSVD + eLORETA methods; Results
+106. Outcome direction coding
+Lower/faster PVT reaction time coded as improved vigilance. Higher task-related or repeated EEG network/power changes coded as EEG modulation, with direction interpreted by band/network.
+Abstract; Behavioral Data Analysis; PVT results
+107. Time point for this outcome
+PVT measured twice per visit across 8 sessions over 4 weeks. EEG measured during S1 and S8, with acute 10 min stimulation epochs and repeated S8 vs S1 comparison.
+Abstract; Behavioral Data Analysis; PVT results
+108. Active tPBM data
+11 assigned to active tPBM. EEG usable records: S1 n=7 active; S8 n=8 active after artifact exclusions. For standardized figure recovery, n=8 is used as the primary working approximation, with the S1 7/9 versus S8 8/8 discrepancy flagged for sensitivity analysis.
+Abstract; Methods sections 2.1-2.4; Figure 1
+109. Comparator data
+11 assigned to sham. EEG usable records: S1 n=9 sham; S8 n=8 sham after artifact exclusions. For standardized figure recovery, n=8 is used as the primary working approximation; sample-size ambiguity is explicitly retained as a sensitivity limitation.
+Abstract; Methods sections 2.1-2.4; Figure 1
+110. Effect size extracted or calculated
+Recovered from Figures 8–9 by digitizing each group mean and SEM for ΔnP. SEM was converted to SD using SD = SEM×√8, followed by independent-groups Hedges g for active versus sham. 120 effect-level g and sampling-variance values are stored in Master Meta-Analysis Data. This is an approximate figure-derived standardization because the matched longitudinal n is not explicitly stated.
+Abstract; Behavioral Data Analysis; PVT results
+111. Multiple outcome handling
+Retain all 120 network × band × TP effects in the effect-level dataset, but model their dependence by nesting/clustering within Chaudhari 2023 (multilevel/RVE). Do not treat individual networks as independent studies and do not select only starred/significant networks.
+Abstract; Behavioral Data Analysis; PVT results
+112. Notes for pooling
+Repeated-treatment network-power effects are quantitative and included. Band, TP, and network are coded at the effect level. Primary working standardization assumes n=8/8 from the 16-participant EEG dataset; rerun a sample-size sensitivity using the reported S1 composition (7 active/9 sham). Acute S1 topographic PSD remains a separate outcome family.
+Abstract; EEG preprocessing; gSVD + eLORETA methods; Results
+Field
+Response / decision rule
+Location in Text
+113. EEG role in the study
+Outcome biomarker plus linked electrophysiological evidence accompanying improved vigilance; not treatment-guidance or closed-loop.
+Abstract; EEG preprocessing; gSVD + eLORETA methods; Results
+114. EEG acquisition state
+Task EEG during PVT and rest epochs during LED-tPBM/sham sessions S1 and S8.
+Abstract; EEG preprocessing; gSVD + eLORETA methods; Results
+115. EEG recording montage and hardware
+64-channel Biosemi EEG, 512 Hz acquisition, recorded continuously during the 20 min experiment in sessions S1 and S8.
+Abstract; EEG preprocessing; gSVD + eLORETA methods; Results
+116. EEG preprocessing quality
+EEGLAB preprocessing, 0.5-70 Hz bandpass, 60 Hz notch, common-average re-reference, ICA artifact removal, 1-sec epochs, outlier/SD-based epoch rejection.
+Abstract; EEG preprocessing; gSVD + eLORETA methods; Results
+117. EEG scalp region or network selected
+Right forehead stimulation; 64-channel scalp topographies and gSVD/eLORETA source-localized networks.
+Section 2.2; Table 1; Figure 1
+118. EEG frequency/ERP/network endpoint
+Normalized PSD in delta, theta, alpha, beta, gamma; gSVD + eLORETA network powers including DMN/executive/frontoparietal-type networks.
+Abstract; EEG preprocessing; gSVD + eLORETA methods; Results
+119. EEG-cognition temporal linkage
+Strong temporal linkage: EEG and PVT were recorded in the same sessions during active/sham repeated-treatment protocol, but formal causal mediation/prediction remains exploratory.
+Abstract; Behavioral Data Analysis; PVT results
+120. EEG statistical model
+Cluster-based permutation tests for topographies; gSVD + eLORETA network algorithm; group comparisons/rank-sum tests for network changes.
+Abstract; EEG preprocessing; gSVD + eLORETA methods; Results
+121. EEG data extractability
+Quantitatively recoverable. Figures 8–9 provide group ΔnP means and SEM for all 12 networks in five bands during TP1 and TP2. All 120 figure-derived effects were recovered for multilevel/RVE analysis. Caveat: exact matched longitudinal n for each ΔnP estimate is not explicitly reported; n=8/8 is the primary working approximation and must be sensitivity-tested.
+Abstract; EEG preprocessing; gSVD + eLORETA methods; Results
+122. Closed-loop relevance
+Theoretical only. EEG was measured concurrently but did not adapt stimulation in real time.
+Abstract; EEG preprocessing; gSVD + eLORETA methods; Results
+Recovery item
+Decision / value
+Independent study count
+1 independent randomized sham-controlled study
+Dependent effects recovered
+120 (12 networks × 5 bands × 2 time periods)
+Author-significant cells
+43 cells flagged in Table 3 / Figures 8–9
+Digitized quantities
+Sham mean ΔnP, sham SEM, tPBM mean ΔnP, tPBM SEM
+Primary working n
+n=8 active and n=8 sham for SEM→SD/SMD conversion
+Sample-size caveat
+S1 had 7 active/9 sham and S8 had 8/8; exact matched longitudinal n is not explicitly stated
+Effect calculation
+SD=SEM×√n; pooled-SD standardized mean difference; Hedges small-sample correction; standard SMD sampling variance
+Analysis status
+INCLUDE—controlled repeated-treatment EEG network power; multilevel/RVE only
+Dependence rule
+Cluster/nest all 120 effects within Chaudhari 2023; never count individual effects as independent studies
+Master-sheet location
+Outcome Data and EEG Analysis Input; full effect-level audit trail retained there
+TP
+Band
+Effects
+Author-significant
+g range
+Median g
+TP1
+Alpha
+12
+3
+-0.21 to 3.39
+1.00
+TP1
+Beta
+12
+5
+-0.24 to 3.10
+1.48
+TP1
+Delta
+12
+1
+-1.55 to 2.59
+1.12
+TP1
+Gamma
+12
+4
+0.40 to 3.96
+1.47
+TP1
+Theta
+12
+5
+-0.81 to 3.63
+1.64
+TP2
+Alpha
+12
+4
+-1.59 to 2.01
+0.03
+TP2
+Beta
+12
+4
+-1.56 to 1.86
+0.60
+TP2
+Delta
+12
+5
+-1.14 to 1.53
+0.73
+TP2
+Gamma
+12
+6
+-1.51 to 2.37
+0.71
+TP2
+Theta
+12
+6
+-1.51 to 2.47
+0.53

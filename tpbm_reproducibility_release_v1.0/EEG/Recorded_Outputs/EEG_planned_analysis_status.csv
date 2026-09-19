@@ -1,0 +1,18 @@
+﻿planned_analysis,status,reason
+Snapshot and overlap audit,COMPLETE,223 records; cohort links retained
+Source-effect reconstruction,COMPLETE WITH LIMITS,205 arithmetic checks pass; 2 unreconstructed; 5 quarantined
+Study-level intervals and figures,COMPLETE,"207 provisional estimates, no pooled diamonds"
+Chaudhari 8/8 versus 7/9 sensitivity,COMPLETE,120 effects; 480 independent R comparisons
+Family/band/state/timing/anatomy pooling,NOT ELIGIBLE,No compatible family reaches 3 independent datasets
+Multilevel or robust-variance synthesis,NOT ELIGIBLE,Dependent rows are not independent studies; incompatible constructs remain separate
+Fixed versus random effects; heterogeneity,NOT RUN,No eligible pooled model
+Prediction intervals,NOT RUN,No eligible pool; protocol additionally requires at least 5 datasets
+Moderator/subgroup analyses,NOT RUN,Insufficient compatible independent datasets
+Leave-one-out and influence diagnostics,NOT RUN,No pooled model to diagnose
+Exclusion sensitivities,INVENTORY COMPLETE; MODELS NOT RUN,Restrictions cannot create an eligible pool
+Assumed paired r=.2/.5/.8,NOT ESTIMABLE WHERE MISSING,Observed paired statistics retained; missing marginal SD/estimand information not invented
+Funnel/asymmetry analyses,NOT RUN,No homogeneous pool; protocol requires at least 10 independent studies
+EEG–cognition association synthesis,DISCUSSION ONLY,One within-paper record; no independent-study meta-analysis
+Risk of bias and certainty,REVIEWER ADJUDICATION REMAINS,No automated final GRADE/JBI judgement
+Zomorrodi source repair,UNRESOLVED,No author clarification available; preserve and quarantine 5 rows
+Original He/Bastola correspondence,PROVENANCE LIMIT,Transcribed extraction/master values used; original replies not retrieved

@@ -1,0 +1,4 @@
+tpbm-reproducibility-release v1.0
+Frozen: 2026-09-19
+Manuscript: manuscript 1.5
+Analysis: source-corrected 17-cohort cognition models plus non-pooled EEG audit

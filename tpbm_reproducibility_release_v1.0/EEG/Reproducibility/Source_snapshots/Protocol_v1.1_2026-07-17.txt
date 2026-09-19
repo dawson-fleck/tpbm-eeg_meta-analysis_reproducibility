@@ -1,0 +1,540 @@
+﻿Transcranial Photobiomodulation for Cognitive Outcomes in Adults
+A Systematic Review and Meta-analysis with Exploratory Meta-analyses of Electroencephalographic Biomarkers
+
+
+Protocol version 1.1
+Protocol lock date: 17 July 2026
+Planned registration: PROSPERO and OSF Registries
+Review status at protocol lock: searching, screening, data extraction, and critical appraisal are substantially advanced. A preliminary quantitative analysis was completed on 16 July 2026. Final publication analyses under this amended protocol have not begun.
+
+
+PROTOCOL LOCK STATEMENT
+This document records the final publication-analysis plan as amended on 17 July 2026. The review and a preliminary quantitative analysis preceded this protocol version. On 16 July 2026, the team generated preliminary pooled estimates, confidence intervals, heterogeneity statistics, leave-one-out analyses, and forest plots under the separately dated Locked Random-Effects Meta-Analysis Strategy and Methods. The present registration is therefore retrospective with respect to searching, screening, data extraction, critical appraisal, and preliminary quantitative analysis. It is prospective only for the remaining final publication analysis, incorporation of outstanding data, final sensitivity analyses, and manuscript-level interpretation. Every substantive difference between the 16 July strategy and this 17 July protocol is reported in the amendment history. Because preliminary results had already been viewed, those changes are treated as post-preliminary-analysis amendments regardless of their rationale.
+
+
+PRELIMINARY QUANTITATIVE ANALYSIS COMPLETED BEFORE VERSION 1.1
+On 16 July 2026, before this protocol version was finalized, the team completed and inspected a preliminary R-based meta-analysis using the separately dated Locked Random-Effects Meta-Analysis Strategy and Methods. The run used eight cognition studies and two-study exploratory EEG band analyses. It produced pooled estimates, Hartung-Knapp confidence intervals, heterogeneity statistics, leave-one-out analyses, and forest plots.
+
+
+The validated preliminary cognition result was Hedges g = 0.530 (95% Hartung-Knapp CI 0.298 to 0.763; p = 0.0010; I2 approximately 0%) across eight studies. A sensitivity analysis excluding the approximate MCI effect included seven studies and yielded g = 0.533 (95% CI 0.257 to 0.809; p = 0.0033; I2 = 5.9%). The cognition estimate remained statistically significant in all leave-one-out analyses; Yang 2024 was influential but its removal did not eliminate the pooled association.
+
+
+The exploratory two-study EEG diagnostics yielded g = 1.033 for gamma (95% CI -0.162 to 2.229; p = 0.0578) and g = 1.111 for beta (95% CI -1.808 to 4.030; p = 0.1298). Because the amended 17 July protocol requires at least three compatible independent datasets, these two-study EEG results will remain internal preliminary diagnostics and will not be presented as protocol-eligible final meta-analyses unless additional compatible data become available.
+
+
+These preliminary results are not treated as confirmatory findings under this amended protocol. Final publication analyses will be rerun from the verified dataset after completion of the updated search, resolution of outstanding author queries and sample-overlap questions, and application of the amended rules below. The original strategy, preliminary inputs, code, audit files, numerical outputs, and figures will be preserved with the OSF record so readers can reconstruct the chronology.
+AUTHORS AND RESPONSIBILITIES
+Dawson Fleck — guarantor and lead reviewer; protocol development; search and screening coordination; data extraction coordination; preliminary quantitative analysis; planned final publication analysis; manuscript drafting.
+Jeff Roszell — senior reviewer; methodological review; eligibility and extraction verification; adjudication.
+Utkarsh Gupta — senior reviewer; scientific and methodological review; eligibility and extraction verification; adjudication.
+
+
+Review affiliation: Independent review team. Institutional affiliations will be reported accurately for each author at registration and manuscript submission.
+
+
+Funding: No dedicated external funding has been identified for this systematic review.
+
+
+Competing interests: All members of the review team are involved in NeoPhotera, an early-stage venture developing EEG-informed transcranial photobiomodulation technology. This creates a potential intellectual and future financial interest in the topic. Bias-mitigation measures include public preservation of the original 16 July analysis strategy, explicit disclosure of the preliminary analysis and all subsequent amendments, outcome-selection rules independent of statistical significance, dual verification of eligibility and extracted data, domain-level critical appraisal, sensitivity analyses, and public sharing of the protocol, extraction dataset, code, and analysis outputs.
+
+
+1. BACKGROUND AND RATIONALE
+Transcranial photobiomodulation (tPBM) delivers red or near-infrared light through the scalp with the goal of altering cerebral metabolism, hemodynamics, electrophysiology, or function. Human studies have evaluated tPBM across healthy adults, older adults, mild cognitive impairment, dementia, traumatic brain injury, psychiatric or neurological conditions, and other populations with cognitive symptoms. Protocols vary substantially in wavelength, light source, irradiance, fluence, total energy, pulse frequency, duty cycle, anatomical target, number of sessions, and follow-up interval.
+
+
+A quantitative synthesis is needed because individual studies are generally small, outcome measures are heterogeneous, and the literature includes both cognitive efficacy studies and mechanistic electroencephalography (EEG) studies. The primary evidence stream will estimate cognitive effects of tPBM. A separate exploratory evidence stream will synthesize EEG outcomes where constructs, contrasts, and numerical data are sufficiently comparable. EEG measurement will not be described as closed-loop treatment unless stimulation was actually modified in real time or between sessions using EEG-derived information.
+
+
+The project’s earliest planning materials described a broader comparison against other neuromodulation techniques, and some extraction forms retained the label “systematic scoping review.” Before the 16 July 2026 preliminary quantitative analysis, the review was redefined as a systematic review and meta-analysis of tPBM with exploratory EEG meta-analyses. Other neuromodulation studies are not eligible unless they contain an eligible tPBM arm. The earlier labels are superseded by this protocol but will be retained as an auditable record of protocol development.
+
+
+2. OBJECTIVES AND REVIEW QUESTIONS
+2.1 Primary objective
+To estimate the effect of active tPBM, compared primarily with sham or inactive control, on cognitive performance in adults. Passive, usual-care, and active-control comparisons will be analyzed separately as secondary evidence.
+
+
+2.2 Secondary objectives
+To determine whether cognitive effects vary according to population, baseline cognitive status, wavelength, light source, stimulation mode, irradiance, fluence, total energy, treatment duration, number of sessions, anatomical target, delivery route, and follow-up interval.
+
+
+To quantitatively synthesize tPBM-related changes in EEG outcomes when at least three independent datasets report sufficiently comparable constructs, contrasts, timing, and statistics.
+
+
+To evaluate whether EEG changes are associated with cognitive outcomes and whether the evidence supports future biomarker-informed or closed-loop tPBM development.
+
+
+To summarize safety, tolerability, adherence, and feasibility.
+
+
+2.3 Review questions
+Among adults, what is the effect of active tPBM on validated cognitive outcomes relative to sham or inactive control?
+
+
+Which participant and treatment characteristics explain heterogeneity in cognitive effects?
+
+
+What effects does tPBM have on EEG spectral power, event-related potentials, connectivity, coherence, or network measures?
+
+
+Are EEG changes correlated with, predictive of, or used to guide cognitive response?
+
+
+3. REVIEW DESIGN, REPORTING, AND REGISTRATION
+This is a systematic review and meta-analysis of human intervention studies. Cognitive outcomes and EEG outcomes will be treated as distinct evidence streams. The protocol follows PRISMA-P principles, and the completed review will be reported according to PRISMA 2020. Quantitative methods will follow current Cochrane and JBI evidence-synthesis guidance where applicable.
+
+
+The protocol will be submitted to PROSPERO with full disclosure of the review stage and deposited as a frozen OSF registration. The OSF record and final manuscript will describe it as a retrospective registration and amended final-analysis plan, not as a preregistration. The record is retrospective for completed review stages and the 16 July preliminary analysis, and prospective only for the remaining final publication analysis.
+
+
+All changes made on 17 July 2026 relative to the separately locked 16 July strategy are listed in Section 17 with the original method, revised method, rationale, timing relative to the preliminary analysis, and likely interpretive consequence. Any later change will be entered in a dated amendment log. Deviations made after examining final pooled results will be labeled post hoc.
+
+
+4. ELIGIBILITY CRITERIA
+4.1 Population
+Eligible studies will include human adults aged 18 years or older. Populations may include healthy younger adults, healthy older adults, mild cognitive impairment, Alzheimer’s disease or other dementia, traumatic brain injury or post-concussion cognitive impairment, stroke, attention-deficit/hyperactivity disorder, psychiatric or neurological disorders, post-infectious cognitive symptoms, and other adult populations in which cognition or EEG is assessed.
+
+
+Mixed-age studies will be eligible when adult data are reported separately or when the sample is predominantly adult and the minimum age is at least 16 years; these studies will be examined in sensitivity analysis. Non-human studies and pediatric-only studies will be excluded.
+
+
+4.2 Intervention
+The intervention must deliver photobiomodulation transcranially to the head or scalp for cerebral neuromodulation. Eligible terminology includes transcranial photobiomodulation, transcranial low-level light or laser therapy, transcranial infrared laser stimulation, transcranial near-infrared stimulation, photoneuromodulation, and transcranial LED stimulation.
+
+
+Eligible wavelengths will generally fall between 600 and 1100 nm. Laser and LED sources, continuous and pulsed delivery, focal and multi-site delivery, single-session and repeated-session protocols, and any reported power or dose will be eligible.
+
+
+Transcranial-only treatment will define the primary intervention set. Studies combining transcranial treatment with intranasal, intraoral, whole-body, exercise, cognitive training, medication, or another active intervention may be included only when an eligible comparator permits isolation of the tPBM contribution or when they are analyzed as a distinct combined-route or adjunctive subgroup. Mixed-route studies will be excluded in a transcranial-only sensitivity analysis.
+
+
+Studies using near-infrared spectroscopy only for measurement, without therapeutic light delivery, will be excluded.
+
+
+4.3 Comparators
+For controlled cognitive syntheses, eligible comparators are sham tPBM, inactive device, no intervention, wait-list, usual care, or a passive control. Sham or inactive controls define the primary efficacy analysis. Passive, no-intervention, wait-list, and usual-care controls will be analyzed separately as secondary evidence.
+
+
+Active comparators, including exercise, cognitive training, medication, transcranial electrical stimulation, transcranial magnetic stimulation, or other neuromodulation, will be synthesized separately and will not be merged with sham or passive comparators in the primary analysis.
+
+
+For crossover studies, an eligible within-participant sham, inactive, or comparator condition is required for controlled analyses.
+
+
+4.4 Study designs
+The primary cognitive efficacy synthesis will include randomized controlled parallel-group or crossover studies.
+
+
+Nonrandomized controlled intervention studies will be included in a separate secondary synthesis and will not be pooled with randomized studies in the primary analysis.
+
+
+Uncontrolled pre-post studies may be summarized narratively and may undergo a separate exploratory standardized-mean-change meta-analysis only when at least three independent datasets are sufficiently comparable. Uncontrolled effects will never be interpreted as causal efficacy estimates.
+
+
+The EEG evidence stream may include randomized, nonrandomized controlled, crossover, and mechanistic pre-post human studies. Controlled and uncontrolled EEG designs will be analyzed separately.
+
+
+Case reports, case series without analyzable group data, qualitative studies, reviews, editorials, commentaries, protocols without results, animal studies, and purely in vitro studies will be excluded from quantitative synthesis. Conference abstracts and preprints may be included conditionally when they provide sufficient methods and numerical results; sensitivity analyses will exclude non-peer-reviewed reports.
+
+
+4.5 Outcomes
+A study must report at least one eligible cognitive or EEG outcome.
+
+
+Eligible cognitive outcomes include global cognition, attention, vigilance, working memory, episodic memory, visual memory, executive function, processing speed, language or verbal fluency, learning, cognitive efficiency, and validated cognitive symptom measures. Mood or quality-of-life outcomes without a cognitive component will not be pooled as cognitive outcomes.
+
+
+Eligible EEG outcomes include absolute or relative spectral power, power spectral density, band-limited delta, theta, alpha, beta, or gamma activity, event-related potential amplitude or latency, coherence, functional or effective connectivity, graph-theory or network measures, complexity or entropy measures, and other prespecified electrophysiological biomarkers.
+
+
+Safety outcomes include adverse events, withdrawals attributable to treatment, tolerability, adherence, and feasibility.
+
+
+4.6 Report characteristics
+No language restriction will be applied at the search stage. Translation assistance will be used when feasible. Full reports will be preferred over abstracts. When multiple reports describe the same sample, they will be linked and treated as one study; the most complete report will provide the primary data, with supplementary information taken from companion reports.
+
+
+5. INFORMATION SOURCES AND SEARCH STRATEGY
+5.1 Databases
+The core bibliographic databases are PubMed/MEDLINE, PsycINFO, Web of Science Core Collection, and IEEE Xplore. The initial broad search was completed by 26 November 2025 and yielded 32,207 records before deduplication and 29,943 after deduplication.
+
+
+Before the final publication analysis, all four database searches will be rerun using the locked two-stream strategy through 17 July 2026 or the actual rerun date, whichever is later. Any newly identified studies will be screened, extracted, appraised, and incorporated before the final analysis. Exact database-specific strings, filters, run dates, exported files, and result counts will be archived with the review.
+
+
+5.2 Supplementary searching
+Reference lists of included studies and relevant reviews will be backward searched. Forward citation searching will be conducted for included studies and key foundational studies. ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform will be searched for completed or ongoing trials. Corresponding authors will be contacted when reports are incomplete, when samples may overlap, or when pooling-ready statistics are missing.
+
+
+A final update search will be performed within 30 days before manuscript submission. Newly identified studies will be processed using the same eligibility, extraction, and appraisal procedures.
+
+
+5.3 Search concepts
+Two complementary searches will be used.
+
+
+Search A will combine tPBM terms with cognition terms.
+
+
+Search B will combine tPBM terms with EEG and electrophysiology terms.
+
+
+Database syntax, controlled vocabulary, truncation, proximity operators, and field restrictions will be adapted to each platform. The PubMed template is provided in Appendix A. Broad generic terms such as “neuromodulation” will not be used alone without a photobiomodulation or light-therapy qualifier.
+
+
+6. STUDY RECORDS AND SELECTION PROCESS
+6.1 Data management and deduplication
+Search results will be exported with complete citation metadata and imported into Zotero or another auditable reference-management system. Automated deduplication will be followed by manual duplicate review. Search exports, deduplication decisions, and the final study-identification dataset will be retained.
+
+
+6.2 Screening
+Titles and abstracts will be screened against the locked eligibility criteria. Potentially eligible records will undergo full-text review. Each final inclusion and each full-text exclusion will be verified by two reviewers. If any record was screened by only one reviewer earlier in the project, a second reviewer will verify that decision before synthesis.
+
+
+Disagreements will be resolved by discussion. Unresolved cases will be adjudicated by a third reviewer. Reasons for full-text exclusion will be recorded using mutually exclusive categories. The study-selection process will be reported in a PRISMA flow diagram.
+
+
+6.3 Data extraction
+A structured extraction form will be used. One reviewer may perform the initial extraction, but a second reviewer will verify all variables entering the final publication analysis against the source report before that analysis. Disagreements will be resolved by consensus or third-reviewer adjudication.
+
+
+Automated or AI-assisted extraction may be used to locate candidate information, but no value will enter the final analysis until a human reviewer verifies it against the source article, table, supplement, registry entry, or author communication.
+
+
+7. DATA ITEMS
+The following study-level items will be extracted: citation, country, setting, design, registration, funding, conflicts of interest, sample size, attrition, participant age and sex, population and diagnostic criteria, baseline cognitive status, inclusion and exclusion criteria, randomization, allocation concealment, blinding, comparator, follow-up, and overlapping reports or samples.
+
+
+The following intervention items will be extracted: device and manufacturer, laser or LED source, wavelength, power, irradiance, fluence, total energy per session, treatment area, duration, number and frequency of sessions, total treatment period, continuous or pulsed mode, pulse frequency, duty cycle, anatomical target, laterality, route, sham details, and co-interventions. Calculated dose variables will be labeled as calculated and the assumptions will be recorded.
+
+
+For cognition, extracted items will include outcome instrument, cognitive domain, scale direction, time point, group sample size, means and standard deviations or change scores, standard errors, confidence intervals, test statistics, and any prespecified primary outcome.
+
+
+For EEG, extracted items will include acquisition system, number and placement of electrodes, reference, sampling rate, preprocessing, artifact handling, resting or task state, eyes-open or eyes-closed condition, timing relative to stimulation, frequency-band definitions, region of interest, outcome metric, normalization method, and numerical summary data.
+
+
+Adverse events, withdrawals, adherence, tolerability, and feasibility will be extracted when reported.
+
+
+8. OUTCOME SELECTION AND TIME-POINT RULES
+8.1 Cognitive domains
+Substantively different cognitive domains will not be collapsed into a single primary estimate. Separate meta-analyses will be conducted for global cognition, attention or vigilance, working memory, episodic or visual memory, executive function, processing speed, and language when at least three independent controlled datasets are available.
+
+
+When a study reports multiple measures within the same domain and time point, selection will proceed in this order: the study’s prespecified primary measure; a validated domain composite; the measure most directly aligned with the domain definition; then the measure used by the greatest number of other eligible studies. The selection decision will be made without reference to statistical significance.
+
+
+Where statistical methods that account for dependence are available and justified, multiple eligible outcomes may be retained in a multilevel or robust-variance model. Otherwise, one effect per independent sample, domain, comparator, and time point will enter a conventional meta-analysis.
+
+
+8.2 Time points
+Immediate post-treatment will be the primary time point for acute single-session studies. For repeated-treatment studies, end of treatment will be the primary time point. Follow-up effects will be grouped as short term (more than immediate through 4 weeks), medium term (more than 4 weeks through 3 months), and long term (more than 3 months).
+
+
+If multiple assessments fall within one category, the assessment closest to the end of that category will be used unless the study prespecified another primary endpoint.
+
+
+8.3 EEG hierarchy
+EEG analyses will remain separated by metric family, acquisition state, and timing. Absolute and relative power will not be combined. Resting-state and task EEG will not be combined. During-stimulation, immediate post-stimulation, and repeated-treatment endpoints will not be combined. Frequency bands will be analyzed separately unless a study reports a validated composite.
+
+
+Connectivity, coherence, graph metrics, event-related potentials, entropy, and spectral power will be treated as different constructs. Network measures will be pooled only when the same or meaningfully equivalent metric and direction are reported.
+
+
+EEG changes will be described neutrally as increases or decreases. They will not be coded as beneficial solely because they resemble a hypothesized healthy pattern.
+
+
+9. MISSING AND DERIVED DATA
+Authors will be contacted for missing group means, standard deviations, change-score variances, within-participant correlations, sample sizes, or clarification of overlapping samples. At least two contact attempts separated by approximately 7 to 14 days will be made when the missing information could alter quantitative eligibility.
+
+
+Standard deviations may be derived from standard errors, confidence intervals, exact p values, t statistics, F statistics, or other reported quantities using established formulas. Values digitized from figures will be extracted independently or verified by a second reviewer and labeled as digitized.
+
+
+When change-score standard deviations are missing, a within-participant correlation may be derived from available data. If derivation is impossible, a correlation of 0.50 may be used for an exploratory calculation, with sensitivity analyses at 0.20 and 0.80. Imputed results will not be presented as directly reported data.
+
+
+Studies lacking sufficient numerical data after reasonable retrieval attempts will remain in the qualitative synthesis and will not be assigned invented effect sizes.
+
+
+10. CRITICAL APPRAISAL AND RISK OF BIAS
+Randomized controlled trials will be assessed with the JBI critical appraisal tool for randomized controlled trials used by the review team. Quasi-experimental and nonrandomized intervention studies will be assessed with the revised JBI tool appropriate to quasi-experimental designs. Other designs will be assessed using the most appropriate JBI design-specific tool.
+
+
+Two reviewers will independently complete or verify each appraisal. Disagreements will be resolved by consensus or third-reviewer adjudication. Appraisal will be reported by domain or item. Aggregate checklist totals will not be used as the sole basis for exclusion or as a substitute for domain-level interpretation.
+
+
+Primary analyses will include eligible studies regardless of appraisal result, but sensitivity analyses will exclude studies with major concerns in randomization, allocation concealment, comparator integrity, blinding where feasible, missing outcome data, or selective reporting.
+
+
+11. QUANTITATIVE SYNTHESIS
+11.1 General criteria
+A meta-analysis will be conducted only when at least three independent datasets are clinically and methodologically comparable. When pooling is inappropriate, findings will be synthesized narratively with structured tables.
+
+
+Randomized sham-controlled studies will form the primary cognitive efficacy analyses. Nonrandomized controlled studies, active-comparator studies, uncontrolled pre-post studies, combined-route studies, and conference abstracts will be analyzed separately or in sensitivity analyses.
+
+
+11.2 Effect measures
+For continuous parallel-group outcomes, the preferred effect is the between-group difference at post-treatment or the between-group difference in change. When the same instrument is used, mean difference will be considered. Otherwise, Hedges’ standardized mean difference with small-sample correction and 95% confidence interval will be used.
+
+
+The effect direction for cognition will be harmonized so positive values indicate better cognitive performance with active tPBM. Reaction time, error, and symptom scales will be reversed as necessary.
+
+
+Crossover studies will use paired effect estimates that incorporate within-participant dependence. Uncontrolled pre-post studies, when analyzed, will use standardized mean change and will remain separate from controlled effects.
+
+
+EEG effect measures will be selected according to the reported metric. Standardized mean differences will be used when scales or normalization differ but constructs remain comparable. Raw mean differences or log response ratios may be used when units and interpretation are consistent. Direction will represent increase or decrease in the EEG metric, not presumed clinical benefit.
+
+
+11.3 Multi-arm and dependent data
+Shared control groups will not be counted more than once. Clinically similar active arms may be combined. When preserving separate active arms is scientifically important, the control group will be split for conventional analyses or dependence will be modeled using multilevel meta-analysis or robust variance estimation.
+
+
+Overlapping publications or samples will be mapped before analysis. Only one estimate from a participant sample will contribute to a given pooled contrast unless a dependence-aware model is used.
+
+
+11.4 Statistical model
+Random-effects models will be used because genuine variation in populations, devices, dose, outcomes, and study design is expected. Between-study variance will be estimated using restricted maximum likelihood. Hartung-Knapp adjusted confidence intervals will be used when supported and appropriate.
+
+
+Heterogeneity will be reported using tau-squared and I-squared, together with the confidence interval for I-squared when available. A 95% prediction interval will be reported when at least five studies permit a meaningful estimate.
+
+
+Statistical heterogeneity will not by itself justify pooling studies that are clinically incompatible.
+
+
+11.5 Moderator and subgroup analyses
+The following moderators are prespecified: healthy versus clinical population; younger versus older adults; cognitively normal versus MCI or dementia; single-session versus repeated treatment; laser versus LED; continuous versus pulsed mode; wavelength category; focal frontal versus multi-site or whole-head treatment; transcranial-only versus combined route; immediate versus follow-up testing; randomized versus nonrandomized design; and industry-associated versus non-industry-associated study.
+
+
+Subgroup analysis or meta-regression will be attempted only when the number and distribution of studies are adequate. As a general rule, meta-regression will require approximately ten studies per modeled covariate. Moderator findings will be considered exploratory.
+
+
+Dose-response analyses may examine wavelength, irradiance, fluence, total energy, session number, treatment frequency, pulse frequency, and duty cycle. Because these parameters are interdependent and often incompletely reported, dose-response findings will be labeled exploratory and will not be interpreted causally without adequate data.
+
+
+11.6 EEG meta-analyses
+Exploratory EEG meta-analysis will require at least three independent datasets with compatible metric family, frequency band, state, timing, anatomical scope, and comparator. Planned families include spectral power or power spectral density, event-related potential amplitude, event-related potential latency, connectivity or coherence, and selected network measures.
+
+
+Acute and repeated-treatment EEG effects will be analyzed separately. EEG-only mechanistic studies may contribute to EEG synthesis but not cognition efficacy synthesis. Studies measuring both cognition and EEG may contribute non-overlapping outcomes to both streams without double-counting participants within either pooled analysis.
+
+
+Associations between EEG change and cognitive change will be meta-analyzed only when at least three independent studies report compatible correlations or regression estimates. Otherwise, the relationship will be summarized narratively.
+
+
+11.7 Sensitivity analyses
+Prespecified sensitivity analyses will, where data permit, exclude nonrandomized studies, uncontrolled studies, non-peer-reviewed reports, combined-route interventions, studies with major risk-of-bias concerns, studies with digitized or imputed data, industry-associated studies, and influential outliers.
+
+
+Additional sensitivity analyses will compare post-treatment versus change-score effects, alternative assumed within-participant correlations, fixed-effect versus random-effects models, and leave-one-out results.
+
+
+11.8 Small-study effects and reporting bias
+Funnel plots and regression-based tests for funnel-plot asymmetry will be used only when at least ten studies contribute to a sufficiently homogeneous meta-analysis. These analyses will be interpreted cautiously because asymmetry may reflect heterogeneity rather than publication bias. Selective outcome reporting will also be evaluated against protocols, registries, and methods sections when available.
+
+
+11.9 Software and reproducibility
+Primary conventional analyses are planned in jamovi using the MAJOR meta-analysis module, with the software and module versions recorded at analysis. R packages such as metafor, clubSandwich, or equivalent validated software may be used when multilevel models, robust variance estimation, specialized crossover calculations, or reproducibility checks exceed MAJOR’s capabilities.
+
+
+All analysis decisions, derived variables, code or syntax, input datasets, and output files will be archived. Any manual alteration of data will be traceable to the source and documented.
+
+
+12. NARRATIVE SYNTHESIS
+When quantitative pooling is not appropriate, studies will be grouped by population, design, cognitive domain, EEG construct, treatment schedule, wavelength, stimulation mode, and delivery route. Tables will distinguish controlled efficacy evidence from uncontrolled or mechanistic evidence. Narrative conclusions will consider effect direction, precision, consistency, risk of bias, dose reporting, and directness rather than vote counting based on statistical significance.
+
+
+13. CERTAINTY OF EVIDENCE
+GRADE will be used to assess certainty for the primary randomized cognitive outcome domains when sufficient evidence is available. Certainty will consider risk of bias, inconsistency, indirectness, imprecision, and publication bias. EEG analyses, nonrandomized analyses, and sparse moderator findings will generally be characterized as exploratory and will not be overstated.
+
+
+14. PATIENT AND PUBLIC INVOLVEMENT
+No patient or public contributor was involved in developing this protocol. The review uses published and publicly available study-level information.
+
+
+15. ETHICS, DISSEMINATION, AND DATA SHARING
+Ethics approval is not required because the review analyzes published or otherwise publicly available aggregate data and information provided by study authors.
+
+
+The completed review will be submitted to a peer-reviewed journal and may be presented at scientific meetings. The frozen protocol, amendment log, search strategies, study-selection dataset, extraction dataset, critical-appraisal decisions, and analysis materials will be deposited in an open repository to the extent permitted by copyright and privacy restrictions.
+
+
+16. REVIEW STATUS AT PROTOCOL LOCK
+As of 17 July 2026, the review team has completed substantial searching, screening, extraction, and critical appraisal. Author queries for missing data are ongoing. A preliminary quantitative analysis was completed and inspected on 16 July 2026. This protocol does not claim to precede that analysis. It records the amended rules that will govern the final publication analysis, and it preserves the original strategy, preliminary outputs, and every known change made after those outputs were available.
+
+
+17. AMENDMENT HISTORY
+17.1 Chronology
+Pre-analysis strategy — 16 July 2026. The document titled Locked Random-Effects Meta-Analysis Strategy and Methods, version 1.0, was locked before effect-size computation and pooling. It specified the initial quantitative rules used for the preliminary run.
+
+
+Preliminary analysis — 16 July 2026. The team completed and inspected the preliminary cognition and EEG analyses described above. The validated audit, inputs, code, numerical outputs, and figures are part of the project record.
+
+
+Protocol version 1.1 — 17 July 2026. The present protocol was finalized after the preliminary results were available. It therefore serves as a retrospective registration and amended final-publication-analysis plan. None of the following changes is represented as having been made before the preliminary results were viewed.
+17.2 Scope changes made before the preliminary analysis
+Review classification. The project changed from a scoping review or evidence map to a systematic review and meta-analysis with exploratory EEG evidence synthesis. This occurred before the preliminary analysis.
+
+
+Comparator question. The original requirement to compare tPBM with TMS, TES, TUS, or another neuromodulation method was removed before the preliminary analysis. Other neuromodulation studies remain eligible only when they contain an eligible tPBM arm and an analyzable comparator.
+
+
+Primary design. The primary cognition efficacy analysis was restricted before the preliminary analysis to randomized active-versus-sham or inactive-control comparisons. Nonrandomized controlled, active-comparator, combined-route, and uncontrolled studies were separated into secondary, sensitivity, exploratory, or narrative evidence streams.
+17.3 Amendments made on 17 July 2026 after preliminary results were inspected
+Amendment 1 — Registration status and chronology. Original: the full protocol was described as locked before quantitative synthesis and as prospective for the statistical synthesis plan. Revised: the record explicitly states that searching, screening, extraction, appraisal, and preliminary quantitative analysis had already occurred. Rationale: factual correction and transparent preservation of the research chronology. Interpretive consequence: the OSF deposit is a retrospective registration and amended final-analysis plan, not a preregistration.
+
+
+Amendment 2 — Population scope. Original 16 July strategy: the primary broad-adult model included healthy adults and clinical cognitive-impairment groups; pediatric and ADHD samples were excluded from the adult primary model, and Parkinson disease and post-COVID cognitive symptoms were adjacent or sensitivity evidence unless prospectively added. Revised: all adult human populations with eligible cognition or EEG outcomes may be included, including ADHD, psychiatric or neurological disorders, stroke, and post-infectious cognitive symptoms; mixed-age samples require separable adult data or a predominantly adult sample with minimum age at least 16 years and will undergo sensitivity analysis. Rationale: align eligibility with the actual adult human intervention evidence base. Interpretive consequence: greater clinical breadth and potential heterogeneity; population-specific subgrouping and sensitivity analysis are required.
+
+
+Amendment 3 — Primary cognitive estimand and outcome multiplicity. Original: one independent cognitive effect per study entered a broad overall primary analysis under a hierarchy prioritizing global cognition, then working memory, attention or processing speed, executive function, memory, language, and other domains. Revised: substantively different cognitive domains will not be collapsed into a single primary estimate; domain-specific analyses are primary when at least three compatible controlled datasets exist. Multiple outcomes may be retained only in dependence-aware models; otherwise one effect per sample, domain, comparator, and time point is selected without reference to significance. Rationale: reduce construct mixing and improve clinical interpretability. Interpretive consequence: the preliminary eight-study broad cognition estimate is not the confirmatory primary estimate under version 1.1 and will be retained only as a transparently labeled preliminary or sensitivity result.
+
+
+Amendment 4 — Minimum evidence for pooling. Original: two compatible studies could produce a preliminary pooled estimate, while three or more permitted fuller random-effects reporting. Revised: meta-analysis requires at least three clinically and methodologically compatible independent datasets. Rationale: avoid unstable two-study pooled estimates. Interpretive consequence: the preliminary two-study beta and gamma EEG models are internal diagnostics and will not qualify as final meta-analyses unless a third compatible independent dataset is available.
+
+
+Amendment 5 — Prediction intervals. Original: a 95% prediction interval could be reported with at least three studies. Revised: a prediction interval will be reported only when at least five studies permit a meaningful estimate. Rationale: prediction intervals are highly unstable with extremely sparse meta-analyses. Interpretive consequence: some small final models may report tau-squared and I-squared without a prediction interval.
+
+
+Amendment 6 — Time-point definitions. Original: acute was within 24 hours, short term was more than 24 hours through 6 weeks, medium term was more than 6 weeks through 3 months, and long term was more than 3 months; the first assessment after final treatment was primary. Revised: immediate post-treatment is primary for acute single-session studies; end of treatment is primary for repeated-treatment studies; follow-up is short term from more than immediate through 4 weeks, medium term from more than 4 weeks through 3 months, and long term beyond 3 months. Rationale: distinguish immediate acute effects from treatment-course endpoints and use a simpler follow-up structure. Interpretive consequence: some outcomes may move between time categories relative to the preliminary strategy.
+
+
+Amendment 7 — Missing within-participant correlations. Original: sensitivity assumptions of 0.25, 0.50, and 0.75. Revised: 0.50 is the central exploratory assumption, with 0.20 and 0.80 sensitivity values when derivation is impossible. Rationale: test a wider plausible dependence range. Interpretive consequence: imputed crossover or change-score effects may differ slightly from preliminary calculations and will be labeled imputed.
+
+
+Amendment 8 — EEG directional coding. Original: a broad EEG-cognition linkage model allowed directional harmonization toward a prespecified beneficial pattern. Revised: EEG treatment effects are coded neutrally as increases or decreases in the reported metric and are not labeled beneficial solely because they resemble a hypothesized healthy pattern. Rationale: avoid imposing uncertain biological directionality across heterogeneous EEG measures. Interpretive consequence: broad cross-marker directional pooling will be more limited, and interpretation will remain marker-specific.
+
+
+Amendment 9 — EEG construct separation and linkage threshold. Original: spectral, ERP or CDA, connectivity, network, and other EEG associations could contribute to a broad exploratory linked model, with family-specific analyses when possible. Revised: EEG outcome analyses remain separate by metric family, frequency band, state, timing, anatomical scope, and controlled versus uncontrolled design; EEG-cognition associations require at least three compatible independent studies for pooling and otherwise remain narrative. Rationale: reduce biological and statistical incomparability. Interpretive consequence: fewer EEG outcomes may be pooled, but resulting estimates will be more interpretable.
+
+
+Amendment 10 — Comparator hierarchy clarified. Original: credible sham or placebo was primary; no-treatment or usual-care controls were sensitivity comparators; active-dose comparisons without sham were excluded from primary efficacy pooling. Revised: sham or inactive controls remain primary, passive and usual-care controls are analyzed separately, and active comparators are secondary and never merged with the primary sham or inactive analysis. Rationale: formalize comparator-specific estimands. Interpretive consequence: comparator type cannot drive an undifferentiated pooled efficacy estimate.
+
+
+Amendment 11 — Intervention route and adjunctive treatment clarified. Original: primary analyses were restricted to scalp-delivered transcranial PBM, with mixed transcranial and intranasal or ear delivery as sensitivity evidence; combination interventions were excluded unless an isolated tPBM contrast was available. Revised: transcranial-only treatment remains primary, while combined-route or adjunctive studies may enter only when the tPBM contribution can be isolated or when analyzed as a distinct subgroup; a transcranial-only sensitivity analysis is mandatory. Rationale: preserve relevance to cerebral tPBM while retaining clearly separable adjunctive evidence. Interpretive consequence: mixed-route evidence cannot determine the primary conclusion.
+
+
+Amendment 12 — Risk-of-bias and appraisal procedures expanded. Original: the strategy specified risk-based sensitivity exclusions but did not fully identify the appraisal workflow in the analysis document. Revised: randomized studies use the JBI randomized controlled trial tool, quasi-experimental and nonrandomized intervention studies use the appropriate revised JBI tool, two reviewers independently complete or verify appraisals, and results are interpreted at item or domain level rather than solely by total score. Rationale: improve reproducibility and avoid overreliance on checklist totals. Interpretive consequence: final sensitivity classifications may differ from provisional aggregate scores.
+
+
+Amendment 13 — Verification and AI-assisted extraction safeguards expanded. Original: extracted data and derived statistics were subject to source checking but the analysis strategy did not fully describe AI use. Revised: AI or automated extraction may locate candidate information, but every value entering the final publication analysis must be human-verified against the source; a second reviewer verifies all meta-analysis variables. Rationale: ensure traceability and reduce extraction error. Interpretive consequence: preliminary values may be corrected before final analysis if source verification identifies discrepancies.
+
+
+Amendment 14 — Search completion requirement. Original: the preliminary analysis used the then-locked datasets. Revised: PubMed or MEDLINE, PsycINFO, Web of Science Core Collection, and IEEE Xplore will be rerun before the final publication analysis, with supplementary citation and trial-registry searches and a final update within 30 days of manuscript submission. Rationale: ensure the final analysis reflects the current eligible evidence base. Interpretive consequence: study counts and pooled estimates may change from the preliminary run.
+
+
+Amendment 15 — Software and reproducibility. Original preliminary analysis: R 4.6.1 with metafor 5.0-1 generated the validated preliminary outputs. Revised final plan: conventional analyses are planned in jamovi with the MAJOR module, while R packages including metafor and clubSandwich may be used for multilevel models, robust variance estimation, crossover calculations, and reproducibility checks. Rationale: support an accessible primary workflow while retaining validated advanced and reproducibility tools. Interpretive consequence: final results will be cross-checked and any software-dependent differences documented.
+
+
+Amendment 16 — Certainty assessment and reporting. Original analysis strategy did not specify a full certainty-of-evidence framework. Revised: GRADE will assess certainty for primary randomized cognitive domains when sufficient evidence exists; EEG, nonrandomized, and sparse moderator findings remain explicitly exploratory. Rationale: separate statistical findings from confidence in the evidence. Interpretive consequence: statistically favorable results may still receive low or very low certainty ratings.
+
+
+Amendment 17 — Transparency package. Original: inputs, scripts, outputs, and deviations were to be archived. Revised: the OSF record will preserve the original 16 July strategy, the validated preliminary-analysis audit, locked inputs, code, preliminary numerical outputs and figures, protocol version 1.1, and all subsequent amendment records. Rationale: allow reconstruction of what was planned, what was run, what was seen, and what changed. Interpretive consequence: readers can distinguish preliminary exploratory analyses from the final publication analysis.
+
+
+No claim is made that these post-result amendments are equivalent to preregistration. Regardless of the methodological rationale for each change, the preliminary results had already been inspected; all revisions above are therefore classified as post-preliminary-analysis amendments and will be interpreted with that limitation.
+REFERENCES AND REPORTING FRAMEWORKS
+PRISMA-P: Preferred Reporting Items for Systematic Review and Meta-Analysis Protocols.
+PRISMA 2020: Preferred Reporting Items for Systematic Reviews and Meta-Analyses.
+Cochrane Handbook for Systematic Reviews of Interventions.
+JBI Manual for Evidence Synthesis and JBI critical appraisal tools.
+GRADE guidance for rating certainty of evidence.
+
+
+APPENDIX A. PUBMED SEARCH TEMPLATE
+Search A: tPBM and cognition
+
+
+(
+  "transcranial photobiomodulation"[Title/Abstract]
+  OR tPBM[Title/Abstract]
+  OR "transcranial low-level light therapy"[Title/Abstract]
+  OR "transcranial low level light therapy"[Title/Abstract]
+  OR "transcranial low-level laser therapy"[Title/Abstract]
+  OR "transcranial low level laser therapy"[Title/Abstract]
+  OR "transcranial laser stimulation"[Title/Abstract]
+  OR "transcranial infrared stimulation"[Title/Abstract]
+  OR "brain photobiomodulation"[Title/Abstract]
+  OR photoneuromodulation[Title/Abstract]
+  OR "photo-neuromodulation"[Title/Abstract]
+  OR "transcranial LED stimulation"[Title/Abstract]
+  OR (
+      (photobiomodulation[Title/Abstract] OR "low-level light therapy"[Title/Abstract] OR "low-level laser therapy"[Title/Abstract])
+      AND
+      (brain[Title/Abstract] OR cerebral[Title/Abstract] OR transcranial[Title/Abstract] OR forehead[Title/Abstract] OR scalp[Title/Abstract])
+     )
+)
+AND
+(
+  cognit*[Title/Abstract]
+  OR memory[Title/Abstract]
+  OR attention[Title/Abstract]
+  OR vigilance[Title/Abstract]
+  OR "executive function"[Title/Abstract]
+  OR "processing speed"[Title/Abstract]
+  OR learning[Title/Abstract]
+  OR language[Title/Abstract]
+  OR neuropsycholog*[Title/Abstract]
+  OR dementia[Title/Abstract]
+  OR Alzheimer*[Title/Abstract]
+  OR "mild cognitive impairment"[Title/Abstract]
+)
+
+
+Search B: tPBM and EEG
+
+
+Use the complete tPBM block above AND:
+
+
+(
+  electroencephalograph*[Title/Abstract]
+  OR EEG[Title/Abstract]
+  OR qEEG[Title/Abstract]
+  OR "event-related potential"[Title/Abstract]
+  OR "event-related potentials"[Title/Abstract]
+  OR ERP[Title/Abstract]
+  OR oscillat*[Title/Abstract]
+  OR "spectral power"[Title/Abstract]
+  OR "power spectral density"[Title/Abstract]
+  OR coherence[Title/Abstract]
+  OR connectivity[Title/Abstract]
+  OR "network topology"[Title/Abstract]
+  OR "brain rhythm"[Title/Abstract]
+  OR "brain rhythms"[Title/Abstract]
+)
+
+
+APPENDIX B. PRIMARY ANALYSIS DECISION TABLE
+Cognitive efficacy: randomized controlled active tPBM versus sham or inactive control; domain-specific random-effects meta-analysis; end of treatment or immediate post-treatment as defined above.
+
+
+Secondary controlled cognition: nonrandomized controlled studies analyzed separately.
+
+
+Uncontrolled cognition: narrative synthesis; exploratory standardized-mean-change meta-analysis only with at least three compatible independent datasets.
+
+
+EEG spectral power: separate analyses by absolute versus relative power, band, state, timing, and controlled versus uncontrolled design.
+
+
+EEG ERP outcomes: amplitude and latency analyzed separately by component and task.
+
+
+EEG network outcomes: pool only identical or meaningfully equivalent metrics; otherwise structured narrative synthesis.
+
+
+Mixed-route treatment: separate subgroup and transcranial-only sensitivity analysis.
+
+
+Missing change-score correlation: derive when possible; otherwise use 0.50 with 0.20 and 0.80 sensitivity analyses.
+
+
+Insufficient numerical data: contact authors; derive or digitize only using documented methods; otherwise narrative synthesis.
+
+
+APPENDIX C. TEXT FOR REGISTRY STATUS FIELD
+Registration was undertaken after study identification, screening, substantial data extraction and critical appraisal, and a preliminary quantitative analysis. Preliminary pooled estimates and forest plots were generated and inspected on 16 July 2026 under a separately dated analysis strategy. Protocol version 1.1 was finalized on 17 July 2026 as a retrospective registration and amended final-publication-analysis plan. It is not a preregistration. All differences between the 16 July strategy and the 17 July plan are disclosed in the amendment history, and the original strategy, preliminary audit, inputs, code, and outputs will be preserved with the OSF record.

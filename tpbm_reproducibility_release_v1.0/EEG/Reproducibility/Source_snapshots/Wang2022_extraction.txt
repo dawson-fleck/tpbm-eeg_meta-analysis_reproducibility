@@ -1,0 +1,434 @@
+﻿Data collection form
+Transcranial Photobiomodulation, Cognitive Outcomes, EEG Biomarkers, and Closed-Loop Potential 
+Review type: Systematic scoping review with evidence map
+Primary question: What evidence exists that tPBM improves cognitive outcomes in adults with healthy aging, MCI, TBI-related cognitive impairment, early Alzheimer’s disease, or mild-to-moderate dementia?
+Secondary question: How has EEG been used to measure, monitor, predict, or guide tPBM-related cognitive effects? 
+This form can be used as a guide for developing your own data extraction form. Sections can be expanded and added, and irrelevant sections can be removed. It is difficult to design a single form that meets the needs of all reviews, so it is important to consider carefully the information you need to collect, and design your form accordingly. Information included on this form should be comprehensive, and may be used in the text of your review, ‘Characteristics of included studies’ table, risk of bias assessment, and statistical analysis. 
+
+
+Notes on using a data extraction form: 
+* Be consistent in the order and style you use to describe the information for each included study. 
+* Record any missing information as unclear or not described, to make it clear that the information was not found in the study report(s), not that you forgot to extract it. 
+* Include any instructions and decision rules on the data collection form, or in an accompanying document. It is important to practice using the form and give training to any other authors using the form.
+* You will need to protect the document in order to use the form fields (Tools / Protect document)
+
+
+Review title or ID
+	     Transcranial Photobiomodulation for Cognitive Enhancement and Rehabilitation: A Systematic Scoping Review of Cognitive Outcomes, EEG Biomarkers, and Closed-Loop Neuromodulation Potential 
+	
+
+Study ID (surname of first author and year first full report of study was published e.g. Smith 2001) 
+	    Wang et al. 2022
+	
+
+Report IDs of other reports of this study (e.g. duplicate publications, follow-up studies)
+	     none
+	
+
+Notes:        Wang et al. used 64-channel EEG in 44 healthy adults to test whether right-forehead 1064-nm tPBM modulates specific EEG-derived brain networks rather than just global scalp power. They combined group singular value decomposition with eLORETA to identify 11 EEG brain-network components, then found that tPBM increased alpha power in networks overlapping with the DMN, executive control network, frontoparietal network, and visual network, while also decreasing gamma power in selected networks. The authors argue this provides a mechanistic EEG-network link between tPBM and previously reported cognitive benefits, though no direct cognitive task was measured in this study. 
+	1. General Information
+1. Date form completed (dd/mm/yyyy)
+	    06/09/26 
+	2. Name/ID of person extracting data
+	     Dawson
+	3. Report title 
+(title of paper/ abstract/ report that data are extracted from)
+	     Combination of group singular value decomposition and eLORETA identifies human EEG networks and responses to transcranial photobiomodulation. 
+	4. Report ID
+(if there are multiple reports of this study)
+	     na
+	5. Reference details
+	     Wang X, Wanniarachchi H, Wu A, Liu H. 2022. Combination of group singular value decomposition and eLORETA identifies human EEG networks and responses to transcranial photobiomodulation. Front Hum Neurosci. 16:853909. doi:10.3389/fnhum.2022.853909. 
+	6. Publication type
+(e.g. full report, abstract, letter)
+	     Research Article
+	7. Evidence classification
+	Direct tPBM cognition / indirect tPBM cognition / EEG-only / mechanistic / protocol / background / exclude. 
+
+
+	8. Study funding source
+(including role of funders)
+	   National Institute of Mental Health / NIH, grant RF1MH114285. The authors also acknowledge Cell Gen Therapeutics LLC for support with the 1064-nm laser.   
+	Possible conflicts of interest
+(for study authors)
+	     None declared
+	9. Notes: 
+	     none
+	2. Eligibility
+Study Characteristics
+	Review Inclusion Criteria
+	Location in Text
+	10. Design
+	Randomized sham-controlled crossover study; pre-post study; mechanistic human study; EEG network/source-localization methods study 
+	Materials and Methods- Instrumentation and Experimental Protocol
+	11. Intervention
+	Highlight all that apply: transcranial photobiomodulation; transcranial low-level laser therapy; transcranial low-level light therapy; transcranial near-infrared stimulation; transcranial infrared laser stimulation; transcranial LED stimulation; photoneuromodulation applied to the head/brain; transcranial PBM combined with intranasal PBM; transcranial PBM combined with intraoral PBM; transcranial PBM combined with another active intervention. 
+	Materials and Methods- Instrumentation and Experimental Protocol
+	12. EEG Relevance
+	EEG outcome measure; resting-state EEG; qEEG; oscillatory activity; power spectral density; source localization/eLORETA; network topology/network decomposition; EEG biomarker/target-engagement evidence  
+	
+
+	13. Outcome Measures
+	EEG/neurophysiological change; EEG network power changes; alpha power and gamma power changes in gSVD-derived EEG brain networks. No direct behavioral cognitive outcome. 
+	
+
+	17. Follow-up duration
+	Immediate / days / weeks / months / none / unclear 
+	
+
+	14. Decision
+	Highlight one: Include; Exclude; Background only; Unclear/discuss with reviewer. 
+	
+
+	3. Population
+
+
+Field
+	Response
+	Location in Text
+	15. Population Type
+	Healthy young / healthy older / MCI / AD / dementia / TBI / post-concussion / ADHD / schizophrenia / bipolar / post-stroke / other 
+	Materials and Methods- Participants
+	16. Sample Size
+	9 recruited; 44 analyzed. Four were removed for being asleep during experiments; one more was removed because SVD component power values were >4 SD from the group mean. 
+	
+
+	17. Experimental Groups
+	Randomized sham-controlled crossover: each participant completed both active 1064-nm tPBM and sham sessions, separated by at least 3 days. 
+	
+
+	18. Mean age or age range
+	Recruited sample: females 27.4 ± 6.1 years; males 28.7 ± 4.7 years. Overall mean/range for analyzed n = 44 not separately reported. 
+	
+
+	19. Sex distribution
+	Recruited sample: 19 female, 30 male
+	
+
+	20. Baseline cognitive status
+	Normal / subjective decline / MCI / dementia / TBI-related impairment / other 
+	
+
+	21. Diagnostic criteria or screening tool
+	None
+	
+
+	22. Key inclusion criteria
+	Healthy human participants from the University of Texas at Arlington community; written informed consent; able to complete both tPBM and sham EEG sessions. Specific inclusion criteria were not fully itemized in this paper. 
+	
+
+	23. Key Exclusion criteria
+	The 2022 paper says it used the same inclusion/exclusion criteria as prior Wang studies but does not fully relist them. Based on the prior protocol, exclusions included psychiatric disorder, neurological disease, severe brain injury, violent behavior, prior institutionalization/imprisonment, psychotropic drug/medicine use, smoking history, excessive alcohol use, pregnancy, and diabetes. Participants were also excluded from analysis if asleep during EEG. 
+	
+
+	
+
+4. tPBM Intervention Parameters
+
+
+24. Device name/model        
+	CG-5000 laser, Cell Gen Therapeutics LLC, Dallas, TX 
+	Materials and Methods- Instrumentation and Experimental Protocol
+	25. Light source
+	LED / laser / mixed / unclear 
+	
+
+	26. Wavelength, nm        
+	1064
+	
+
+	27. Power output
+	3.5 W
+	
+
+	28. Irradiance/power density
+	257.4 mW/cm^2
+	
+
+	29. Fluence/energy density
+	123.5 J/cm^2
+	
+
+	30. Total energy per session 
+	1680 J
+	
+
+	31. Session duration
+	8 min
+	
+
+	32. Number of sessions
+	1 active, 1 shame (2 total)
+	
+
+	33. Treatment frequency
+	single active
+	
+
+	34. Total treatment Period
+	acute only
+	
+
+	35. Pulsed or continuous
+	Pulsed / continuous / both / unclear 
+	
+
+	36. Pulse frequency, Hz
+	na
+	
+
+	37. Dose Fully Reported?
+	Yes
+	
+
+	38. Calculated dose (if not provided)
+	na- 123.5 J/cm^2
+	
+
+	39. Calculation assumptions
+	na
+	
+
+	40. Confidence in dose extraction
+	HIgh
+	
+
+	41. Duty cycle
+	100%
+	
+
+	42. Brain target/site
+	Right forehead above eyebrow and below hairline; right prefrontal/frontal region  
+	
+
+	43. Laterality
+	Left / right / bilateral / midline / whole head / unclear 
+	
+
+	44. Transcranial only?         
+	Yes / No, combined with intranasal / intraoral / whole-body / other 
+	
+
+	45. Sham details 
+	Sham laser power was set to 0.1 W, but the aperture was covered with a black cap so true delivered power was 0 mW/cm², confirmed by optical power meter. 
+	
+
+	46. Co-interventions        
+	Exercise / cognitive training / speech therapy / TMS / medication / none / unclear 
+	
+
+	
+
+5. EEG / Neurophysiology
+
+
+
+
+	
+
+	Location in Text
+	47. EEG used?        
+	Yes / No 
+	
+
+	48. EEG linked to cognitive outcome?
+	Yes, correlated / Yes, predictive / Yes, used for guidance / No, measured separately / Not tested 
+	Na
+	49. Open-loop or closed-loop? 
+	Open-loop / closed-loop / EEG-monitored only / N/A 
+	
+
+	50. EEG type 
+	64-channel scalp EEG, international 10–10 system, eyes-closed resting-state EEG. 
+	
+
+	51. EEG Timing        
+	EEG recorded continuously across 13 min: 2-min baseline, 8-min tPBM/sham, and 3-min recovery. Analyses used baseline, 0–4 min, 4–8 min, and recovery periods.  
+	
+
+	52. EEG metrics
+	gSVD-derived EEG brain-network components; eLORETA cortical source localization; power spectral density in delta, theta, alpha, beta, gamma bands; baseline-normalized and sham-subtracted network power changes. topology / other 
+	
+
+	53. EEG changed after tPBM? 
+	Yes / No / Mixed / Not tested 
+	
+
+	54. Algorithm/ model used?        
+	Yes. tPBM increased alpha power in multiple EEG brain networks overlapping with the default mode network, executive control network, frontoparietal network, and lateral visual network. It also decreased gamma power in selected networks. No significant delta, theta, or beta network-power modulation was found in this analysis. 
+	
+
+	55. fNIRS/hemodynamics measured? 
+	Yes / No 
+	
+
+	56. Hemodynamic finding 
+	na
+	
+
+	6.  Cognitive and Clinical Outcomes 
+
+
+
+
+	
+
+	Location in text
+	57. Direct Cognitive Outcome
+	
+
+	
+
+	58. Cognitive Domain
+	Working memory / attention / vigilance / executive function / processing speed / episodic memory / visual memory / language / global cognition / cognitive efficiency / other 
+	
+
+	59. Cognitive Test/Tool Used        
+	
+
+	
+
+	60. Direction of Cognitive Effect
+	Improved / no change / worse / mixed 
+	
+
+	61. Statistically Significant?
+	Yes. tPBM significantly increased alpha power in several gSVD/eLORETA-derived EEG networks and significantly decreased gamma power in selected networks. 
+	
+
+	Statistical test/model
+	gSVD + eLORETA network decomposition/source localization; PSD power analysis; baseline-normalized and sham-subtracted network power; one-sample non-parametric permutation tests comparing sham-subtracted power change against zero. 
+	
+
+	p-values
+	Reported as significance thresholds: p < 0.05 and p < 0.01. Figure 7 marks significant alpha/gamma network changes with * for p < 0.05 and & for p < 0.01. 
+	
+
+	62. Effect Size Reported?        
+	Yes / No 
+	
+
+	63. Durability of Effect
+	Acute only / sustained at follow-up / no follow-up / unclear 
+	
+
+	Confidence Interval
+	NR
+	
+
+	Multiple Comparison Correction?
+	yes/no/unclear
+	
+
+	64. Mood/QOL outcomes
+	nr
+	
+
+	65. Author’s Main Cognitive Conclusion
+	No direct cognitive outcome was measured. Authors conclude that tPBM modulated EEG networks overlapping with cognition-relevant systems, including DMN, frontoparietal network, and executive control network, providing a possible mechanistic link between tPBM and previously reported cognitive improvements. 
+	
+
+	66. Your interpretation and perceived significance 
+	Strong tPBM + EEG evidence. Not paired with cognitive outcome, but used validated EEG markers of cognitive state and ability.
+	
+
+	
+
+7. Safety and Feasibility
+
+
+
+
+	
+
+	Location in Text
+	67. Adverse Events Reported?
+	NR
+	NR
+	68. Type of Adverse Events
+	NR
+	
+
+	69. Dropouts/Withdrawals
+	No formal withdrawals reported, but 5/49 were excluded from analysis: 4 for being asleep during the experiments, and 1 because SVD component power values were >4 SD from the group mean. Final analyzed sample: 44. 
+	
+
+	70. Adherence/Compliance
+	Good among analyzed participants
+	
+
+	71. Tolerability
+	Not formally assessed 
+	
+
+	72. Home-use feasibility
+	Yes / No / unclear / not discussed 
+	
+
+	73. Safety Conclusion
+	Limited
+	
+
+	8. Quality/ Risk of Bias
+
+
+74. Randomization Adequate?
+	Partial / unclear. Active vs sham sequence was randomly assigned, but the paper does not describe the randomization method or allocation concealment. 
+	75. Sham/control adequate?
+	Yes. Sham used the same laser device, but the aperture was covered with a black cap so delivered power was 0 mW/cm², confirmed by power meter. 
+	76. Blinding adequate?
+	Partial. Participants were blinded to active vs sham until completing both sessions, but operator/assessor blinding is not clearly reported. 
+	77. Attrition Concern?
+	Low / some / high / unclear 
+	78. Outcome measures validated?
+	Yes / No / Mixed/ N/A 
+	79. Main limitation
+	No direct cognitive outcome, exploratory network-analysis method, limited spatial resolution from 64-channel EEG/eLORETA, EEG cap shifted backward to allow laser placement, and no long-term follow-up. 
+	80. Overall evidence strength for this study
+	High / moderate / low / preliminary 
+	
+
+
+
+9. Manuscript Use
+
+
+81. Directly addresses review question?
+	75% alignment
+	82. Relevance to tPBM cognition?
+	High / moderate / low 
+	83. Relevance to EEG-guided tPBM?
+	Direct / indirect / none 
+	84. Use in manuscript
+	Main text / evidence table / EEG table / safety table / background only / exclude 
+	85. One sentence takeaway
+	Strong evidence for EEG markers improving, although data could be thrown off by offset electrode placement.
+	86. Useful quotations
+	“This indicates that, although
+EEG recorded cerebral electrophysiological oscillations at much
+
+
+higher frequencies with lower spatial resolution than fMRI, SVD-
+derived EEG brain networks may potentially reflect or share
+
+
+the contribution from the same neural activity with fMRI-
+defined brain networks.”
+
+
+“Compared to fMRI, EEG signals can achieve a much
+higher temporal resolution with a much higher frequency range of interest.”
+
+
+“This set of observations revealed a potential
+advantage of the gSVD + eLORETA algorithm that facilitates
+EEG network-based monitoring of fast neural activities in these
+cognition-related networks.”
+
+
+“Being able to detect neural activities in FPN and ECN
+would make EEG more practically and broadly useful for rapid,
+high-temporal-resolution monitoring of cognitive functions in
+the human brain.”
+	87. Notes for discussion
+	None

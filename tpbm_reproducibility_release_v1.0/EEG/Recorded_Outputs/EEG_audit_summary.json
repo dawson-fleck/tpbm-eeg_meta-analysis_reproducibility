@@ -1,0 +1,13 @@
+{
+  "source_rows": 223,
+  "numeric_dynamics_rows": 212,
+  "source_clusters": 10,
+  "quarantined_rows": 5,
+  "available_rows": 207,
+  "available_clusters": 9,
+  "compatibility_strata": 42,
+  "eligible_pools": 0,
+  "reconstruction_checks": 205,
+  "sample_size_sensitivity_effects": 120,
+  "association_records": 1
+}

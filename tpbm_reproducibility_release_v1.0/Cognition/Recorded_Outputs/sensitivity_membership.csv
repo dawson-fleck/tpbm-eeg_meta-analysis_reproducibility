@@ -1,0 +1,954 @@
+"model","cohort_id","included"
+"primary__Overall cognition","COG-TANG-2023",TRUE
+"primary__Overall cognition","COG-HWANG-2016",TRUE
+"primary__Overall cognition","COG-CHAN-2019-OLDER",TRUE
+"primary__Overall cognition","COG-DOUGAL-2021",TRUE
+"primary__Overall cognition","COG-CHAN-2021-DIFFICULT",TRUE
+"primary__Overall cognition","COG-YANG-2024-LANGUAGE",TRUE
+"primary__Overall cognition","COG-CHAN-2021-MCI",TRUE
+"primary__Overall cognition","COG-HASSAN-2026-STROKE",TRUE
+"primary__Overall cognition","COG-PENA-2026",TRUE
+"primary__Overall cognition","COG-CHUN-2025-PILOT",TRUE
+"primary__Overall cognition","COG-LEE-2025-TBI",TRUE
+"primary__Overall cognition","COG-DEOLIVEIRA-2024",TRUE
+"primary__Overall cognition","COG-BERMAN-2017-DEMENTIA",TRUE
+"primary__Overall cognition","COG-YANG-2025-OLDER-WM",TRUE
+"primary__Overall cognition","COG-SABOURI-MOGHADAM-2017",TRUE
+"primary__Overall cognition","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"primary__Overall cognition","COG-ZHAO-X-2022-SCD",TRUE
+"historical__Overall cognition","COG-TANG-2023",TRUE
+"historical__Overall cognition","COG-HWANG-2016",TRUE
+"historical__Overall cognition","COG-CHAN-2019-OLDER",TRUE
+"historical__Overall cognition","COG-DOUGAL-2021",TRUE
+"historical__Overall cognition","COG-CHAN-2021-DIFFICULT",TRUE
+"historical__Overall cognition","COG-YANG-2024-LANGUAGE",TRUE
+"historical__Overall cognition","COG-ZHAO-C-2022-VWM-EXP1-2-AGG",TRUE
+"historical__Overall cognition","COG-CHAN-2021-MCI",TRUE
+"historical__Overall cognition","COG-BARRETT-2013",TRUE
+"historical__Overall cognition","COG-HASSAN-2026-STROKE",TRUE
+"historical__Overall cognition","COG-PENA-2026",TRUE
+"historical__Overall cognition","COG-PAPI-2022-MCI",TRUE
+"historical__Overall cognition","COG-CHUN-2025-PILOT",TRUE
+"historical__Overall cognition","COG-KHERADMAND-2022-DEMENTIA",TRUE
+"historical__Overall cognition","COG-LEE-2025-TBI",TRUE
+"historical__Overall cognition","COG-HAN-2025",TRUE
+"historical__Overall cognition","COG-DEOLIVEIRA-2024",TRUE
+"historical__Overall cognition","COG-CHUN-2026-CONFIRMATORY",TRUE
+"historical__Overall cognition","COG-BERMAN-2017-DEMENTIA",TRUE
+"historical__Overall cognition","COG-YANG-2025-OLDER-WM",TRUE
+"historical__Overall cognition","COG-SABOURI-MOGHADAM-2017",TRUE
+"historical__Overall cognition","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"historical__Overall cognition","COG-ZHAO-X-2022-SCD",TRUE
+"historical_retained__Overall cognition","COG-TANG-2023",TRUE
+"historical_retained__Overall cognition","COG-HWANG-2016",TRUE
+"historical_retained__Overall cognition","COG-CHAN-2019-OLDER",TRUE
+"historical_retained__Overall cognition","COG-DOUGAL-2021",TRUE
+"historical_retained__Overall cognition","COG-CHAN-2021-DIFFICULT",TRUE
+"historical_retained__Overall cognition","COG-YANG-2024-LANGUAGE",TRUE
+"historical_retained__Overall cognition","COG-ZHAO-C-2022-VWM-EXP1-2-AGG",FALSE
+"historical_retained__Overall cognition","COG-CHAN-2021-MCI",TRUE
+"historical_retained__Overall cognition","COG-BARRETT-2013",FALSE
+"historical_retained__Overall cognition","COG-HASSAN-2026-STROKE",TRUE
+"historical_retained__Overall cognition","COG-PENA-2026",TRUE
+"historical_retained__Overall cognition","COG-PAPI-2022-MCI",FALSE
+"historical_retained__Overall cognition","COG-CHUN-2025-PILOT",TRUE
+"historical_retained__Overall cognition","COG-KHERADMAND-2022-DEMENTIA",FALSE
+"historical_retained__Overall cognition","COG-LEE-2025-TBI",TRUE
+"historical_retained__Overall cognition","COG-HAN-2025",FALSE
+"historical_retained__Overall cognition","COG-DEOLIVEIRA-2024",TRUE
+"historical_retained__Overall cognition","COG-CHUN-2026-CONFIRMATORY",FALSE
+"historical_retained__Overall cognition","COG-BERMAN-2017-DEMENTIA",TRUE
+"historical_retained__Overall cognition","COG-YANG-2025-OLDER-WM",TRUE
+"historical_retained__Overall cognition","COG-SABOURI-MOGHADAM-2017",TRUE
+"historical_retained__Overall cognition","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"historical_retained__Overall cognition","COG-ZHAO-X-2022-SCD",TRUE
+"Overall cognition__no_major_rob","COG-TANG-2023",TRUE
+"Overall cognition__no_major_rob","COG-HWANG-2016",TRUE
+"Overall cognition__no_major_rob","COG-CHAN-2019-OLDER",TRUE
+"Overall cognition__no_major_rob","COG-DOUGAL-2021",TRUE
+"Overall cognition__no_major_rob","COG-CHAN-2021-DIFFICULT",TRUE
+"Overall cognition__no_major_rob","COG-YANG-2024-LANGUAGE",TRUE
+"Overall cognition__no_major_rob","COG-CHAN-2021-MCI",TRUE
+"Overall cognition__no_major_rob","COG-HASSAN-2026-STROKE",TRUE
+"Overall cognition__no_major_rob","COG-PENA-2026",TRUE
+"Overall cognition__no_major_rob","COG-CHUN-2025-PILOT",TRUE
+"Overall cognition__no_major_rob","COG-LEE-2025-TBI",TRUE
+"Overall cognition__no_major_rob","COG-DEOLIVEIRA-2024",TRUE
+"Overall cognition__no_major_rob","COG-BERMAN-2017-DEMENTIA",FALSE
+"Overall cognition__no_major_rob","COG-YANG-2025-OLDER-WM",TRUE
+"Overall cognition__no_major_rob","COG-SABOURI-MOGHADAM-2017",TRUE
+"Overall cognition__no_major_rob","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Overall cognition__no_major_rob","COG-ZHAO-X-2022-SCD",FALSE
+"Overall cognition__parallel_only","COG-TANG-2023",TRUE
+"Overall cognition__parallel_only","COG-HWANG-2016",TRUE
+"Overall cognition__parallel_only","COG-CHAN-2019-OLDER",TRUE
+"Overall cognition__parallel_only","COG-DOUGAL-2021",TRUE
+"Overall cognition__parallel_only","COG-CHAN-2021-DIFFICULT",TRUE
+"Overall cognition__parallel_only","COG-YANG-2024-LANGUAGE",FALSE
+"Overall cognition__parallel_only","COG-CHAN-2021-MCI",TRUE
+"Overall cognition__parallel_only","COG-HASSAN-2026-STROKE",TRUE
+"Overall cognition__parallel_only","COG-PENA-2026",TRUE
+"Overall cognition__parallel_only","COG-CHUN-2025-PILOT",TRUE
+"Overall cognition__parallel_only","COG-LEE-2025-TBI",FALSE
+"Overall cognition__parallel_only","COG-DEOLIVEIRA-2024",TRUE
+"Overall cognition__parallel_only","COG-BERMAN-2017-DEMENTIA",TRUE
+"Overall cognition__parallel_only","COG-YANG-2025-OLDER-WM",FALSE
+"Overall cognition__parallel_only","COG-SABOURI-MOGHADAM-2017",TRUE
+"Overall cognition__parallel_only","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Overall cognition__parallel_only","COG-ZHAO-X-2022-SCD",TRUE
+"Overall cognition__no_digitization","COG-TANG-2023",TRUE
+"Overall cognition__no_digitization","COG-HWANG-2016",TRUE
+"Overall cognition__no_digitization","COG-CHAN-2019-OLDER",FALSE
+"Overall cognition__no_digitization","COG-DOUGAL-2021",TRUE
+"Overall cognition__no_digitization","COG-CHAN-2021-DIFFICULT",TRUE
+"Overall cognition__no_digitization","COG-YANG-2024-LANGUAGE",TRUE
+"Overall cognition__no_digitization","COG-CHAN-2021-MCI",FALSE
+"Overall cognition__no_digitization","COG-HASSAN-2026-STROKE",TRUE
+"Overall cognition__no_digitization","COG-PENA-2026",TRUE
+"Overall cognition__no_digitization","COG-CHUN-2025-PILOT",TRUE
+"Overall cognition__no_digitization","COG-LEE-2025-TBI",TRUE
+"Overall cognition__no_digitization","COG-DEOLIVEIRA-2024",FALSE
+"Overall cognition__no_digitization","COG-BERMAN-2017-DEMENTIA",FALSE
+"Overall cognition__no_digitization","COG-YANG-2025-OLDER-WM",TRUE
+"Overall cognition__no_digitization","COG-SABOURI-MOGHADAM-2017",TRUE
+"Overall cognition__no_digitization","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Overall cognition__no_digitization","COG-ZHAO-X-2022-SCD",TRUE
+"Overall cognition__no_reconstruction","COG-TANG-2023",TRUE
+"Overall cognition__no_reconstruction","COG-HWANG-2016",TRUE
+"Overall cognition__no_reconstruction","COG-CHAN-2019-OLDER",FALSE
+"Overall cognition__no_reconstruction","COG-DOUGAL-2021",TRUE
+"Overall cognition__no_reconstruction","COG-CHAN-2021-DIFFICULT",FALSE
+"Overall cognition__no_reconstruction","COG-YANG-2024-LANGUAGE",TRUE
+"Overall cognition__no_reconstruction","COG-CHAN-2021-MCI",FALSE
+"Overall cognition__no_reconstruction","COG-HASSAN-2026-STROKE",TRUE
+"Overall cognition__no_reconstruction","COG-PENA-2026",TRUE
+"Overall cognition__no_reconstruction","COG-CHUN-2025-PILOT",TRUE
+"Overall cognition__no_reconstruction","COG-LEE-2025-TBI",TRUE
+"Overall cognition__no_reconstruction","COG-DEOLIVEIRA-2024",TRUE
+"Overall cognition__no_reconstruction","COG-BERMAN-2017-DEMENTIA",TRUE
+"Overall cognition__no_reconstruction","COG-YANG-2025-OLDER-WM",TRUE
+"Overall cognition__no_reconstruction","COG-SABOURI-MOGHADAM-2017",TRUE
+"Overall cognition__no_reconstruction","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Overall cognition__no_reconstruction","COG-ZHAO-X-2022-SCD",FALSE
+"Overall cognition__no_imputed_r","COG-TANG-2023",TRUE
+"Overall cognition__no_imputed_r","COG-HWANG-2016",TRUE
+"Overall cognition__no_imputed_r","COG-CHAN-2019-OLDER",TRUE
+"Overall cognition__no_imputed_r","COG-DOUGAL-2021",TRUE
+"Overall cognition__no_imputed_r","COG-CHAN-2021-DIFFICULT",TRUE
+"Overall cognition__no_imputed_r","COG-YANG-2024-LANGUAGE",FALSE
+"Overall cognition__no_imputed_r","COG-CHAN-2021-MCI",TRUE
+"Overall cognition__no_imputed_r","COG-HASSAN-2026-STROKE",TRUE
+"Overall cognition__no_imputed_r","COG-PENA-2026",FALSE
+"Overall cognition__no_imputed_r","COG-CHUN-2025-PILOT",TRUE
+"Overall cognition__no_imputed_r","COG-LEE-2025-TBI",FALSE
+"Overall cognition__no_imputed_r","COG-DEOLIVEIRA-2024",TRUE
+"Overall cognition__no_imputed_r","COG-BERMAN-2017-DEMENTIA",TRUE
+"Overall cognition__no_imputed_r","COG-YANG-2025-OLDER-WM",FALSE
+"Overall cognition__no_imputed_r","COG-SABOURI-MOGHADAM-2017",TRUE
+"Overall cognition__no_imputed_r","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Overall cognition__no_imputed_r","COG-ZHAO-X-2022-SCD",TRUE
+"Overall cognition__zero_output","COG-TANG-2023",TRUE
+"Overall cognition__zero_output","COG-HWANG-2016",FALSE
+"Overall cognition__zero_output","COG-CHAN-2019-OLDER",TRUE
+"Overall cognition__zero_output","COG-DOUGAL-2021",TRUE
+"Overall cognition__zero_output","COG-CHAN-2021-DIFFICULT",TRUE
+"Overall cognition__zero_output","COG-YANG-2024-LANGUAGE",TRUE
+"Overall cognition__zero_output","COG-CHAN-2021-MCI",TRUE
+"Overall cognition__zero_output","COG-HASSAN-2026-STROKE",TRUE
+"Overall cognition__zero_output","COG-PENA-2026",TRUE
+"Overall cognition__zero_output","COG-CHUN-2025-PILOT",FALSE
+"Overall cognition__zero_output","COG-LEE-2025-TBI",TRUE
+"Overall cognition__zero_output","COG-DEOLIVEIRA-2024",TRUE
+"Overall cognition__zero_output","COG-BERMAN-2017-DEMENTIA",TRUE
+"Overall cognition__zero_output","COG-YANG-2025-OLDER-WM",TRUE
+"Overall cognition__zero_output","COG-SABOURI-MOGHADAM-2017",FALSE
+"Overall cognition__zero_output","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Overall cognition__zero_output","COG-ZHAO-X-2022-SCD",FALSE
+"Overall cognition__no_industry","COG-TANG-2023",TRUE
+"Overall cognition__no_industry","COG-HWANG-2016",TRUE
+"Overall cognition__no_industry","COG-CHAN-2019-OLDER",TRUE
+"Overall cognition__no_industry","COG-DOUGAL-2021",FALSE
+"Overall cognition__no_industry","COG-CHAN-2021-DIFFICULT",FALSE
+"Overall cognition__no_industry","COG-YANG-2024-LANGUAGE",TRUE
+"Overall cognition__no_industry","COG-CHAN-2021-MCI",TRUE
+"Overall cognition__no_industry","COG-HASSAN-2026-STROKE",TRUE
+"Overall cognition__no_industry","COG-PENA-2026",TRUE
+"Overall cognition__no_industry","COG-CHUN-2025-PILOT",FALSE
+"Overall cognition__no_industry","COG-LEE-2025-TBI",TRUE
+"Overall cognition__no_industry","COG-DEOLIVEIRA-2024",FALSE
+"Overall cognition__no_industry","COG-BERMAN-2017-DEMENTIA",FALSE
+"Overall cognition__no_industry","COG-YANG-2025-OLDER-WM",TRUE
+"Overall cognition__no_industry","COG-SABOURI-MOGHADAM-2017",TRUE
+"Overall cognition__no_industry","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Overall cognition__no_industry","COG-ZHAO-X-2022-SCD",TRUE
+"Overall cognition__endpoint_only","COG-TANG-2023",TRUE
+"Overall cognition__endpoint_only","COG-HWANG-2016",TRUE
+"Overall cognition__endpoint_only","COG-CHAN-2019-OLDER",FALSE
+"Overall cognition__endpoint_only","COG-DOUGAL-2021",FALSE
+"Overall cognition__endpoint_only","COG-CHAN-2021-DIFFICULT",TRUE
+"Overall cognition__endpoint_only","COG-YANG-2024-LANGUAGE",TRUE
+"Overall cognition__endpoint_only","COG-CHAN-2021-MCI",FALSE
+"Overall cognition__endpoint_only","COG-HASSAN-2026-STROKE",TRUE
+"Overall cognition__endpoint_only","COG-PENA-2026",FALSE
+"Overall cognition__endpoint_only","COG-CHUN-2025-PILOT",TRUE
+"Overall cognition__endpoint_only","COG-LEE-2025-TBI",TRUE
+"Overall cognition__endpoint_only","COG-DEOLIVEIRA-2024",FALSE
+"Overall cognition__endpoint_only","COG-BERMAN-2017-DEMENTIA",FALSE
+"Overall cognition__endpoint_only","COG-YANG-2025-OLDER-WM",TRUE
+"Overall cognition__endpoint_only","COG-SABOURI-MOGHADAM-2017",FALSE
+"Overall cognition__endpoint_only","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Overall cognition__endpoint_only","COG-ZHAO-X-2022-SCD",FALSE
+"Overall cognition__controlled_change_only","COG-TANG-2023",FALSE
+"Overall cognition__controlled_change_only","COG-HWANG-2016",FALSE
+"Overall cognition__controlled_change_only","COG-CHAN-2019-OLDER",TRUE
+"Overall cognition__controlled_change_only","COG-DOUGAL-2021",TRUE
+"Overall cognition__controlled_change_only","COG-CHAN-2021-DIFFICULT",FALSE
+"Overall cognition__controlled_change_only","COG-YANG-2024-LANGUAGE",FALSE
+"Overall cognition__controlled_change_only","COG-CHAN-2021-MCI",TRUE
+"Overall cognition__controlled_change_only","COG-HASSAN-2026-STROKE",FALSE
+"Overall cognition__controlled_change_only","COG-PENA-2026",TRUE
+"Overall cognition__controlled_change_only","COG-CHUN-2025-PILOT",FALSE
+"Overall cognition__controlled_change_only","COG-LEE-2025-TBI",FALSE
+"Overall cognition__controlled_change_only","COG-DEOLIVEIRA-2024",TRUE
+"Overall cognition__controlled_change_only","COG-BERMAN-2017-DEMENTIA",TRUE
+"Overall cognition__controlled_change_only","COG-YANG-2025-OLDER-WM",FALSE
+"Overall cognition__controlled_change_only","COG-SABOURI-MOGHADAM-2017",TRUE
+"Overall cognition__controlled_change_only","COG-SALEHPOUR-2026-STAGE1-ADHD",FALSE
+"Overall cognition__controlled_change_only","COG-ZHAO-X-2022-SCD",TRUE
+"Overall cognition__exclude_Yang","COG-TANG-2023",TRUE
+"Overall cognition__exclude_Yang","COG-HWANG-2016",TRUE
+"Overall cognition__exclude_Yang","COG-CHAN-2019-OLDER",TRUE
+"Overall cognition__exclude_Yang","COG-DOUGAL-2021",TRUE
+"Overall cognition__exclude_Yang","COG-CHAN-2021-DIFFICULT",TRUE
+"Overall cognition__exclude_Yang","COG-YANG-2024-LANGUAGE",TRUE
+"Overall cognition__exclude_Yang","COG-CHAN-2021-MCI",TRUE
+"Overall cognition__exclude_Yang","COG-HASSAN-2026-STROKE",TRUE
+"Overall cognition__exclude_Yang","COG-PENA-2026",TRUE
+"Overall cognition__exclude_Yang","COG-CHUN-2025-PILOT",TRUE
+"Overall cognition__exclude_Yang","COG-LEE-2025-TBI",TRUE
+"Overall cognition__exclude_Yang","COG-DEOLIVEIRA-2024",TRUE
+"Overall cognition__exclude_Yang","COG-BERMAN-2017-DEMENTIA",TRUE
+"Overall cognition__exclude_Yang","COG-YANG-2025-OLDER-WM",FALSE
+"Overall cognition__exclude_Yang","COG-SABOURI-MOGHADAM-2017",TRUE
+"Overall cognition__exclude_Yang","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Overall cognition__exclude_Yang","COG-ZHAO-X-2022-SCD",TRUE
+"Overall cognition__exclude_ZhaoX","COG-TANG-2023",TRUE
+"Overall cognition__exclude_ZhaoX","COG-HWANG-2016",TRUE
+"Overall cognition__exclude_ZhaoX","COG-CHAN-2019-OLDER",TRUE
+"Overall cognition__exclude_ZhaoX","COG-DOUGAL-2021",TRUE
+"Overall cognition__exclude_ZhaoX","COG-CHAN-2021-DIFFICULT",TRUE
+"Overall cognition__exclude_ZhaoX","COG-YANG-2024-LANGUAGE",TRUE
+"Overall cognition__exclude_ZhaoX","COG-CHAN-2021-MCI",TRUE
+"Overall cognition__exclude_ZhaoX","COG-HASSAN-2026-STROKE",TRUE
+"Overall cognition__exclude_ZhaoX","COG-PENA-2026",TRUE
+"Overall cognition__exclude_ZhaoX","COG-CHUN-2025-PILOT",TRUE
+"Overall cognition__exclude_ZhaoX","COG-LEE-2025-TBI",TRUE
+"Overall cognition__exclude_ZhaoX","COG-DEOLIVEIRA-2024",TRUE
+"Overall cognition__exclude_ZhaoX","COG-BERMAN-2017-DEMENTIA",TRUE
+"Overall cognition__exclude_ZhaoX","COG-YANG-2025-OLDER-WM",TRUE
+"Overall cognition__exclude_ZhaoX","COG-SABOURI-MOGHADAM-2017",TRUE
+"Overall cognition__exclude_ZhaoX","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Overall cognition__exclude_ZhaoX","COG-ZHAO-X-2022-SCD",FALSE
+"Overall cognition__strict_no_reconstruction","COG-TANG-2023",TRUE
+"Overall cognition__strict_no_reconstruction","COG-HWANG-2016",TRUE
+"Overall cognition__strict_no_reconstruction","COG-CHAN-2019-OLDER",FALSE
+"Overall cognition__strict_no_reconstruction","COG-DOUGAL-2021",FALSE
+"Overall cognition__strict_no_reconstruction","COG-CHAN-2021-DIFFICULT",FALSE
+"Overall cognition__strict_no_reconstruction","COG-YANG-2024-LANGUAGE",TRUE
+"Overall cognition__strict_no_reconstruction","COG-CHAN-2021-MCI",FALSE
+"Overall cognition__strict_no_reconstruction","COG-HASSAN-2026-STROKE",TRUE
+"Overall cognition__strict_no_reconstruction","COG-PENA-2026",TRUE
+"Overall cognition__strict_no_reconstruction","COG-CHUN-2025-PILOT",TRUE
+"Overall cognition__strict_no_reconstruction","COG-LEE-2025-TBI",TRUE
+"Overall cognition__strict_no_reconstruction","COG-DEOLIVEIRA-2024",TRUE
+"Overall cognition__strict_no_reconstruction","COG-BERMAN-2017-DEMENTIA",TRUE
+"Overall cognition__strict_no_reconstruction","COG-YANG-2025-OLDER-WM",TRUE
+"Overall cognition__strict_no_reconstruction","COG-SABOURI-MOGHADAM-2017",TRUE
+"Overall cognition__strict_no_reconstruction","COG-SALEHPOUR-2026-STAGE1-ADHD",FALSE
+"Overall cognition__strict_no_reconstruction","COG-ZHAO-X-2022-SCD",FALSE
+"Overall cognition__paired_r__0.2","COG-TANG-2023",TRUE
+"Overall cognition__paired_r__0.2","COG-HWANG-2016",TRUE
+"Overall cognition__paired_r__0.2","COG-CHAN-2019-OLDER",TRUE
+"Overall cognition__paired_r__0.2","COG-DOUGAL-2021",TRUE
+"Overall cognition__paired_r__0.2","COG-CHAN-2021-DIFFICULT",TRUE
+"Overall cognition__paired_r__0.2","COG-YANG-2024-LANGUAGE",TRUE
+"Overall cognition__paired_r__0.2","COG-CHAN-2021-MCI",TRUE
+"Overall cognition__paired_r__0.2","COG-HASSAN-2026-STROKE",TRUE
+"Overall cognition__paired_r__0.2","COG-PENA-2026",TRUE
+"Overall cognition__paired_r__0.2","COG-CHUN-2025-PILOT",TRUE
+"Overall cognition__paired_r__0.2","COG-LEE-2025-TBI",TRUE
+"Overall cognition__paired_r__0.2","COG-DEOLIVEIRA-2024",TRUE
+"Overall cognition__paired_r__0.2","COG-BERMAN-2017-DEMENTIA",TRUE
+"Overall cognition__paired_r__0.2","COG-YANG-2025-OLDER-WM",TRUE
+"Overall cognition__paired_r__0.2","COG-SABOURI-MOGHADAM-2017",TRUE
+"Overall cognition__paired_r__0.2","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Overall cognition__paired_r__0.2","COG-ZHAO-X-2022-SCD",TRUE
+"Overall cognition__paired_r__0.8","COG-TANG-2023",TRUE
+"Overall cognition__paired_r__0.8","COG-HWANG-2016",TRUE
+"Overall cognition__paired_r__0.8","COG-CHAN-2019-OLDER",TRUE
+"Overall cognition__paired_r__0.8","COG-DOUGAL-2021",TRUE
+"Overall cognition__paired_r__0.8","COG-CHAN-2021-DIFFICULT",TRUE
+"Overall cognition__paired_r__0.8","COG-YANG-2024-LANGUAGE",TRUE
+"Overall cognition__paired_r__0.8","COG-CHAN-2021-MCI",TRUE
+"Overall cognition__paired_r__0.8","COG-HASSAN-2026-STROKE",TRUE
+"Overall cognition__paired_r__0.8","COG-PENA-2026",TRUE
+"Overall cognition__paired_r__0.8","COG-CHUN-2025-PILOT",TRUE
+"Overall cognition__paired_r__0.8","COG-LEE-2025-TBI",TRUE
+"Overall cognition__paired_r__0.8","COG-DEOLIVEIRA-2024",TRUE
+"Overall cognition__paired_r__0.8","COG-BERMAN-2017-DEMENTIA",TRUE
+"Overall cognition__paired_r__0.8","COG-YANG-2025-OLDER-WM",TRUE
+"Overall cognition__paired_r__0.8","COG-SABOURI-MOGHADAM-2017",TRUE
+"Overall cognition__paired_r__0.8","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Overall cognition__paired_r__0.8","COG-ZHAO-X-2022-SCD",TRUE
+"Overall cognition__adhoc","COG-TANG-2023",TRUE
+"Overall cognition__adhoc","COG-HWANG-2016",TRUE
+"Overall cognition__adhoc","COG-CHAN-2019-OLDER",TRUE
+"Overall cognition__adhoc","COG-DOUGAL-2021",TRUE
+"Overall cognition__adhoc","COG-CHAN-2021-DIFFICULT",TRUE
+"Overall cognition__adhoc","COG-YANG-2024-LANGUAGE",TRUE
+"Overall cognition__adhoc","COG-CHAN-2021-MCI",TRUE
+"Overall cognition__adhoc","COG-HASSAN-2026-STROKE",TRUE
+"Overall cognition__adhoc","COG-PENA-2026",TRUE
+"Overall cognition__adhoc","COG-CHUN-2025-PILOT",TRUE
+"Overall cognition__adhoc","COG-LEE-2025-TBI",TRUE
+"Overall cognition__adhoc","COG-DEOLIVEIRA-2024",TRUE
+"Overall cognition__adhoc","COG-BERMAN-2017-DEMENTIA",TRUE
+"Overall cognition__adhoc","COG-YANG-2025-OLDER-WM",TRUE
+"Overall cognition__adhoc","COG-SABOURI-MOGHADAM-2017",TRUE
+"Overall cognition__adhoc","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Overall cognition__adhoc","COG-ZHAO-X-2022-SCD",TRUE
+"Overall cognition__z","COG-TANG-2023",TRUE
+"Overall cognition__z","COG-HWANG-2016",TRUE
+"Overall cognition__z","COG-CHAN-2019-OLDER",TRUE
+"Overall cognition__z","COG-DOUGAL-2021",TRUE
+"Overall cognition__z","COG-CHAN-2021-DIFFICULT",TRUE
+"Overall cognition__z","COG-YANG-2024-LANGUAGE",TRUE
+"Overall cognition__z","COG-CHAN-2021-MCI",TRUE
+"Overall cognition__z","COG-HASSAN-2026-STROKE",TRUE
+"Overall cognition__z","COG-PENA-2026",TRUE
+"Overall cognition__z","COG-CHUN-2025-PILOT",TRUE
+"Overall cognition__z","COG-LEE-2025-TBI",TRUE
+"Overall cognition__z","COG-DEOLIVEIRA-2024",TRUE
+"Overall cognition__z","COG-BERMAN-2017-DEMENTIA",TRUE
+"Overall cognition__z","COG-YANG-2025-OLDER-WM",TRUE
+"Overall cognition__z","COG-SABOURI-MOGHADAM-2017",TRUE
+"Overall cognition__z","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Overall cognition__z","COG-ZHAO-X-2022-SCD",TRUE
+"Overall cognition__PM","COG-TANG-2023",TRUE
+"Overall cognition__PM","COG-HWANG-2016",TRUE
+"Overall cognition__PM","COG-CHAN-2019-OLDER",TRUE
+"Overall cognition__PM","COG-DOUGAL-2021",TRUE
+"Overall cognition__PM","COG-CHAN-2021-DIFFICULT",TRUE
+"Overall cognition__PM","COG-YANG-2024-LANGUAGE",TRUE
+"Overall cognition__PM","COG-CHAN-2021-MCI",TRUE
+"Overall cognition__PM","COG-HASSAN-2026-STROKE",TRUE
+"Overall cognition__PM","COG-PENA-2026",TRUE
+"Overall cognition__PM","COG-CHUN-2025-PILOT",TRUE
+"Overall cognition__PM","COG-LEE-2025-TBI",TRUE
+"Overall cognition__PM","COG-DEOLIVEIRA-2024",TRUE
+"Overall cognition__PM","COG-BERMAN-2017-DEMENTIA",TRUE
+"Overall cognition__PM","COG-YANG-2025-OLDER-WM",TRUE
+"Overall cognition__PM","COG-SABOURI-MOGHADAM-2017",TRUE
+"Overall cognition__PM","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Overall cognition__PM","COG-ZHAO-X-2022-SCD",TRUE
+"Overall cognition__FE","COG-TANG-2023",TRUE
+"Overall cognition__FE","COG-HWANG-2016",TRUE
+"Overall cognition__FE","COG-CHAN-2019-OLDER",TRUE
+"Overall cognition__FE","COG-DOUGAL-2021",TRUE
+"Overall cognition__FE","COG-CHAN-2021-DIFFICULT",TRUE
+"Overall cognition__FE","COG-YANG-2024-LANGUAGE",TRUE
+"Overall cognition__FE","COG-CHAN-2021-MCI",TRUE
+"Overall cognition__FE","COG-HASSAN-2026-STROKE",TRUE
+"Overall cognition__FE","COG-PENA-2026",TRUE
+"Overall cognition__FE","COG-CHUN-2025-PILOT",TRUE
+"Overall cognition__FE","COG-LEE-2025-TBI",TRUE
+"Overall cognition__FE","COG-DEOLIVEIRA-2024",TRUE
+"Overall cognition__FE","COG-BERMAN-2017-DEMENTIA",TRUE
+"Overall cognition__FE","COG-YANG-2025-OLDER-WM",TRUE
+"Overall cognition__FE","COG-SABOURI-MOGHADAM-2017",TRUE
+"Overall cognition__FE","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Overall cognition__FE","COG-ZHAO-X-2022-SCD",TRUE
+"primary__Memory","COG-TANG-2023",TRUE
+"primary__Memory","COG-HWANG-2016",TRUE
+"primary__Memory","COG-CHAN-2021-DIFFICULT",TRUE
+"primary__Memory","COG-CHAN-2021-MCI",TRUE
+"primary__Memory","COG-LEE-2025-TBI",TRUE
+"primary__Memory","COG-YANG-2025-OLDER-WM",TRUE
+"primary__Memory","COG-ZHAO-X-2022-SCD",TRUE
+"historical__Memory","COG-TANG-2023",TRUE
+"historical__Memory","COG-HWANG-2016",TRUE
+"historical__Memory","COG-CHAN-2019-OLDER",FALSE
+"historical__Memory","COG-DOUGAL-2021",FALSE
+"historical__Memory","COG-CHAN-2021-DIFFICULT",TRUE
+"historical__Memory","COG-YANG-2024-LANGUAGE",FALSE
+"historical__Memory","COG-ZHAO-C-2022-VWM-EXP1-2-AGG",TRUE
+"historical__Memory","COG-CHAN-2021-MCI",TRUE
+"historical__Memory","COG-BARRETT-2013",TRUE
+"historical__Memory","COG-HASSAN-2026-STROKE",FALSE
+"historical__Memory","COG-PENA-2026",FALSE
+"historical__Memory","COG-PAPI-2022-MCI",FALSE
+"historical__Memory","COG-CHUN-2025-PILOT",FALSE
+"historical__Memory","COG-KHERADMAND-2022-DEMENTIA",FALSE
+"historical__Memory","COG-LEE-2025-TBI",TRUE
+"historical__Memory","COG-HAN-2025",TRUE
+"historical__Memory","COG-DEOLIVEIRA-2024",FALSE
+"historical__Memory","COG-CHUN-2026-CONFIRMATORY",FALSE
+"historical__Memory","COG-BERMAN-2017-DEMENTIA",FALSE
+"historical__Memory","COG-YANG-2025-OLDER-WM",TRUE
+"historical__Memory","COG-SABOURI-MOGHADAM-2017",FALSE
+"historical__Memory","COG-SALEHPOUR-2026-STAGE1-ADHD",FALSE
+"historical__Memory","COG-ZHAO-X-2022-SCD",TRUE
+"historical_retained__Memory","COG-TANG-2023",TRUE
+"historical_retained__Memory","COG-HWANG-2016",TRUE
+"historical_retained__Memory","COG-CHAN-2019-OLDER",FALSE
+"historical_retained__Memory","COG-DOUGAL-2021",FALSE
+"historical_retained__Memory","COG-CHAN-2021-DIFFICULT",TRUE
+"historical_retained__Memory","COG-YANG-2024-LANGUAGE",FALSE
+"historical_retained__Memory","COG-ZHAO-C-2022-VWM-EXP1-2-AGG",FALSE
+"historical_retained__Memory","COG-CHAN-2021-MCI",TRUE
+"historical_retained__Memory","COG-BARRETT-2013",FALSE
+"historical_retained__Memory","COG-HASSAN-2026-STROKE",FALSE
+"historical_retained__Memory","COG-PENA-2026",FALSE
+"historical_retained__Memory","COG-PAPI-2022-MCI",FALSE
+"historical_retained__Memory","COG-CHUN-2025-PILOT",FALSE
+"historical_retained__Memory","COG-KHERADMAND-2022-DEMENTIA",FALSE
+"historical_retained__Memory","COG-LEE-2025-TBI",TRUE
+"historical_retained__Memory","COG-HAN-2025",FALSE
+"historical_retained__Memory","COG-DEOLIVEIRA-2024",FALSE
+"historical_retained__Memory","COG-CHUN-2026-CONFIRMATORY",FALSE
+"historical_retained__Memory","COG-BERMAN-2017-DEMENTIA",FALSE
+"historical_retained__Memory","COG-YANG-2025-OLDER-WM",TRUE
+"historical_retained__Memory","COG-SABOURI-MOGHADAM-2017",FALSE
+"historical_retained__Memory","COG-SALEHPOUR-2026-STAGE1-ADHD",FALSE
+"historical_retained__Memory","COG-ZHAO-X-2022-SCD",TRUE
+"Memory__no_major_rob","COG-TANG-2023",TRUE
+"Memory__no_major_rob","COG-HWANG-2016",TRUE
+"Memory__no_major_rob","COG-CHAN-2021-DIFFICULT",TRUE
+"Memory__no_major_rob","COG-CHAN-2021-MCI",TRUE
+"Memory__no_major_rob","COG-LEE-2025-TBI",TRUE
+"Memory__no_major_rob","COG-YANG-2025-OLDER-WM",TRUE
+"Memory__no_major_rob","COG-ZHAO-X-2022-SCD",FALSE
+"Memory__parallel_only","COG-TANG-2023",TRUE
+"Memory__parallel_only","COG-HWANG-2016",TRUE
+"Memory__parallel_only","COG-CHAN-2021-DIFFICULT",TRUE
+"Memory__parallel_only","COG-CHAN-2021-MCI",TRUE
+"Memory__parallel_only","COG-LEE-2025-TBI",FALSE
+"Memory__parallel_only","COG-YANG-2025-OLDER-WM",FALSE
+"Memory__parallel_only","COG-ZHAO-X-2022-SCD",TRUE
+"Memory__no_digitization","COG-TANG-2023",TRUE
+"Memory__no_digitization","COG-HWANG-2016",TRUE
+"Memory__no_digitization","COG-CHAN-2021-DIFFICULT",TRUE
+"Memory__no_digitization","COG-CHAN-2021-MCI",FALSE
+"Memory__no_digitization","COG-LEE-2025-TBI",TRUE
+"Memory__no_digitization","COG-YANG-2025-OLDER-WM",TRUE
+"Memory__no_digitization","COG-ZHAO-X-2022-SCD",TRUE
+"Memory__no_reconstruction","COG-TANG-2023",TRUE
+"Memory__no_reconstruction","COG-HWANG-2016",TRUE
+"Memory__no_reconstruction","COG-CHAN-2021-DIFFICULT",FALSE
+"Memory__no_reconstruction","COG-CHAN-2021-MCI",FALSE
+"Memory__no_reconstruction","COG-LEE-2025-TBI",TRUE
+"Memory__no_reconstruction","COG-YANG-2025-OLDER-WM",TRUE
+"Memory__no_reconstruction","COG-ZHAO-X-2022-SCD",FALSE
+"Memory__no_imputed_r","COG-TANG-2023",TRUE
+"Memory__no_imputed_r","COG-HWANG-2016",TRUE
+"Memory__no_imputed_r","COG-CHAN-2021-DIFFICULT",TRUE
+"Memory__no_imputed_r","COG-CHAN-2021-MCI",TRUE
+"Memory__no_imputed_r","COG-LEE-2025-TBI",FALSE
+"Memory__no_imputed_r","COG-YANG-2025-OLDER-WM",FALSE
+"Memory__no_imputed_r","COG-ZHAO-X-2022-SCD",TRUE
+"Memory__zero_output","COG-TANG-2023",TRUE
+"Memory__zero_output","COG-HWANG-2016",FALSE
+"Memory__zero_output","COG-CHAN-2021-DIFFICULT",TRUE
+"Memory__zero_output","COG-CHAN-2021-MCI",TRUE
+"Memory__zero_output","COG-LEE-2025-TBI",TRUE
+"Memory__zero_output","COG-YANG-2025-OLDER-WM",TRUE
+"Memory__zero_output","COG-ZHAO-X-2022-SCD",FALSE
+"Memory__no_industry","COG-TANG-2023",TRUE
+"Memory__no_industry","COG-HWANG-2016",TRUE
+"Memory__no_industry","COG-CHAN-2021-DIFFICULT",FALSE
+"Memory__no_industry","COG-CHAN-2021-MCI",TRUE
+"Memory__no_industry","COG-LEE-2025-TBI",TRUE
+"Memory__no_industry","COG-YANG-2025-OLDER-WM",TRUE
+"Memory__no_industry","COG-ZHAO-X-2022-SCD",TRUE
+"Memory__endpoint_only","COG-TANG-2023",TRUE
+"Memory__endpoint_only","COG-HWANG-2016",TRUE
+"Memory__endpoint_only","COG-CHAN-2021-DIFFICULT",TRUE
+"Memory__endpoint_only","COG-CHAN-2021-MCI",FALSE
+"Memory__endpoint_only","COG-LEE-2025-TBI",TRUE
+"Memory__endpoint_only","COG-YANG-2025-OLDER-WM",TRUE
+"Memory__endpoint_only","COG-ZHAO-X-2022-SCD",FALSE
+"Memory__controlled_change_only","COG-TANG-2023",FALSE
+"Memory__controlled_change_only","COG-HWANG-2016",FALSE
+"Memory__controlled_change_only","COG-CHAN-2021-DIFFICULT",FALSE
+"Memory__controlled_change_only","COG-CHAN-2021-MCI",TRUE
+"Memory__controlled_change_only","COG-LEE-2025-TBI",FALSE
+"Memory__controlled_change_only","COG-YANG-2025-OLDER-WM",FALSE
+"Memory__controlled_change_only","COG-ZHAO-X-2022-SCD",TRUE
+"Memory__exclude_Yang","COG-TANG-2023",TRUE
+"Memory__exclude_Yang","COG-HWANG-2016",TRUE
+"Memory__exclude_Yang","COG-CHAN-2021-DIFFICULT",TRUE
+"Memory__exclude_Yang","COG-CHAN-2021-MCI",TRUE
+"Memory__exclude_Yang","COG-LEE-2025-TBI",TRUE
+"Memory__exclude_Yang","COG-YANG-2025-OLDER-WM",FALSE
+"Memory__exclude_Yang","COG-ZHAO-X-2022-SCD",TRUE
+"Memory__exclude_ZhaoX","COG-TANG-2023",TRUE
+"Memory__exclude_ZhaoX","COG-HWANG-2016",TRUE
+"Memory__exclude_ZhaoX","COG-CHAN-2021-DIFFICULT",TRUE
+"Memory__exclude_ZhaoX","COG-CHAN-2021-MCI",TRUE
+"Memory__exclude_ZhaoX","COG-LEE-2025-TBI",TRUE
+"Memory__exclude_ZhaoX","COG-YANG-2025-OLDER-WM",TRUE
+"Memory__exclude_ZhaoX","COG-ZHAO-X-2022-SCD",FALSE
+"Memory__strict_no_reconstruction","COG-TANG-2023",TRUE
+"Memory__strict_no_reconstruction","COG-HWANG-2016",TRUE
+"Memory__strict_no_reconstruction","COG-CHAN-2021-DIFFICULT",FALSE
+"Memory__strict_no_reconstruction","COG-CHAN-2021-MCI",FALSE
+"Memory__strict_no_reconstruction","COG-LEE-2025-TBI",TRUE
+"Memory__strict_no_reconstruction","COG-YANG-2025-OLDER-WM",TRUE
+"Memory__strict_no_reconstruction","COG-ZHAO-X-2022-SCD",FALSE
+"Memory__paired_r__0.2","COG-TANG-2023",TRUE
+"Memory__paired_r__0.2","COG-HWANG-2016",TRUE
+"Memory__paired_r__0.2","COG-CHAN-2021-DIFFICULT",TRUE
+"Memory__paired_r__0.2","COG-CHAN-2021-MCI",TRUE
+"Memory__paired_r__0.2","COG-LEE-2025-TBI",TRUE
+"Memory__paired_r__0.2","COG-YANG-2025-OLDER-WM",TRUE
+"Memory__paired_r__0.2","COG-ZHAO-X-2022-SCD",TRUE
+"Memory__paired_r__0.8","COG-TANG-2023",TRUE
+"Memory__paired_r__0.8","COG-HWANG-2016",TRUE
+"Memory__paired_r__0.8","COG-CHAN-2021-DIFFICULT",TRUE
+"Memory__paired_r__0.8","COG-CHAN-2021-MCI",TRUE
+"Memory__paired_r__0.8","COG-LEE-2025-TBI",TRUE
+"Memory__paired_r__0.8","COG-YANG-2025-OLDER-WM",TRUE
+"Memory__paired_r__0.8","COG-ZHAO-X-2022-SCD",TRUE
+"Memory__adhoc","COG-TANG-2023",TRUE
+"Memory__adhoc","COG-HWANG-2016",TRUE
+"Memory__adhoc","COG-CHAN-2021-DIFFICULT",TRUE
+"Memory__adhoc","COG-CHAN-2021-MCI",TRUE
+"Memory__adhoc","COG-LEE-2025-TBI",TRUE
+"Memory__adhoc","COG-YANG-2025-OLDER-WM",TRUE
+"Memory__adhoc","COG-ZHAO-X-2022-SCD",TRUE
+"Memory__z","COG-TANG-2023",TRUE
+"Memory__z","COG-HWANG-2016",TRUE
+"Memory__z","COG-CHAN-2021-DIFFICULT",TRUE
+"Memory__z","COG-CHAN-2021-MCI",TRUE
+"Memory__z","COG-LEE-2025-TBI",TRUE
+"Memory__z","COG-YANG-2025-OLDER-WM",TRUE
+"Memory__z","COG-ZHAO-X-2022-SCD",TRUE
+"Memory__PM","COG-TANG-2023",TRUE
+"Memory__PM","COG-HWANG-2016",TRUE
+"Memory__PM","COG-CHAN-2021-DIFFICULT",TRUE
+"Memory__PM","COG-CHAN-2021-MCI",TRUE
+"Memory__PM","COG-LEE-2025-TBI",TRUE
+"Memory__PM","COG-YANG-2025-OLDER-WM",TRUE
+"Memory__PM","COG-ZHAO-X-2022-SCD",TRUE
+"Memory__FE","COG-TANG-2023",TRUE
+"Memory__FE","COG-HWANG-2016",TRUE
+"Memory__FE","COG-CHAN-2021-DIFFICULT",TRUE
+"Memory__FE","COG-CHAN-2021-MCI",TRUE
+"Memory__FE","COG-LEE-2025-TBI",TRUE
+"Memory__FE","COG-YANG-2025-OLDER-WM",TRUE
+"Memory__FE","COG-ZHAO-X-2022-SCD",TRUE
+"primary__Global cognition","COG-DOUGAL-2021",TRUE
+"primary__Global cognition","COG-HASSAN-2026-STROKE",TRUE
+"primary__Global cognition","COG-CHUN-2025-PILOT",TRUE
+"primary__Global cognition","COG-DEOLIVEIRA-2024",TRUE
+"primary__Global cognition","COG-BERMAN-2017-DEMENTIA",TRUE
+"historical__Global cognition","COG-TANG-2023",FALSE
+"historical__Global cognition","COG-HWANG-2016",FALSE
+"historical__Global cognition","COG-CHAN-2019-OLDER",FALSE
+"historical__Global cognition","COG-DOUGAL-2021",TRUE
+"historical__Global cognition","COG-CHAN-2021-DIFFICULT",FALSE
+"historical__Global cognition","COG-YANG-2024-LANGUAGE",FALSE
+"historical__Global cognition","COG-ZHAO-C-2022-VWM-EXP1-2-AGG",FALSE
+"historical__Global cognition","COG-CHAN-2021-MCI",FALSE
+"historical__Global cognition","COG-BARRETT-2013",FALSE
+"historical__Global cognition","COG-HASSAN-2026-STROKE",TRUE
+"historical__Global cognition","COG-PENA-2026",FALSE
+"historical__Global cognition","COG-PAPI-2022-MCI",TRUE
+"historical__Global cognition","COG-CHUN-2025-PILOT",TRUE
+"historical__Global cognition","COG-KHERADMAND-2022-DEMENTIA",TRUE
+"historical__Global cognition","COG-LEE-2025-TBI",FALSE
+"historical__Global cognition","COG-HAN-2025",FALSE
+"historical__Global cognition","COG-DEOLIVEIRA-2024",TRUE
+"historical__Global cognition","COG-CHUN-2026-CONFIRMATORY",TRUE
+"historical__Global cognition","COG-BERMAN-2017-DEMENTIA",TRUE
+"historical__Global cognition","COG-YANG-2025-OLDER-WM",FALSE
+"historical__Global cognition","COG-SABOURI-MOGHADAM-2017",FALSE
+"historical__Global cognition","COG-SALEHPOUR-2026-STAGE1-ADHD",FALSE
+"historical__Global cognition","COG-ZHAO-X-2022-SCD",FALSE
+"historical_retained__Global cognition","COG-TANG-2023",FALSE
+"historical_retained__Global cognition","COG-HWANG-2016",FALSE
+"historical_retained__Global cognition","COG-CHAN-2019-OLDER",FALSE
+"historical_retained__Global cognition","COG-DOUGAL-2021",TRUE
+"historical_retained__Global cognition","COG-CHAN-2021-DIFFICULT",FALSE
+"historical_retained__Global cognition","COG-YANG-2024-LANGUAGE",FALSE
+"historical_retained__Global cognition","COG-ZHAO-C-2022-VWM-EXP1-2-AGG",FALSE
+"historical_retained__Global cognition","COG-CHAN-2021-MCI",FALSE
+"historical_retained__Global cognition","COG-BARRETT-2013",FALSE
+"historical_retained__Global cognition","COG-HASSAN-2026-STROKE",TRUE
+"historical_retained__Global cognition","COG-PENA-2026",FALSE
+"historical_retained__Global cognition","COG-PAPI-2022-MCI",FALSE
+"historical_retained__Global cognition","COG-CHUN-2025-PILOT",TRUE
+"historical_retained__Global cognition","COG-KHERADMAND-2022-DEMENTIA",FALSE
+"historical_retained__Global cognition","COG-LEE-2025-TBI",FALSE
+"historical_retained__Global cognition","COG-HAN-2025",FALSE
+"historical_retained__Global cognition","COG-DEOLIVEIRA-2024",TRUE
+"historical_retained__Global cognition","COG-CHUN-2026-CONFIRMATORY",FALSE
+"historical_retained__Global cognition","COG-BERMAN-2017-DEMENTIA",TRUE
+"historical_retained__Global cognition","COG-YANG-2025-OLDER-WM",FALSE
+"historical_retained__Global cognition","COG-SABOURI-MOGHADAM-2017",FALSE
+"historical_retained__Global cognition","COG-SALEHPOUR-2026-STAGE1-ADHD",FALSE
+"historical_retained__Global cognition","COG-ZHAO-X-2022-SCD",FALSE
+"Global cognition__no_major_rob","COG-DOUGAL-2021",TRUE
+"Global cognition__no_major_rob","COG-HASSAN-2026-STROKE",TRUE
+"Global cognition__no_major_rob","COG-CHUN-2025-PILOT",TRUE
+"Global cognition__no_major_rob","COG-DEOLIVEIRA-2024",TRUE
+"Global cognition__no_major_rob","COG-BERMAN-2017-DEMENTIA",FALSE
+"Global cognition__parallel_only","COG-DOUGAL-2021",TRUE
+"Global cognition__parallel_only","COG-HASSAN-2026-STROKE",TRUE
+"Global cognition__parallel_only","COG-CHUN-2025-PILOT",TRUE
+"Global cognition__parallel_only","COG-DEOLIVEIRA-2024",TRUE
+"Global cognition__parallel_only","COG-BERMAN-2017-DEMENTIA",TRUE
+"Global cognition__no_digitization","COG-DOUGAL-2021",TRUE
+"Global cognition__no_digitization","COG-HASSAN-2026-STROKE",TRUE
+"Global cognition__no_digitization","COG-CHUN-2025-PILOT",TRUE
+"Global cognition__no_digitization","COG-DEOLIVEIRA-2024",FALSE
+"Global cognition__no_digitization","COG-BERMAN-2017-DEMENTIA",FALSE
+"Global cognition__no_reconstruction","COG-DOUGAL-2021",TRUE
+"Global cognition__no_reconstruction","COG-HASSAN-2026-STROKE",TRUE
+"Global cognition__no_reconstruction","COG-CHUN-2025-PILOT",TRUE
+"Global cognition__no_reconstruction","COG-DEOLIVEIRA-2024",TRUE
+"Global cognition__no_reconstruction","COG-BERMAN-2017-DEMENTIA",TRUE
+"Global cognition__no_imputed_r","COG-DOUGAL-2021",TRUE
+"Global cognition__no_imputed_r","COG-HASSAN-2026-STROKE",TRUE
+"Global cognition__no_imputed_r","COG-CHUN-2025-PILOT",TRUE
+"Global cognition__no_imputed_r","COG-DEOLIVEIRA-2024",TRUE
+"Global cognition__no_imputed_r","COG-BERMAN-2017-DEMENTIA",TRUE
+"Global cognition__zero_output","COG-DOUGAL-2021",TRUE
+"Global cognition__zero_output","COG-HASSAN-2026-STROKE",TRUE
+"Global cognition__zero_output","COG-CHUN-2025-PILOT",FALSE
+"Global cognition__zero_output","COG-DEOLIVEIRA-2024",TRUE
+"Global cognition__zero_output","COG-BERMAN-2017-DEMENTIA",TRUE
+"Global cognition__no_industry","COG-DOUGAL-2021",FALSE
+"Global cognition__no_industry","COG-HASSAN-2026-STROKE",TRUE
+"Global cognition__no_industry","COG-CHUN-2025-PILOT",FALSE
+"Global cognition__no_industry","COG-DEOLIVEIRA-2024",FALSE
+"Global cognition__no_industry","COG-BERMAN-2017-DEMENTIA",FALSE
+"Global cognition__endpoint_only","COG-DOUGAL-2021",FALSE
+"Global cognition__endpoint_only","COG-HASSAN-2026-STROKE",TRUE
+"Global cognition__endpoint_only","COG-CHUN-2025-PILOT",TRUE
+"Global cognition__endpoint_only","COG-DEOLIVEIRA-2024",FALSE
+"Global cognition__endpoint_only","COG-BERMAN-2017-DEMENTIA",FALSE
+"Global cognition__controlled_change_only","COG-DOUGAL-2021",TRUE
+"Global cognition__controlled_change_only","COG-HASSAN-2026-STROKE",FALSE
+"Global cognition__controlled_change_only","COG-CHUN-2025-PILOT",FALSE
+"Global cognition__controlled_change_only","COG-DEOLIVEIRA-2024",TRUE
+"Global cognition__controlled_change_only","COG-BERMAN-2017-DEMENTIA",TRUE
+"Global cognition__exclude_Yang","COG-DOUGAL-2021",TRUE
+"Global cognition__exclude_Yang","COG-HASSAN-2026-STROKE",TRUE
+"Global cognition__exclude_Yang","COG-CHUN-2025-PILOT",TRUE
+"Global cognition__exclude_Yang","COG-DEOLIVEIRA-2024",TRUE
+"Global cognition__exclude_Yang","COG-BERMAN-2017-DEMENTIA",TRUE
+"Global cognition__exclude_ZhaoX","COG-DOUGAL-2021",TRUE
+"Global cognition__exclude_ZhaoX","COG-HASSAN-2026-STROKE",TRUE
+"Global cognition__exclude_ZhaoX","COG-CHUN-2025-PILOT",TRUE
+"Global cognition__exclude_ZhaoX","COG-DEOLIVEIRA-2024",TRUE
+"Global cognition__exclude_ZhaoX","COG-BERMAN-2017-DEMENTIA",TRUE
+"Global cognition__strict_no_reconstruction","COG-DOUGAL-2021",FALSE
+"Global cognition__strict_no_reconstruction","COG-HASSAN-2026-STROKE",TRUE
+"Global cognition__strict_no_reconstruction","COG-CHUN-2025-PILOT",TRUE
+"Global cognition__strict_no_reconstruction","COG-DEOLIVEIRA-2024",TRUE
+"Global cognition__strict_no_reconstruction","COG-BERMAN-2017-DEMENTIA",TRUE
+"Global cognition__paired_r__0.2","COG-DOUGAL-2021",TRUE
+"Global cognition__paired_r__0.2","COG-HASSAN-2026-STROKE",TRUE
+"Global cognition__paired_r__0.2","COG-CHUN-2025-PILOT",TRUE
+"Global cognition__paired_r__0.2","COG-DEOLIVEIRA-2024",TRUE
+"Global cognition__paired_r__0.2","COG-BERMAN-2017-DEMENTIA",TRUE
+"Global cognition__paired_r__0.8","COG-DOUGAL-2021",TRUE
+"Global cognition__paired_r__0.8","COG-HASSAN-2026-STROKE",TRUE
+"Global cognition__paired_r__0.8","COG-CHUN-2025-PILOT",TRUE
+"Global cognition__paired_r__0.8","COG-DEOLIVEIRA-2024",TRUE
+"Global cognition__paired_r__0.8","COG-BERMAN-2017-DEMENTIA",TRUE
+"Global cognition__adhoc","COG-DOUGAL-2021",TRUE
+"Global cognition__adhoc","COG-HASSAN-2026-STROKE",TRUE
+"Global cognition__adhoc","COG-CHUN-2025-PILOT",TRUE
+"Global cognition__adhoc","COG-DEOLIVEIRA-2024",TRUE
+"Global cognition__adhoc","COG-BERMAN-2017-DEMENTIA",TRUE
+"Global cognition__z","COG-DOUGAL-2021",TRUE
+"Global cognition__z","COG-HASSAN-2026-STROKE",TRUE
+"Global cognition__z","COG-CHUN-2025-PILOT",TRUE
+"Global cognition__z","COG-DEOLIVEIRA-2024",TRUE
+"Global cognition__z","COG-BERMAN-2017-DEMENTIA",TRUE
+"Global cognition__PM","COG-DOUGAL-2021",TRUE
+"Global cognition__PM","COG-HASSAN-2026-STROKE",TRUE
+"Global cognition__PM","COG-CHUN-2025-PILOT",TRUE
+"Global cognition__PM","COG-DEOLIVEIRA-2024",TRUE
+"Global cognition__PM","COG-BERMAN-2017-DEMENTIA",TRUE
+"Global cognition__FE","COG-DOUGAL-2021",TRUE
+"Global cognition__FE","COG-HASSAN-2026-STROKE",TRUE
+"Global cognition__FE","COG-CHUN-2025-PILOT",TRUE
+"Global cognition__FE","COG-DEOLIVEIRA-2024",TRUE
+"Global cognition__FE","COG-BERMAN-2017-DEMENTIA",TRUE
+"primary__Executive / sustained attention","COG-CHAN-2019-OLDER",TRUE
+"primary__Executive / sustained attention","COG-SABOURI-MOGHADAM-2017",TRUE
+"primary__Executive / sustained attention","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"historical__Executive / sustained attention","COG-TANG-2023",FALSE
+"historical__Executive / sustained attention","COG-HWANG-2016",FALSE
+"historical__Executive / sustained attention","COG-CHAN-2019-OLDER",TRUE
+"historical__Executive / sustained attention","COG-DOUGAL-2021",FALSE
+"historical__Executive / sustained attention","COG-CHAN-2021-DIFFICULT",FALSE
+"historical__Executive / sustained attention","COG-YANG-2024-LANGUAGE",FALSE
+"historical__Executive / sustained attention","COG-ZHAO-C-2022-VWM-EXP1-2-AGG",FALSE
+"historical__Executive / sustained attention","COG-CHAN-2021-MCI",FALSE
+"historical__Executive / sustained attention","COG-BARRETT-2013",FALSE
+"historical__Executive / sustained attention","COG-HASSAN-2026-STROKE",FALSE
+"historical__Executive / sustained attention","COG-PENA-2026",FALSE
+"historical__Executive / sustained attention","COG-PAPI-2022-MCI",FALSE
+"historical__Executive / sustained attention","COG-CHUN-2025-PILOT",FALSE
+"historical__Executive / sustained attention","COG-KHERADMAND-2022-DEMENTIA",FALSE
+"historical__Executive / sustained attention","COG-LEE-2025-TBI",FALSE
+"historical__Executive / sustained attention","COG-HAN-2025",FALSE
+"historical__Executive / sustained attention","COG-DEOLIVEIRA-2024",FALSE
+"historical__Executive / sustained attention","COG-CHUN-2026-CONFIRMATORY",FALSE
+"historical__Executive / sustained attention","COG-BERMAN-2017-DEMENTIA",FALSE
+"historical__Executive / sustained attention","COG-YANG-2025-OLDER-WM",FALSE
+"historical__Executive / sustained attention","COG-SABOURI-MOGHADAM-2017",TRUE
+"historical__Executive / sustained attention","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"historical__Executive / sustained attention","COG-ZHAO-X-2022-SCD",FALSE
+"historical_retained__Executive / sustained attention","COG-TANG-2023",FALSE
+"historical_retained__Executive / sustained attention","COG-HWANG-2016",FALSE
+"historical_retained__Executive / sustained attention","COG-CHAN-2019-OLDER",TRUE
+"historical_retained__Executive / sustained attention","COG-DOUGAL-2021",FALSE
+"historical_retained__Executive / sustained attention","COG-CHAN-2021-DIFFICULT",FALSE
+"historical_retained__Executive / sustained attention","COG-YANG-2024-LANGUAGE",FALSE
+"historical_retained__Executive / sustained attention","COG-ZHAO-C-2022-VWM-EXP1-2-AGG",FALSE
+"historical_retained__Executive / sustained attention","COG-CHAN-2021-MCI",FALSE
+"historical_retained__Executive / sustained attention","COG-BARRETT-2013",FALSE
+"historical_retained__Executive / sustained attention","COG-HASSAN-2026-STROKE",FALSE
+"historical_retained__Executive / sustained attention","COG-PENA-2026",FALSE
+"historical_retained__Executive / sustained attention","COG-PAPI-2022-MCI",FALSE
+"historical_retained__Executive / sustained attention","COG-CHUN-2025-PILOT",FALSE
+"historical_retained__Executive / sustained attention","COG-KHERADMAND-2022-DEMENTIA",FALSE
+"historical_retained__Executive / sustained attention","COG-LEE-2025-TBI",FALSE
+"historical_retained__Executive / sustained attention","COG-HAN-2025",FALSE
+"historical_retained__Executive / sustained attention","COG-DEOLIVEIRA-2024",FALSE
+"historical_retained__Executive / sustained attention","COG-CHUN-2026-CONFIRMATORY",FALSE
+"historical_retained__Executive / sustained attention","COG-BERMAN-2017-DEMENTIA",FALSE
+"historical_retained__Executive / sustained attention","COG-YANG-2025-OLDER-WM",FALSE
+"historical_retained__Executive / sustained attention","COG-SABOURI-MOGHADAM-2017",TRUE
+"historical_retained__Executive / sustained attention","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"historical_retained__Executive / sustained attention","COG-ZHAO-X-2022-SCD",FALSE
+"Executive / sustained attention__no_major_rob","COG-CHAN-2019-OLDER",TRUE
+"Executive / sustained attention__no_major_rob","COG-SABOURI-MOGHADAM-2017",TRUE
+"Executive / sustained attention__no_major_rob","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Executive / sustained attention__parallel_only","COG-CHAN-2019-OLDER",TRUE
+"Executive / sustained attention__parallel_only","COG-SABOURI-MOGHADAM-2017",TRUE
+"Executive / sustained attention__parallel_only","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Executive / sustained attention__no_digitization","COG-CHAN-2019-OLDER",FALSE
+"Executive / sustained attention__no_digitization","COG-SABOURI-MOGHADAM-2017",TRUE
+"Executive / sustained attention__no_digitization","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Executive / sustained attention__no_reconstruction","COG-CHAN-2019-OLDER",FALSE
+"Executive / sustained attention__no_reconstruction","COG-SABOURI-MOGHADAM-2017",TRUE
+"Executive / sustained attention__no_reconstruction","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Executive / sustained attention__no_imputed_r","COG-CHAN-2019-OLDER",TRUE
+"Executive / sustained attention__no_imputed_r","COG-SABOURI-MOGHADAM-2017",TRUE
+"Executive / sustained attention__no_imputed_r","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Executive / sustained attention__zero_output","COG-CHAN-2019-OLDER",TRUE
+"Executive / sustained attention__zero_output","COG-SABOURI-MOGHADAM-2017",FALSE
+"Executive / sustained attention__zero_output","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Executive / sustained attention__no_industry","COG-CHAN-2019-OLDER",TRUE
+"Executive / sustained attention__no_industry","COG-SABOURI-MOGHADAM-2017",TRUE
+"Executive / sustained attention__no_industry","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Executive / sustained attention__endpoint_only","COG-CHAN-2019-OLDER",FALSE
+"Executive / sustained attention__endpoint_only","COG-SABOURI-MOGHADAM-2017",FALSE
+"Executive / sustained attention__endpoint_only","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Executive / sustained attention__controlled_change_only","COG-CHAN-2019-OLDER",TRUE
+"Executive / sustained attention__controlled_change_only","COG-SABOURI-MOGHADAM-2017",TRUE
+"Executive / sustained attention__controlled_change_only","COG-SALEHPOUR-2026-STAGE1-ADHD",FALSE
+"Executive / sustained attention__exclude_Yang","COG-CHAN-2019-OLDER",TRUE
+"Executive / sustained attention__exclude_Yang","COG-SABOURI-MOGHADAM-2017",TRUE
+"Executive / sustained attention__exclude_Yang","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Executive / sustained attention__exclude_ZhaoX","COG-CHAN-2019-OLDER",TRUE
+"Executive / sustained attention__exclude_ZhaoX","COG-SABOURI-MOGHADAM-2017",TRUE
+"Executive / sustained attention__exclude_ZhaoX","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Executive / sustained attention__strict_no_reconstruction","COG-CHAN-2019-OLDER",FALSE
+"Executive / sustained attention__strict_no_reconstruction","COG-SABOURI-MOGHADAM-2017",TRUE
+"Executive / sustained attention__strict_no_reconstruction","COG-SALEHPOUR-2026-STAGE1-ADHD",FALSE
+"Executive / sustained attention__paired_r__0.2","COG-CHAN-2019-OLDER",TRUE
+"Executive / sustained attention__paired_r__0.2","COG-SABOURI-MOGHADAM-2017",TRUE
+"Executive / sustained attention__paired_r__0.2","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Executive / sustained attention__paired_r__0.8","COG-CHAN-2019-OLDER",TRUE
+"Executive / sustained attention__paired_r__0.8","COG-SABOURI-MOGHADAM-2017",TRUE
+"Executive / sustained attention__paired_r__0.8","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Executive / sustained attention__adhoc","COG-CHAN-2019-OLDER",TRUE
+"Executive / sustained attention__adhoc","COG-SABOURI-MOGHADAM-2017",TRUE
+"Executive / sustained attention__adhoc","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Executive / sustained attention__z","COG-CHAN-2019-OLDER",TRUE
+"Executive / sustained attention__z","COG-SABOURI-MOGHADAM-2017",TRUE
+"Executive / sustained attention__z","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Executive / sustained attention__PM","COG-CHAN-2019-OLDER",TRUE
+"Executive / sustained attention__PM","COG-SABOURI-MOGHADAM-2017",TRUE
+"Executive / sustained attention__PM","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"Executive / sustained attention__FE","COG-CHAN-2019-OLDER",TRUE
+"Executive / sustained attention__FE","COG-SABOURI-MOGHADAM-2017",TRUE
+"Executive / sustained attention__FE","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"external_expansion","COG-TANG-2023",TRUE
+"external_expansion","COG-HWANG-2016",TRUE
+"external_expansion","COG-CHAN-2019-OLDER",TRUE
+"external_expansion","COG-DOUGAL-2021",TRUE
+"external_expansion","COG-CHAN-2021-DIFFICULT",TRUE
+"external_expansion","COG-YANG-2024-LANGUAGE",TRUE
+"external_expansion","COG-CHAN-2021-MCI",TRUE
+"external_expansion","COG-HASSAN-2026-STROKE",TRUE
+"external_expansion","COG-PENA-2026",TRUE
+"external_expansion","COG-CHUN-2025-PILOT",TRUE
+"external_expansion","COG-LEE-2025-TBI",TRUE
+"external_expansion","COG-DEOLIVEIRA-2024",TRUE
+"external_expansion","COG-BERMAN-2017-DEMENTIA",TRUE
+"external_expansion","COG-YANG-2025-OLDER-WM",TRUE
+"external_expansion","COG-SABOURI-MOGHADAM-2017",TRUE
+"external_expansion","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"external_expansion","COG-ZHAO-X-2022-SCD",TRUE
+"external_expansion","SENS-BLANCO-2017",TRUE
+"external_expansion","SENS-HOLMES-2019",TRUE
+"external_expansion","SENS-CHEN-2023-PASSIVE",TRUE
+"external_expansion","SENS-JOSHI-2024-MIXED-ROUTE",TRUE
+"external_expansion","SENS-NIZAMUTDINOV-2021-MIXED-ROUTE",TRUE
+"external_expansion","SENS-PAOLILLO-2023",TRUE
+"external_add__SENS-BLANCO-2017","COG-TANG-2023",TRUE
+"external_add__SENS-BLANCO-2017","COG-HWANG-2016",TRUE
+"external_add__SENS-BLANCO-2017","COG-CHAN-2019-OLDER",TRUE
+"external_add__SENS-BLANCO-2017","COG-DOUGAL-2021",TRUE
+"external_add__SENS-BLANCO-2017","COG-CHAN-2021-DIFFICULT",TRUE
+"external_add__SENS-BLANCO-2017","COG-YANG-2024-LANGUAGE",TRUE
+"external_add__SENS-BLANCO-2017","COG-CHAN-2021-MCI",TRUE
+"external_add__SENS-BLANCO-2017","COG-HASSAN-2026-STROKE",TRUE
+"external_add__SENS-BLANCO-2017","COG-PENA-2026",TRUE
+"external_add__SENS-BLANCO-2017","COG-CHUN-2025-PILOT",TRUE
+"external_add__SENS-BLANCO-2017","COG-LEE-2025-TBI",TRUE
+"external_add__SENS-BLANCO-2017","COG-DEOLIVEIRA-2024",TRUE
+"external_add__SENS-BLANCO-2017","COG-BERMAN-2017-DEMENTIA",TRUE
+"external_add__SENS-BLANCO-2017","COG-YANG-2025-OLDER-WM",TRUE
+"external_add__SENS-BLANCO-2017","COG-SABOURI-MOGHADAM-2017",TRUE
+"external_add__SENS-BLANCO-2017","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"external_add__SENS-BLANCO-2017","COG-ZHAO-X-2022-SCD",TRUE
+"external_add__SENS-BLANCO-2017","SENS-BLANCO-2017",TRUE
+"external_add__SENS-BLANCO-2017","SENS-HOLMES-2019",FALSE
+"external_add__SENS-BLANCO-2017","SENS-CHEN-2023-PASSIVE",FALSE
+"external_add__SENS-BLANCO-2017","SENS-JOSHI-2024-MIXED-ROUTE",FALSE
+"external_add__SENS-BLANCO-2017","SENS-NIZAMUTDINOV-2021-MIXED-ROUTE",FALSE
+"external_add__SENS-BLANCO-2017","SENS-PAOLILLO-2023",FALSE
+"external_add__SENS-HOLMES-2019","COG-TANG-2023",TRUE
+"external_add__SENS-HOLMES-2019","COG-HWANG-2016",TRUE
+"external_add__SENS-HOLMES-2019","COG-CHAN-2019-OLDER",TRUE
+"external_add__SENS-HOLMES-2019","COG-DOUGAL-2021",TRUE
+"external_add__SENS-HOLMES-2019","COG-CHAN-2021-DIFFICULT",TRUE
+"external_add__SENS-HOLMES-2019","COG-YANG-2024-LANGUAGE",TRUE
+"external_add__SENS-HOLMES-2019","COG-CHAN-2021-MCI",TRUE
+"external_add__SENS-HOLMES-2019","COG-HASSAN-2026-STROKE",TRUE
+"external_add__SENS-HOLMES-2019","COG-PENA-2026",TRUE
+"external_add__SENS-HOLMES-2019","COG-CHUN-2025-PILOT",TRUE
+"external_add__SENS-HOLMES-2019","COG-LEE-2025-TBI",TRUE
+"external_add__SENS-HOLMES-2019","COG-DEOLIVEIRA-2024",TRUE
+"external_add__SENS-HOLMES-2019","COG-BERMAN-2017-DEMENTIA",TRUE
+"external_add__SENS-HOLMES-2019","COG-YANG-2025-OLDER-WM",TRUE
+"external_add__SENS-HOLMES-2019","COG-SABOURI-MOGHADAM-2017",TRUE
+"external_add__SENS-HOLMES-2019","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"external_add__SENS-HOLMES-2019","COG-ZHAO-X-2022-SCD",TRUE
+"external_add__SENS-HOLMES-2019","SENS-BLANCO-2017",FALSE
+"external_add__SENS-HOLMES-2019","SENS-HOLMES-2019",TRUE
+"external_add__SENS-HOLMES-2019","SENS-CHEN-2023-PASSIVE",FALSE
+"external_add__SENS-HOLMES-2019","SENS-JOSHI-2024-MIXED-ROUTE",FALSE
+"external_add__SENS-HOLMES-2019","SENS-NIZAMUTDINOV-2021-MIXED-ROUTE",FALSE
+"external_add__SENS-HOLMES-2019","SENS-PAOLILLO-2023",FALSE
+"external_add__SENS-CHEN-2023-PASSIVE","COG-TANG-2023",TRUE
+"external_add__SENS-CHEN-2023-PASSIVE","COG-HWANG-2016",TRUE
+"external_add__SENS-CHEN-2023-PASSIVE","COG-CHAN-2019-OLDER",TRUE
+"external_add__SENS-CHEN-2023-PASSIVE","COG-DOUGAL-2021",TRUE
+"external_add__SENS-CHEN-2023-PASSIVE","COG-CHAN-2021-DIFFICULT",TRUE
+"external_add__SENS-CHEN-2023-PASSIVE","COG-YANG-2024-LANGUAGE",TRUE
+"external_add__SENS-CHEN-2023-PASSIVE","COG-CHAN-2021-MCI",TRUE
+"external_add__SENS-CHEN-2023-PASSIVE","COG-HASSAN-2026-STROKE",TRUE
+"external_add__SENS-CHEN-2023-PASSIVE","COG-PENA-2026",TRUE
+"external_add__SENS-CHEN-2023-PASSIVE","COG-CHUN-2025-PILOT",TRUE
+"external_add__SENS-CHEN-2023-PASSIVE","COG-LEE-2025-TBI",TRUE
+"external_add__SENS-CHEN-2023-PASSIVE","COG-DEOLIVEIRA-2024",TRUE
+"external_add__SENS-CHEN-2023-PASSIVE","COG-BERMAN-2017-DEMENTIA",TRUE
+"external_add__SENS-CHEN-2023-PASSIVE","COG-YANG-2025-OLDER-WM",TRUE
+"external_add__SENS-CHEN-2023-PASSIVE","COG-SABOURI-MOGHADAM-2017",TRUE
+"external_add__SENS-CHEN-2023-PASSIVE","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"external_add__SENS-CHEN-2023-PASSIVE","COG-ZHAO-X-2022-SCD",TRUE
+"external_add__SENS-CHEN-2023-PASSIVE","SENS-BLANCO-2017",FALSE
+"external_add__SENS-CHEN-2023-PASSIVE","SENS-HOLMES-2019",FALSE
+"external_add__SENS-CHEN-2023-PASSIVE","SENS-CHEN-2023-PASSIVE",TRUE
+"external_add__SENS-CHEN-2023-PASSIVE","SENS-JOSHI-2024-MIXED-ROUTE",FALSE
+"external_add__SENS-CHEN-2023-PASSIVE","SENS-NIZAMUTDINOV-2021-MIXED-ROUTE",FALSE
+"external_add__SENS-CHEN-2023-PASSIVE","SENS-PAOLILLO-2023",FALSE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","COG-TANG-2023",TRUE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","COG-HWANG-2016",TRUE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","COG-CHAN-2019-OLDER",TRUE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","COG-DOUGAL-2021",TRUE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","COG-CHAN-2021-DIFFICULT",TRUE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","COG-YANG-2024-LANGUAGE",TRUE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","COG-CHAN-2021-MCI",TRUE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","COG-HASSAN-2026-STROKE",TRUE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","COG-PENA-2026",TRUE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","COG-CHUN-2025-PILOT",TRUE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","COG-LEE-2025-TBI",TRUE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","COG-DEOLIVEIRA-2024",TRUE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","COG-BERMAN-2017-DEMENTIA",TRUE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","COG-YANG-2025-OLDER-WM",TRUE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","COG-SABOURI-MOGHADAM-2017",TRUE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","COG-ZHAO-X-2022-SCD",TRUE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","SENS-BLANCO-2017",FALSE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","SENS-HOLMES-2019",FALSE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","SENS-CHEN-2023-PASSIVE",FALSE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","SENS-JOSHI-2024-MIXED-ROUTE",TRUE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","SENS-NIZAMUTDINOV-2021-MIXED-ROUTE",FALSE
+"external_add__SENS-JOSHI-2024-MIXED-ROUTE","SENS-PAOLILLO-2023",FALSE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","COG-TANG-2023",TRUE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","COG-HWANG-2016",TRUE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","COG-CHAN-2019-OLDER",TRUE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","COG-DOUGAL-2021",TRUE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","COG-CHAN-2021-DIFFICULT",TRUE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","COG-YANG-2024-LANGUAGE",TRUE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","COG-CHAN-2021-MCI",TRUE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","COG-HASSAN-2026-STROKE",TRUE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","COG-PENA-2026",TRUE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","COG-CHUN-2025-PILOT",TRUE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","COG-LEE-2025-TBI",TRUE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","COG-DEOLIVEIRA-2024",TRUE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","COG-BERMAN-2017-DEMENTIA",TRUE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","COG-YANG-2025-OLDER-WM",TRUE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","COG-SABOURI-MOGHADAM-2017",TRUE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","COG-ZHAO-X-2022-SCD",TRUE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","SENS-BLANCO-2017",FALSE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","SENS-HOLMES-2019",FALSE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","SENS-CHEN-2023-PASSIVE",FALSE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","SENS-JOSHI-2024-MIXED-ROUTE",FALSE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","SENS-NIZAMUTDINOV-2021-MIXED-ROUTE",TRUE
+"external_add__SENS-NIZAMUTDINOV-2021-MIXED-ROUTE","SENS-PAOLILLO-2023",FALSE
+"external_add__SENS-PAOLILLO-2023","COG-TANG-2023",TRUE
+"external_add__SENS-PAOLILLO-2023","COG-HWANG-2016",TRUE
+"external_add__SENS-PAOLILLO-2023","COG-CHAN-2019-OLDER",TRUE
+"external_add__SENS-PAOLILLO-2023","COG-DOUGAL-2021",TRUE
+"external_add__SENS-PAOLILLO-2023","COG-CHAN-2021-DIFFICULT",TRUE
+"external_add__SENS-PAOLILLO-2023","COG-YANG-2024-LANGUAGE",TRUE
+"external_add__SENS-PAOLILLO-2023","COG-CHAN-2021-MCI",TRUE
+"external_add__SENS-PAOLILLO-2023","COG-HASSAN-2026-STROKE",TRUE
+"external_add__SENS-PAOLILLO-2023","COG-PENA-2026",TRUE
+"external_add__SENS-PAOLILLO-2023","COG-CHUN-2025-PILOT",TRUE
+"external_add__SENS-PAOLILLO-2023","COG-LEE-2025-TBI",TRUE
+"external_add__SENS-PAOLILLO-2023","COG-DEOLIVEIRA-2024",TRUE
+"external_add__SENS-PAOLILLO-2023","COG-BERMAN-2017-DEMENTIA",TRUE
+"external_add__SENS-PAOLILLO-2023","COG-YANG-2025-OLDER-WM",TRUE
+"external_add__SENS-PAOLILLO-2023","COG-SABOURI-MOGHADAM-2017",TRUE
+"external_add__SENS-PAOLILLO-2023","COG-SALEHPOUR-2026-STAGE1-ADHD",TRUE
+"external_add__SENS-PAOLILLO-2023","COG-ZHAO-X-2022-SCD",TRUE
+"external_add__SENS-PAOLILLO-2023","SENS-BLANCO-2017",FALSE
+"external_add__SENS-PAOLILLO-2023","SENS-HOLMES-2019",FALSE
+"external_add__SENS-PAOLILLO-2023","SENS-CHEN-2023-PASSIVE",FALSE
+"external_add__SENS-PAOLILLO-2023","SENS-JOSHI-2024-MIXED-ROUTE",FALSE
+"external_add__SENS-PAOLILLO-2023","SENS-NIZAMUTDINOV-2021-MIXED-ROUTE",FALSE
+"external_add__SENS-PAOLILLO-2023","SENS-PAOLILLO-2023",TRUE

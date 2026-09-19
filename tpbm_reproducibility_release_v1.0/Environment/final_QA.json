@@ -1,0 +1,12 @@
+{
+  "original_files_unchanged": 82,
+  "central_specification_effect_checks": 47,
+  "original_corrected_formula_checks": 102,
+  "principal_models_python_R_max_error": 6.249913404587915e-07,
+  "multilevel_models": 27,
+  "Working_corrected/principal_models_python_R_max_error": 1.9592297846315887e-06,
+  "Working_corrected/multilevel_models": 27,
+  "EEG_source_rows_reproduced": 212,
+  "EEG_retained_arithmetic_checks": 207,
+  "status": "PASS; numerical verification does not resolve source/appraisal uncertainties"
+}

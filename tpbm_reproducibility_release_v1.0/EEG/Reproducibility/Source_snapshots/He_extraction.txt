@@ -1,0 +1,139 @@
+﻿Data collection form
+Transcranial Photobiomodulation, Cognitive Outcomes, EEG Biomarkers, and Closed-Loop Potential
+Review: Transcranial Photobiomodulation for Cognitive Enhancement and Rehabilitation
+Study ID: He 2026
+Report IDs: No duplicate full report identified.
+Notes: Randomized crossover comparison of PW, CW and sham 980-nm tPBM using EEG microstates, dynamic connectivity and explainable ML. No cognitive performance test was administered despite mechanistic discussion of cognition.
+
+
+A. General Information
+Completed: 10/08/2026
+Extractor: ChatGPT-assisted extraction for Dawson; source-verified against full report.
+Title: EEG dynamic microstate patterns induced by pulsed wave transcranial photobiomodulation therapy
+Reference: He J, Xie H, Yang Y, et al. Advanced Photonics Nexus. 2026;5(2):026010. doi:10.1117/1.APN.5.2.026010.
+Publication type: Full original controlled crossover research article.
+Evidence classification: EEG-only mechanistic tPBM; controlled EEG microstate/network candidate; no direct cognition.
+Funding: National Natural Science Foundation of China 62275210; National Leading Talent Program; National Young Talent Program; Key R&D Program of Shaanxi 2022GY-313; additional Qinchuangyuan support listed in acknowledgments.
+Conflicts: Authors declared no financial interests, commercial affiliations or other potential conflicts affecting objectivity.
+
+
+B. Eligibility
+Design: Randomized single-blind controlled crossover; each participant assigned in randomized order to PW, CW and sham sessions with ≥7-day washout.
+Intervention: Right-prefrontal 980-nm laser tPBM; PW and CW modes.
+EEG relevance: Resting EEG microstate analysis + microstate dynamic functional connectivity/network metrics + machine learning.
+Outcomes: Microstate durations/occurrences/coverage/transitions; wPLI networks; graph metrics; RBF-SVM classification/SHAP features.
+Follow-up: Acute pre/post.
+Decision: Include in controlled EEG evidence; microstate/network family, not cognition meta-analysis.
+
+
+C. Population
+Population type: Healthy young adults.
+Sample size: 33 recruited; 29 retained in EEG analysis after 4 exclusions/dropouts/data-quality issues.
+Groups: Same participants across PW, CW, sham sessions.
+Age: 19.52±1.35 years.
+Sex: 11 female among 33 recruited; one female among four excluded, implying 10 female analyzed if exclusion description is complete.
+Baseline cognition: Healthy; cognition not measured.
+Screening: >18, general physical/mental health; excluded neuro/psychiatric disease, brain injury/violent history, pregnancy, photosensitivity and neuromodulation within prior month.
+
+
+D. tPBM Parameters
+Device: Aurora laser, Wuhan Jin Laser Medical Technology Co., Ltd.
+Light source: Laser.
+Wavelength: 980 nm.
+Power output: Average beam power approximately 3.0 W from 12.57 cm²×238.85 mW/cm²; paper reports total ~1440 J over 480 s.
+Irradiance: Average 238.85 mW/cm². PW peak 477.71 mW/cm² with 50-ms on period at 10 Hz.
+Fluence: Average-energy fluence ≈114.65 J/cm² over 480 s for both modes if average irradiance applies; paper compares instantaneous PW exposure with ANSI MPE and reports total ~1440 J.
+Total energy: ~1440 J/session.
+Duration: 8 min.
+Sessions: 3 per participant (PW,CW,sham).
+Frequency/period: ≥7-day washout.
+Pulsed/continuous: Both.
+Pulse Hz: PW 10 Hz.
+Dose fully reported?: Yes, unusually detailed.
+Calculated dose: 0.23885W/cm²×480s≈114.65J/cm²; beam power≈3.0W; energy≈1440J.
+Assumptions: Average irradiance constant over reported 12.57cm² area.
+Confidence: High.
+Duty cycle: PW 50% (50 ms on at 10 Hz); CW 100%.
+Target: Fp2/right prefrontal; simulations identify A10m_R superior frontal and A46_R/A10l_R middle frontal regions as major energy deposition.
+Laterality: Right.
+Transcranial only?: Yes.
+Sham: Controlled session; exact sham optical output should be taken from experimental table if needed; participants single-blinded.
+Co-interventions: None.
+
+
+E. EEG / Neurophysiology
+EEG used?: Yes.
+EEG linked to cognition?: No; article explicitly states lack of direct cognitive association as a limitation.
+Open/closed loop: Open-loop; EEG used as biomarker/analysis after fixed stimulation.
+EEG type: Eyes-closed resting EEG with Emotiv Flex2; bilateral earlobe reference; 128-Hz sampling.
+Timing: 5 min pre, 8 min tPBM, 5 min post; ~260±77 s delay for EEG quality checking after stimulation is reported.
+Metrics: Four microstate classes; mean duration, occurrences/sec, time coverage, transition probabilities; microstate-specific wPLI connectivity; local/global efficiency/betweenness; machine-learning features.
+EEG changed?: Yes. PW specifically increased microstate C mean duration and altered microstate-C network metrics with medium-to-large effect sizes versus controls.
+Algorithm/model: MNE preprocessing; ICA; Pycrostates; wPLI networks; graph metrics; RBF support-vector machine + kernel SHAP. Classifier AUC=0.956 and 8/10 top features were microstate-C related.
+fNIRS/hemodynamics: No.
+Hemodynamic finding: N/A.
+
+
+F. Cognitive/Clinical Outcomes
+Direct cognition: No.
+Cognitive domain/test: N/A. Authors infer attention-network relevance but did not administer a cognitive task.
+Statistics: One-way ANOVA/Tukey HSD for normal data; Kruskal-Wallis/Games-Howell for nonnormal data; Cohen d pairwise effects; Benjamini-Hochberg FDR; p<.05.
+p-values/effect sizes: Microstate C differences significant after correction with medium-large Cohen d; exact metric-specific values are available in Results/tables and must be selected before pooling. ML AUC=.956.
+Durability: Acute only.
+CI: Metric-specific NR in summary.
+Multiple correction: Yes — Benjamini-Hochberg FDR.
+Mood/QOL: None.
+Author conclusion: PW 980-nm tPBM specifically reorganizes microstate-C dynamics and networks and may provide a state-dependent biomarker for protocol optimization.
+Interpretation: Methodologically strong controlled EEG study with correction and effect sizes, but outcome is microstate/network-specific and cannot be treated as direct cognitive enhancement.
+
+
+G. Safety/Feasibility
+AEs: No specific adverse events reported; discussion emphasizes acceptability/noninvasive nature.
+Type: NR.
+Dropouts: Four excluded/withdrawn for dropout, absent alpha waves, motion artifacts or inadequate signal quality.
+Adherence: 29 usable participants completed analysis.
+Tolerability: Appears good.
+Home use: No.
+Safety conclusion: Acute protocol appears tolerable; formal AE ascertainment limited.
+
+
+H. Quality/Risk of Bias
+Randomization: Yes, random-number-table sequence for crossover sessions.
+Sham: Controlled sham present; exact sensory equivalence should be checked in table.
+Blinding: Single blind.
+Attrition: Some concern, 4/33 excluded for mixed reasons.
+Outcome validity: Advanced EEG methods with explicit FDR and effect size reporting; ML model adds exploratory overfitting risk despite high AUC.
+Main limitation: Young homogeneous sample; no cognition; acute only; many microstate/network features; ML validation/generalizability uncertain; four exclusions.
+Evidence strength: Moderate-to-strong mechanistic controlled EEG evidence.
+
+
+I. Manuscript Use
+Direct review relevance: Yes for EEG biomarker development.
+Cognition relevance: Indirect only.
+EEG-guided relevance: High conceptual relevance because microstates/SHAP features are proposed as biomarkers for protocol optimization, but no real-time closed-loop guidance was implemented.
+Use: EEG evidence table; biomarker/closed-loop future-direction discussion; possible microstate/network exploratory synthesis.
+Takeaway: Randomized crossover 980-nm tPBM in 29 analyzed healthy adults showed PW-specific microstate-C and network modulation with FDR-corrected medium-large effects and an RBF-SVM/SHAP classifier AUC of .956.
+Useful quotes: None.
+Discussion: Distinguish biomarker identification from actual EEG-guided stimulation.
+
+
+J. Meta Allocation
+Planned synthesis: Controlled EEG microstate/network family; PW-vs-sham primary, CW-vs-sham secondary.
+Comparator: Three within-person conditions.
+Primary EEG outcome: Prespecify microstate-C mean duration or one network metric; do not cherry-pick among many ML/graph features.
+Timepoint: Post minus pre acute.
+Independence: PW and CW share sham and participants; use paired/multilevel handling.
+
+
+K. Quantitative Data
+Available: Metric-level means±SD, corrected p-values and Cohen d in Results/tables; narrative confirms medium-large microstate-C PW effects and ML AUC=.956.
+Pooling readiness: Requires transcription of the exact selected microstate-C metric (active/sham means±SD or Cohen d). Do not pool AUC as if it were a treatment effect.
+Effect-size pathway: Use reported paired Cohen d for selected microstate metric if definition is compatible; otherwise calculate paired standardized mean change with within-subject information.
+
+
+L. Missingness / EEG Audit
+EEG allocation: Eligible controlled EEG study.
+Previously missed/misclassified: No cognition measured; ML biomarker is not closed loop. Both corrected.
+Vital unresolved: Exact numeric chosen microstate/network effect and confirmation of sham optical parameters.
+Non-vital unresolved: Full funding list after Qinchuangyuan line and formal AE breakdown.
+Next action: Add to EEG microstate/network candidate family; determine whether at least two additional independent compatible microstate datasets exist before meta-analysis.

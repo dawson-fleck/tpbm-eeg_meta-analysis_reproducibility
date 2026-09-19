@@ -1,0 +1,22 @@
+             domain
+pulse         Convergent thinking Executive / sustained attention
+  CW                            0                               2
+  Mixed CW/PW                   0                               0
+  PW                            1                               0
+  Unclear                       0                               1
+             domain
+pulse         Global cognition Language Memory
+  CW                         2        1      6
+  Mixed CW/PW                0        0      1
+  PW                         2        0      0
+  Unclear                    1        0      0
+       schedule_group
+device  Repeated treatment Single-session/acute
+  LED                    5                    6
+  Laser                  2                    4
+             schedule_group
+pulse         Repeated treatment Single-session/acute
+  CW                           4                    7
+  Mixed CW/PW                  0                    1
+  PW                           2                    1
+  Unclear                      1                    1

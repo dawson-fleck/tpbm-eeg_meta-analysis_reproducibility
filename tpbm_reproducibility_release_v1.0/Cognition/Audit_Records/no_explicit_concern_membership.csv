@@ -1,0 +1,33 @@
+"domain","cohort_id","included"
+"Overall cognition","COG-TANG-2023",TRUE
+"Overall cognition","COG-HWANG-2016",TRUE
+"Overall cognition","COG-CHAN-2019-OLDER",TRUE
+"Overall cognition","COG-DOUGAL-2021",TRUE
+"Overall cognition","COG-CHAN-2021-DIFFICULT",TRUE
+"Overall cognition","COG-YANG-2024-LANGUAGE",TRUE
+"Overall cognition","COG-CHAN-2021-MCI",TRUE
+"Overall cognition","COG-HASSAN-2026-STROKE",TRUE
+"Overall cognition","COG-PENA-2026",FALSE
+"Overall cognition","COG-CHUN-2025-PILOT",TRUE
+"Overall cognition","COG-LEE-2025-TBI",TRUE
+"Overall cognition","COG-DEOLIVEIRA-2024",FALSE
+"Overall cognition","COG-BERMAN-2017-DEMENTIA",FALSE
+"Overall cognition","COG-YANG-2025-OLDER-WM",TRUE
+"Overall cognition","COG-SABOURI-MOGHADAM-2017",TRUE
+"Overall cognition","COG-SALEHPOUR-2026-STAGE1-ADHD",FALSE
+"Overall cognition","COG-ZHAO-X-2022-SCD",FALSE
+"Memory","COG-TANG-2023",TRUE
+"Memory","COG-HWANG-2016",TRUE
+"Memory","COG-CHAN-2021-DIFFICULT",TRUE
+"Memory","COG-CHAN-2021-MCI",TRUE
+"Memory","COG-LEE-2025-TBI",TRUE
+"Memory","COG-YANG-2025-OLDER-WM",TRUE
+"Memory","COG-ZHAO-X-2022-SCD",FALSE
+"Global cognition","COG-DOUGAL-2021",TRUE
+"Global cognition","COG-HASSAN-2026-STROKE",TRUE
+"Global cognition","COG-CHUN-2025-PILOT",TRUE
+"Global cognition","COG-DEOLIVEIRA-2024",FALSE
+"Global cognition","COG-BERMAN-2017-DEMENTIA",FALSE
+"Executive / sustained attention","COG-CHAN-2019-OLDER",TRUE
+"Executive / sustained attention","COG-SABOURI-MOGHADAM-2017",TRUE
+"Executive / sustained attention","COG-SALEHPOUR-2026-STAGE1-ADHD",FALSE

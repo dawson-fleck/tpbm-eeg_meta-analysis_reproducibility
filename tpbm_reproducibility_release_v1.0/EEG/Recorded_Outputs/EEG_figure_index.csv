@@ -1,0 +1,24 @@
+"page","panel","effects"
+1,"Bastola",5
+2,"Chaudhari | alpha | repeated treatment TP1",12
+3,"Chaudhari | alpha | repeated treatment TP2",12
+4,"Chaudhari | beta | repeated treatment TP1",12
+5,"Chaudhari | beta | repeated treatment TP2",12
+6,"Chaudhari | delta | repeated treatment TP1",12
+7,"Chaudhari | delta | repeated treatment TP2",12
+8,"Chaudhari | gamma | repeated treatment TP1",12
+9,"Chaudhari | gamma | repeated treatment TP2",12
+10,"Chaudhari | theta | repeated treatment TP1",12
+11,"Chaudhari | theta | repeated treatment TP2",12
+12,"Ghaderi",8
+13,"He",1
+14,"Mehdizadeh",1
+15,"Spera",3
+16,"Wang2019",2
+17,"Wang2022 | alpha | during 0-4 min",11
+18,"Wang2022 | alpha | during 4-8 min",11
+19,"Wang2022 | alpha | recovery",11
+20,"Wang2022 | gamma | during 0-4 min",11
+21,"Wang2022 | gamma | during 4-8 min",11
+22,"Wang2022 | gamma | recovery",11
+23,"Zhao",1

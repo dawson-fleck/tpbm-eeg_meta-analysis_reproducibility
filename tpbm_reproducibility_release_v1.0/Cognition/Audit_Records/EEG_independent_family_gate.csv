@@ -1,0 +1,22 @@
+﻿construct,band,clusters,independent_upper_bound,cohorts,decision
+CDA amplitude set-size contrast,not applicable,1,2,ZHAO-C-2022,No compatible k>=3 even before state/timing/anatomy stratification
+scalp spectral power,gamma,1,1,SPERA-2021,No compatible k>=3 even before state/timing/anatomy stratification
+scalp spectral power,beta,2,2,SPERA-2021;WANG-2019,No compatible k>=3 even before state/timing/anatomy stratification
+scalp spectral power,delta,1,1,MEHDIZADEH-2025,No compatible k>=3 even before state/timing/anatomy stratification
+microstate C mean duration,not applicable,1,1,HE-2026,No compatible k>=3 even before state/timing/anatomy stratification
+scalp spectral power,alpha,1,1,WANG-2019,No compatible k>=3 even before state/timing/anatomy stratification
+source network power,delta,1,1,CHAUDHARI-2023,No compatible k>=3 even before state/timing/anatomy stratification
+graph clustering coefficient,beta2,1,1,GHADERI-2021,No compatible k>=3 even before state/timing/anatomy stratification
+graph local efficiency,beta2,1,1,GHADERI-2021,No compatible k>=3 even before state/timing/anatomy stratification
+graph graph energy,beta2,1,1,GHADERI-2021,No compatible k>=3 even before state/timing/anatomy stratification
+graph Shannon entropy,beta2,1,1,GHADERI-2021,No compatible k>=3 even before state/timing/anatomy stratification
+graph global efficiency,beta4,1,1,GHADERI-2021,No compatible k>=3 even before state/timing/anatomy stratification
+graph local efficiency,beta4,1,1,GHADERI-2021,No compatible k>=3 even before state/timing/anatomy stratification
+graph graph energy,beta4,1,1,GHADERI-2021,No compatible k>=3 even before state/timing/anatomy stratification
+graph Shannon entropy,beta4,1,1,GHADERI-2021,No compatible k>=3 even before state/timing/anatomy stratification
+source network power,theta,1,1,CHAUDHARI-2023,No compatible k>=3 even before state/timing/anatomy stratification
+source network power,alpha,2,2,CHAUDHARI-2023;UTA-1064-EEG-49,No compatible k>=3 even before state/timing/anatomy stratification
+source network power,beta,1,1,CHAUDHARI-2023,No compatible k>=3 even before state/timing/anatomy stratification
+source network power,gamma,2,2,CHAUDHARI-2023;UTA-1064-EEG-49,No compatible k>=3 even before state/timing/anatomy stratification
+directional PTE,alpha,1,1,UTSW-1064-MEGEEG-25,No compatible k>=3 even before state/timing/anatomy stratification
+directional PTE,beta,1,1,UTSW-1064-MEGEEG-25,No compatible k>=3 even before state/timing/anatomy stratification

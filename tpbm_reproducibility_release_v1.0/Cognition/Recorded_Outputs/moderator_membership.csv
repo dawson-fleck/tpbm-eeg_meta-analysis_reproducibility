@@ -1,0 +1,52 @@
+"moderator","cohort_id","category","n_unique"
+"population_group","COG-TANG-2023","Healthy/cognitively normal",56
+"population_group","COG-HWANG-2016","Healthy/cognitively normal",30
+"population_group","COG-CHAN-2019-OLDER","Healthy/cognitively normal",30
+"population_group","COG-DOUGAL-2021","Healthy/cognitively normal",27
+"population_group","COG-CHAN-2021-DIFFICULT","Healthy/cognitively normal",33
+"population_group","COG-YANG-2024-LANGUAGE","Healthy/cognitively normal",56
+"population_group","COG-CHAN-2021-MCI","Clinical population",18
+"population_group","COG-HASSAN-2026-STROKE","Clinical population",40
+"population_group","COG-PENA-2026","Healthy/cognitively normal",56
+"population_group","COG-CHUN-2025-PILOT","Clinical population",26
+"population_group","COG-LEE-2025-TBI","Clinical population",17
+"population_group","COG-DEOLIVEIRA-2024","Clinical population",76
+"population_group","COG-BERMAN-2017-DEMENTIA","Clinical population",9
+"population_group","COG-YANG-2025-OLDER-WM","Healthy/cognitively normal",55
+"population_group","COG-SABOURI-MOGHADAM-2017","Healthy/cognitively normal",34
+"population_group","COG-SALEHPOUR-2026-STAGE1-ADHD","Clinical population",27
+"population_group","COG-ZHAO-X-2022-SCD","Clinical population",58
+"schedule_group","COG-TANG-2023","Single-session/acute",56
+"schedule_group","COG-HWANG-2016","Single-session/acute",30
+"schedule_group","COG-CHAN-2019-OLDER","Single-session/acute",30
+"schedule_group","COG-DOUGAL-2021","Repeated treatment",27
+"schedule_group","COG-CHAN-2021-DIFFICULT","Single-session/acute",33
+"schedule_group","COG-YANG-2024-LANGUAGE","Single-session/acute",56
+"schedule_group","COG-CHAN-2021-MCI","Single-session/acute",18
+"schedule_group","COG-HASSAN-2026-STROKE","Repeated treatment",40
+"schedule_group","COG-PENA-2026","Single-session/acute",56
+"schedule_group","COG-CHUN-2025-PILOT","Repeated treatment",26
+"schedule_group","COG-LEE-2025-TBI","Repeated treatment",17
+"schedule_group","COG-DEOLIVEIRA-2024","Repeated treatment",76
+"schedule_group","COG-BERMAN-2017-DEMENTIA","Repeated treatment",9
+"schedule_group","COG-YANG-2025-OLDER-WM","Single-session/acute",55
+"schedule_group","COG-SABOURI-MOGHADAM-2017","Single-session/acute",34
+"schedule_group","COG-SALEHPOUR-2026-STAGE1-ADHD","Single-session/acute",27
+"schedule_group","COG-ZHAO-X-2022-SCD","Repeated treatment",58
+"domain_group","COG-TANG-2023","Memory/working memory",56
+"domain_group","COG-HWANG-2016","Memory/working memory",30
+"domain_group","COG-CHAN-2019-OLDER","Other cognitive domains",30
+"domain_group","COG-DOUGAL-2021","Global cognition",27
+"domain_group","COG-CHAN-2021-DIFFICULT","Memory/working memory",33
+"domain_group","COG-YANG-2024-LANGUAGE","Other cognitive domains",56
+"domain_group","COG-CHAN-2021-MCI","Memory/working memory",18
+"domain_group","COG-HASSAN-2026-STROKE","Global cognition",40
+"domain_group","COG-PENA-2026","Other cognitive domains",56
+"domain_group","COG-CHUN-2025-PILOT","Global cognition",26
+"domain_group","COG-LEE-2025-TBI","Memory/working memory",17
+"domain_group","COG-DEOLIVEIRA-2024","Global cognition",76
+"domain_group","COG-BERMAN-2017-DEMENTIA","Global cognition",9
+"domain_group","COG-YANG-2025-OLDER-WM","Memory/working memory",55
+"domain_group","COG-SABOURI-MOGHADAM-2017","Other cognitive domains",34
+"domain_group","COG-SALEHPOUR-2026-STAGE1-ADHD","Other cognitive domains",27
+"domain_group","COG-ZHAO-X-2022-SCD","Memory/working memory",58
