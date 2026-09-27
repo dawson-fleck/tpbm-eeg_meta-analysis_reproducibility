@@ -4,7 +4,7 @@ The release package is in [`tpbm_reproducibility_release_v1.0/`](tpbm_reproducib
 
 The numerical snapshot was frozen on 19 September 2026. The author team approved the release package, as confirmed by the corresponding author on 27 September 2026. The manuscript and supplementary materials are maintained separately; the package crosswalk must be checked against their final submission versions.
 
-## Draft license scope
+## License scope
 
 Original code: [MIT](LICENSE-CODE.md). Original tabular data and documentation: [CC BY 4.0](LICENSE-DATA.md). The author team approved these terms for the original material. Third-party rights are outside their scope.
 
