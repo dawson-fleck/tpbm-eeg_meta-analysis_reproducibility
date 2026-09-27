@@ -25,7 +25,6 @@ $Rscript = Resolve-Executable $Rscript @(
   'C:\Program Files\R\R-4.6.1\bin\Rscript.exe'
 )
 $Python = Resolve-Executable $Python @(
-  'C:\Users\fleck\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe',
   'python',
   'python3'
 )
