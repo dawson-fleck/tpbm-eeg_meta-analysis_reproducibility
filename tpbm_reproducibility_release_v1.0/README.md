@@ -61,7 +61,7 @@ A successful computational rerun verifies arithmetic, model implementation, file
 ## Before public deposition
 
 1. Obtain all authors' approval of the frozen release.
-2. Choose and insert code/data licenses; no license is granted by this draft package.
+2. Confirm the proposed MIT code and CC BY 4.0 data/documentation terms in the repository root; these terms remain subject to all authors' approval.
 3. Confirm that the included extraction summaries and source-provenance text may be publicly redistributed under the selected terms.
 4. Make the reviewed repository public, enable its Zenodo integration, and publish a tagged GitHub release for archival.
 5. Add the assigned DOI/permanent URL to the manuscript Data and Code Availability statement.
