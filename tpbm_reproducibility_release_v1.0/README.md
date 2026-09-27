@@ -1,8 +1,8 @@
 # tPBM cognition and EEG reproducibility package
 
-Release candidate: v1.0, frozen 19 September 2026
+Release candidate: v1.0; numerical analysis snapshot frozen 19 September 2026
 
-This package reproduces the numerical analyses reported in manuscript 1.5, including the final source-corrected 17-cohort cognition analysis and the non-pooled EEG evidence audit. It intentionally excludes copyrighted full-text articles, private correspondence, and obsolete 23-cohort analysis code from the executable path.
+This package reproduces the 17-cohort numerical analyses in the current submission, including the final source-corrected 17-cohort cognition analysis and the non-pooled EEG evidence audit. It intentionally excludes copyrighted full-text articles, private correspondence, and obsolete 23-cohort analysis code from the executable path.
 
 ## Fast rerun on Windows
 
@@ -63,7 +63,7 @@ A successful computational rerun verifies arithmetic, model implementation, file
 1. Obtain all authors' approval of the frozen release.
 2. Choose and insert code/data licenses; no license is granted by this draft package.
 3. Confirm that the included extraction summaries and source-provenance text may be publicly redistributed under the selected terms.
-4. Deposit this exact ZIP in Zenodo or a permanently registered/versioned OSF project.
+4. Make the reviewed repository public, enable its Zenodo integration, and publish a tagged GitHub release for archival.
 5. Add the assigned DOI/permanent URL to the manuscript Data and Code Availability statement.
 
 Do not add full-text PDFs, private emails, or credentials to the public release.
