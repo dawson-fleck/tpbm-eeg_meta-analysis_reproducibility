@@ -6,4 +6,4 @@ Give appropriate credit to Dawson Fleck, Utkarsh Gupta, and Jeff Roszell as appl
 
 This license does not grant rights to third-party article text, publisher figures, privately obtained correspondence, or other material that the review team does not own. Source-derived extraction notes and snapshots must be checked for redistribution rights before the repository becomes public. Original source code is covered separately by LICENSE-CODE.md.
 
-These terms are prepared on a private draft branch for author review. Public release requires approval of the exact contents and rights scope.
+The author team approved the release package and license scope, as confirmed by the corresponding author on 27 September 2026.
