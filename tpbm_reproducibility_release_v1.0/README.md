@@ -58,12 +58,12 @@ The final cognition run used R 4.6.1, `metafor` 5.0-1, and `clubSandwich` 0.7.0.
 
 A successful computational rerun verifies arithmetic, model implementation, file integrity, and agreement with recorded outputs. It does not independently validate every extraction judgment, source interpretation, risk-of-bias judgment, or eligibility decision. The historical 23-cohort results are not the reported manuscript results and must not replace the source-corrected 17-cohort outputs.
 
-## Before public deposition
+## Public release
 
-1. Obtain all authors' approval of the frozen release.
-2. Confirm the proposed MIT code and CC BY 4.0 data/documentation terms in the repository root; these terms remain subject to all authors' approval.
-3. Confirm that the included extraction summaries and source-provenance text may be publicly redistributed under the selected terms.
-4. Make the reviewed repository public, enable its Zenodo integration, and publish a tagged GitHub release for archival.
-5. Add the assigned DOI/permanent URL to the manuscript Data and Code Availability statement.
+The authors' approval of this package and its split-license scope was confirmed by the corresponding author on 27 September 2026. The package's `LICENSE_SCOPE.md` identifies the material covered by MIT and CC BY 4.0; no rights to third-party publications or private correspondence are granted.
+
+1. Make the reviewed repository public, enable its Zenodo integration, and publish a tag from the approved commit.
+2. Verify the Zenodo archive and its assigned DOI.
+3. Add the DOI to the manuscript Data and Code Availability statement.
 
 Do not add full-text PDFs, private emails, or credentials to the public release.
