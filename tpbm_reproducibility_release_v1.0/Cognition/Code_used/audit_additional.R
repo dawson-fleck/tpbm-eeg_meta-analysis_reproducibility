@@ -1,7 +1,7 @@
 options(stringsAsFactors=FALSE,warn=1)
 invisible(Sys.setlocale('LC_CTYPE','English_United States.utf8'))
 args<-commandArgs(FALSE);A<-dirname(normalizePath(sub('^--file=','',args[grepl('^--file=',args)][1]),winslash='/'));B<-dirname(A)
-.libPaths(c(file.path(B,'Cognition/Reproducibility/R_library'),'C:/Users/fleck/AppData/Local/R/win-library/4.6',.libPaths()));library(metafor)
+.libPaths(c(file.path(B,'Cognition/Reproducibility/R_library'),.libPaths()));library(metafor)
 rd<-function(p)read.csv(p,check.names=FALSE,fileEncoding='UTF-8-BOM');wr<-function(x,n)write.csv(x,file.path(A,'Outputs',n),row.names=FALSE,na='')
 checks<-list()
 for(folder in c('Outputs','Working_corrected/Outputs'))for(r in c(.2,.5,.8)){
