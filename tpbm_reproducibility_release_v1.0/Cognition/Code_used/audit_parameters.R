@@ -1,7 +1,7 @@
 options(stringsAsFactors=FALSE,warn=1)
 invisible(Sys.setlocale('LC_CTYPE','English_United States.utf8'))
 args<-commandArgs(FALSE);A<-dirname(normalizePath(sub('^--file=','',args[grepl('^--file=',args)][1]),winslash='/'));B<-dirname(A)
-.libPaths(c(file.path(B,'Cognition/Reproducibility/R_library'),'C:/Users/fleck/AppData/Local/R/win-library/4.6',.libPaths()));library(metafor)
+.libPaths(c(file.path(B,'Cognition/Reproducibility/R_library'),.libPaths()));library(metafor)
 rd<-function(p)read.csv(p,fileEncoding='UTF-8-BOM');d<-rd(file.path(A,'Working_corrected/Outputs/harmonization_r0.5.csv'));m<-rd(file.path(A,'parameter_metadata.csv'));d<-merge(d,m,by='cohort_id',sort=FALSE)
 out<-list();members<-list()
 for(v in c('pulse','device','comparator_intensity','industry_status')){
