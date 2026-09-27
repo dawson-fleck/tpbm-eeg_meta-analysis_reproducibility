@@ -4,9 +4,13 @@ The release package is in [`tpbm_reproducibility_release_v1.0/`](tpbm_reproducib
 
 This repository is a **private release candidate**. The numerical snapshot was frozen on 19 September 2026. The manuscript and supplementary materials are maintained separately; the package crosswalk must be checked against their final submission versions.
 
+## Draft license scope
+
+Original code: [MIT](LICENSE-CODE.md). Original tabular data and documentation: [CC BY 4.0](LICENSE-DATA.md). These draft terms still require author approval and a review of source-derived material before public release.
+
 ## Archival sequence
 
-1. Resolve the license and redistribution questions identified in the package's `LICENSE_TO_SET_BEFORE_PUBLIC_DEPOSIT.md`.
+1. Confirm the split-license scope and redistribution questions identified in the package's `LICENSE_TO_SET_BEFORE_PUBLIC_DEPOSIT.md`.
 2. Obtain the authors' approval of the exact public snapshot and confirm the final manuscript-to-output map.
 3. Run `validate_release.py` and, on Windows with R and Python available, `RUN_ALL.ps1` from the package directory. The existing `Environment/final_QA.json` records the earlier verification; it does not substitute for a fresh release check.
 4. Make this repository public and connect it to Zenodo under the repository owner's account.
