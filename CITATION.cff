@@ -1,8 +1,9 @@
 cff-version: 1.2.0
-message: "Cite the archived Zenodo release corresponding to the version used."
+message: "Cite the archived v1.0.0 Zenodo release for this snapshot."
 title: "Reproducibility package for Cognitive Effects of Transcranial Photobiomodulation: A Systematic Review, Meta-Analysis, and EEG Synthesis"
 type: software
 version: 1.0.0
+doi: 10.5281/zenodo.23003323
 authors:
   - given-names: Dawson
     family-names: Fleck
