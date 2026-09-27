@@ -1,10 +1,7 @@
-# License decision required before public release
+# Draft license selection pending author signoff
 
-No public license is granted by this release candidate. The authors should approve distribution terms before depositing the ZIP.
+The repository owner selected MIT for original code and CC BY 4.0 for author-created tabular data and documentation. The proposed texts and scope are in the repository root: `LICENSE-CODE.md` and `LICENSE-DATA.md`.
 
-A common split is:
+Before public deposition, all authors must approve the exact package and license scope. Review source-derived extraction notes and snapshots for any third-party article text, publisher figures, private correspondence, or other material that cannot be redistributed under these terms. The licenses do not grant rights to material the authors do not own.
 
-- MIT License for original R/Python/PowerShell code.
-- CC BY 4.0 for author-created tabular data, documentation, and figures.
-
-Those licenses do not cover third-party publications, publisher figures, private correspondence, or other material the authors do not own. Such material is excluded from this package, but the authors should complete one final redistribution review before public deposition.
+After approval and rights review, this draft-status notice can be replaced with a final license-scope note.
