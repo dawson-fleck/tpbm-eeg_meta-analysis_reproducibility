@@ -7,10 +7,10 @@ doi: 10.5281/zenodo.23003323
 authors:
   - given-names: Dawson
     family-names: Fleck
-  - given-names: Utkarsh
-    family-names: Gupta
   - given-names: Jeff
     family-names: Roszell
+  - given-names: Utkarsh
+    family-names: Gupta
 repository-code: "https://github.com/dawson-fleck/tpbm-eeg_meta-analysis_reproducibility"
 abstract: "Source-corrected 17-cohort cognitive meta-analysis and descriptive EEG evidence audit, with code, inputs, recorded outputs, and provenance files."
 keywords:
