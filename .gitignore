@@ -1,6 +1,9 @@
 # Local reruns and installed dependencies
 tpbm_reproducibility_release_v1.0/Reruns/
 tpbm_reproducibility_release_v1.0/Cognition/Reproducibility/R_library/
+tpbm_reproducibility_release_v2.0/Reruns/
+tpbm_reproducibility_release_v2.0/Cognition/Reproducibility/R_library/
+tpbm_reproducibility_release_v2.0/Environment/.venv/
 **/__pycache__/
 *.pyc
 .venv/

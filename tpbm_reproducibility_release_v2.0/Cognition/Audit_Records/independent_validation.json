@@ -1,0 +1,380 @@
+{
+  "status": "PASS",
+  "effect_checks": [
+    {
+      "cohort_id": "COG-TANG-2023",
+      "r": 0.2,
+      "g_abs_error": 1.6653345369377348e-16,
+      "vi_abs_error": 3.3306690738754696e-16
+    },
+    {
+      "cohort_id": "COG-HWANG-2016",
+      "r": 0.2,
+      "g_abs_error": 3.774758283725532e-15,
+      "vi_abs_error": 2.7755575615628914e-16
+    },
+    {
+      "cohort_id": "COG-CHAN-2019-OLDER",
+      "r": 0.2,
+      "g_abs_error": 1.5543122344752192e-15,
+      "vi_abs_error": 7.632783294297951e-17
+    },
+    {
+      "cohort_id": "COG-DOUGAL-2021",
+      "r": 0.2,
+      "g_abs_error": 2.3314683517128287e-15,
+      "vi_abs_error": 9.020562075079397e-17
+    },
+    {
+      "cohort_id": "COG-CHAN-2021-DIFFICULT",
+      "r": 0.2,
+      "g_abs_error": 4.0245584642661925e-16,
+      "vi_abs_error": 3.885780586188048e-16
+    },
+    {
+      "cohort_id": "COG-YANG-2024-LANGUAGE",
+      "r": 0.2,
+      "g_abs_error": 4.440892098500626e-16,
+      "vi_abs_error": 3.469446951953614e-17
+    },
+    {
+      "cohort_id": "COG-CHAN-2021-MCI",
+      "r": 0.2,
+      "g_abs_error": 2.55351295663786e-15,
+      "vi_abs_error": 3.885780586188048e-16
+    },
+    {
+      "cohort_id": "COG-HASSAN-2026-STROKE",
+      "r": 0.2,
+      "g_abs_error": 6.938893903907228e-17,
+      "vi_abs_error": 2.0816681711721685e-16
+    },
+    {
+      "cohort_id": "COG-PENA-2026",
+      "r": 0.2,
+      "g_abs_error": 2.220446049250313e-16,
+      "vi_abs_error": 1.942890293094024e-16
+    },
+    {
+      "cohort_id": "COG-CHUN-2025-PILOT",
+      "r": 0.2,
+      "g_abs_error": 4.884981308350689e-15,
+      "vi_abs_error": 5.551115123125783e-16
+    },
+    {
+      "cohort_id": "COG-LEE-2025-TBI",
+      "r": 0.2,
+      "g_abs_error": 1.8041124150158794e-16,
+      "vi_abs_error": 2.7755575615628914e-17
+    },
+    {
+      "cohort_id": "COG-DEOLIVEIRA-2024",
+      "r": 0.2,
+      "g_abs_error": 1.226796442210798e-14,
+      "vi_abs_error": 5.551115123125783e-17
+    },
+    {
+      "cohort_id": "COG-BERMAN-2017-DEMENTIA",
+      "r": 0.2,
+      "g_abs_error": 6.661338147750939e-16,
+      "vi_abs_error": 4.0245584642661925e-16
+    },
+    {
+      "cohort_id": "COG-YANG-2025-OLDER-WM",
+      "r": 0.2,
+      "g_abs_error": 1.1213252548714081e-14,
+      "vi_abs_error": 2.0816681711721685e-17
+    },
+    {
+      "cohort_id": "COG-SABOURI-MOGHADAM-2017",
+      "r": 0.2,
+      "g_abs_error": 7.771561172376096e-16,
+      "vi_abs_error": 4.163336342344337e-17
+    },
+    {
+      "cohort_id": "COG-SALEHPOUR-2026-STAGE1-ADHD",
+      "r": 0.2,
+      "g_abs_error": 3.1086244689504383e-15,
+      "vi_abs_error": 1.942890293094024e-16
+    },
+    {
+      "cohort_id": "COG-ZHAO-X-2022-SCD",
+      "r": 0.2,
+      "g_abs_error": 5.065392549852277e-16,
+      "vi_abs_error": 1.734723475976807e-17
+    },
+    {
+      "cohort_id": "COG-KHERADMAND-2022-SCHIZOPHRENIA",
+      "r": 0.2,
+      "g_abs_error": 1.887379141862766e-15,
+      "vi_abs_error": 3.469446951953614e-16
+    },
+    {
+      "cohort_id": "COG-TANG-2023",
+      "r": 0.5,
+      "g_abs_error": 1.6653345369377348e-16,
+      "vi_abs_error": 3.3306690738754696e-16
+    },
+    {
+      "cohort_id": "COG-HWANG-2016",
+      "r": 0.5,
+      "g_abs_error": 3.774758283725532e-15,
+      "vi_abs_error": 2.7755575615628914e-16
+    },
+    {
+      "cohort_id": "COG-CHAN-2019-OLDER",
+      "r": 0.5,
+      "g_abs_error": 1.5543122344752192e-15,
+      "vi_abs_error": 7.632783294297951e-17
+    },
+    {
+      "cohort_id": "COG-DOUGAL-2021",
+      "r": 0.5,
+      "g_abs_error": 2.3314683517128287e-15,
+      "vi_abs_error": 9.020562075079397e-17
+    },
+    {
+      "cohort_id": "COG-CHAN-2021-DIFFICULT",
+      "r": 0.5,
+      "g_abs_error": 4.0245584642661925e-16,
+      "vi_abs_error": 3.885780586188048e-16
+    },
+    {
+      "cohort_id": "COG-YANG-2024-LANGUAGE",
+      "r": 0.5,
+      "g_abs_error": 2.220446049250313e-16,
+      "vi_abs_error": 0.0
+    },
+    {
+      "cohort_id": "COG-CHAN-2021-MCI",
+      "r": 0.5,
+      "g_abs_error": 2.55351295663786e-15,
+      "vi_abs_error": 3.885780586188048e-16
+    },
+    {
+      "cohort_id": "COG-HASSAN-2026-STROKE",
+      "r": 0.5,
+      "g_abs_error": 6.938893903907228e-17,
+      "vi_abs_error": 2.0816681711721685e-16
+    },
+    {
+      "cohort_id": "COG-PENA-2026",
+      "r": 0.5,
+      "g_abs_error": 2.220446049250313e-16,
+      "vi_abs_error": 2.7755575615628914e-17
+    },
+    {
+      "cohort_id": "COG-CHUN-2025-PILOT",
+      "r": 0.5,
+      "g_abs_error": 4.884981308350689e-15,
+      "vi_abs_error": 5.551115123125783e-16
+    },
+    {
+      "cohort_id": "COG-LEE-2025-TBI",
+      "r": 0.5,
+      "g_abs_error": 2.7755575615628914e-17,
+      "vi_abs_error": 3.469446951953614e-17
+    },
+    {
+      "cohort_id": "COG-DEOLIVEIRA-2024",
+      "r": 0.5,
+      "g_abs_error": 1.226796442210798e-14,
+      "vi_abs_error": 5.551115123125783e-17
+    },
+    {
+      "cohort_id": "COG-BERMAN-2017-DEMENTIA",
+      "r": 0.5,
+      "g_abs_error": 6.661338147750939e-16,
+      "vi_abs_error": 4.0245584642661925e-16
+    },
+    {
+      "cohort_id": "COG-YANG-2025-OLDER-WM",
+      "r": 0.5,
+      "g_abs_error": 3.885780586188048e-16,
+      "vi_abs_error": 3.122502256758253e-17
+    },
+    {
+      "cohort_id": "COG-SABOURI-MOGHADAM-2017",
+      "r": 0.5,
+      "g_abs_error": 7.771561172376096e-16,
+      "vi_abs_error": 4.163336342344337e-17
+    },
+    {
+      "cohort_id": "COG-SALEHPOUR-2026-STAGE1-ADHD",
+      "r": 0.5,
+      "g_abs_error": 3.1086244689504383e-15,
+      "vi_abs_error": 1.942890293094024e-16
+    },
+    {
+      "cohort_id": "COG-ZHAO-X-2022-SCD",
+      "r": 0.5,
+      "g_abs_error": 5.065392549852277e-16,
+      "vi_abs_error": 1.734723475976807e-17
+    },
+    {
+      "cohort_id": "COG-KHERADMAND-2022-SCHIZOPHRENIA",
+      "r": 0.5,
+      "g_abs_error": 1.887379141862766e-15,
+      "vi_abs_error": 3.469446951953614e-16
+    },
+    {
+      "cohort_id": "COG-TANG-2023",
+      "r": 0.8,
+      "g_abs_error": 1.6653345369377348e-16,
+      "vi_abs_error": 3.3306690738754696e-16
+    },
+    {
+      "cohort_id": "COG-HWANG-2016",
+      "r": 0.8,
+      "g_abs_error": 3.774758283725532e-15,
+      "vi_abs_error": 2.7755575615628914e-16
+    },
+    {
+      "cohort_id": "COG-CHAN-2019-OLDER",
+      "r": 0.8,
+      "g_abs_error": 1.5543122344752192e-15,
+      "vi_abs_error": 7.632783294297951e-17
+    },
+    {
+      "cohort_id": "COG-DOUGAL-2021",
+      "r": 0.8,
+      "g_abs_error": 2.3314683517128287e-15,
+      "vi_abs_error": 9.020562075079397e-17
+    },
+    {
+      "cohort_id": "COG-CHAN-2021-DIFFICULT",
+      "r": 0.8,
+      "g_abs_error": 4.0245584642661925e-16,
+      "vi_abs_error": 3.885780586188048e-16
+    },
+    {
+      "cohort_id": "COG-YANG-2024-LANGUAGE",
+      "r": 0.8,
+      "g_abs_error": 3.83026943495679e-15,
+      "vi_abs_error": 1.214306433183765e-17
+    },
+    {
+      "cohort_id": "COG-CHAN-2021-MCI",
+      "r": 0.8,
+      "g_abs_error": 2.55351295663786e-15,
+      "vi_abs_error": 3.885780586188048e-16
+    },
+    {
+      "cohort_id": "COG-HASSAN-2026-STROKE",
+      "r": 0.8,
+      "g_abs_error": 6.938893903907228e-17,
+      "vi_abs_error": 2.0816681711721685e-16
+    },
+    {
+      "cohort_id": "COG-PENA-2026",
+      "r": 0.8,
+      "g_abs_error": 2.220446049250313e-16,
+      "vi_abs_error": 3.469446951953614e-17
+    },
+    {
+      "cohort_id": "COG-CHUN-2025-PILOT",
+      "r": 0.8,
+      "g_abs_error": 4.884981308350689e-15,
+      "vi_abs_error": 5.551115123125783e-16
+    },
+    {
+      "cohort_id": "COG-LEE-2025-TBI",
+      "r": 0.8,
+      "g_abs_error": 4.163336342344337e-17,
+      "vi_abs_error": 3.469446951953614e-18
+    },
+    {
+      "cohort_id": "COG-DEOLIVEIRA-2024",
+      "r": 0.8,
+      "g_abs_error": 1.226796442210798e-14,
+      "vi_abs_error": 5.551115123125783e-17
+    },
+    {
+      "cohort_id": "COG-BERMAN-2017-DEMENTIA",
+      "r": 0.8,
+      "g_abs_error": 6.661338147750939e-16,
+      "vi_abs_error": 4.0245584642661925e-16
+    },
+    {
+      "cohort_id": "COG-YANG-2025-OLDER-WM",
+      "r": 0.8,
+      "g_abs_error": 5.995204332975845e-15,
+      "vi_abs_error": 3.122502256758253e-17
+    },
+    {
+      "cohort_id": "COG-SABOURI-MOGHADAM-2017",
+      "r": 0.8,
+      "g_abs_error": 7.771561172376096e-16,
+      "vi_abs_error": 4.163336342344337e-17
+    },
+    {
+      "cohort_id": "COG-SALEHPOUR-2026-STAGE1-ADHD",
+      "r": 0.8,
+      "g_abs_error": 3.1086244689504383e-15,
+      "vi_abs_error": 1.942890293094024e-16
+    },
+    {
+      "cohort_id": "COG-ZHAO-X-2022-SCD",
+      "r": 0.8,
+      "g_abs_error": 5.065392549852277e-16,
+      "vi_abs_error": 1.734723475976807e-17
+    },
+    {
+      "cohort_id": "COG-KHERADMAND-2022-SCHIZOPHRENIA",
+      "r": 0.8,
+      "g_abs_error": 1.887379141862766e-15,
+      "vi_abs_error": 3.469446951953614e-16
+    }
+  ],
+  "independent_REML_HK": [
+    {
+      "id": "new__Overall cognition",
+      "g": 0.35690448031972327,
+      "tau2": 0.050037504823933106,
+      "se": 0.08610575370075263,
+      "ci_low": 0.1752372198207967,
+      "ci_high": 0.5385717408186499,
+      "max_R_difference": 1.2963201068139085e-09
+    },
+    {
+      "id": "new__Memory",
+      "g": 0.2512222820591969,
+      "tau2": 0.06557309212026884,
+      "se": 0.14817743838454092,
+      "ci_low": -0.11135484799624112,
+      "ci_high": 0.6137994121146348,
+      "max_R_difference": 1.0334301192571616e-09
+    },
+    {
+      "id": "new__Global cognition",
+      "g": 0.315356689686346,
+      "tau2": 0.0635258908021982,
+      "se": 0.17254517287272483,
+      "ci_low": -0.12818479752700823,
+      "ci_high": 0.7588981768997003,
+      "max_R_difference": 4.012719323487346e-11
+    },
+    {
+      "id": "new__Executive / sustained attention",
+      "g": 0.6173070597819051,
+      "tau2": 0,
+      "se": 0.13012898283093505,
+      "ci_low": 0.057407236584861576,
+      "ci_high": 1.1772068829789486,
+      "max_R_difference": 1.3322676295501878e-15
+    },
+    {
+      "id": "old__Overall cognition",
+      "g": 0.6669010191846501,
+      "tau2": 0.16600242920741917,
+      "se": 0.10627783440973698,
+      "ci_low": 0.4464942806871328,
+      "ci_high": 0.8873077576821673,
+      "max_R_difference": 1.8987018346461326e-09
+    }
+  ],
+  "internal_source_snapshot_verified": false,
+  "public_source_snapshot_note": "Internal source snapshot is outside the scope of the public GitHub release.",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "numpy": "2.3.5"
+}

@@ -1,0 +1,10 @@
+manuscript_item,authoritative_file,record_identifier,notes
+Primary and secondary pooled models,Cognition/Recorded_Outputs/all_model_results.csv,new__Overall cognition; new__Memory; new__Global cognition; new__Executive / sustained attention,REML with Hartung-Knapp inference
+Primary model membership,Cognition/Recorded_Outputs/model_membership.csv,new__ model identifiers,One representative effect per independent cohort
+Sensitivity analyses,Cognition/Recorded_Outputs/all_model_results.csv,scenario-specific model identifiers,Includes major-risk; design; extraction; correlation; effect-definition and boundary sensitivities
+Leave-one-out results,Cognition/Recorded_Outputs/leave_one_out_*.csv,domain-specific files,Overall range 0.327 to 0.389
+Moderator analyses,Cognition/Recorded_Outputs/moderators_Holm.csv,three hypotheses,Holm correction across population; schedule and domain
+Multilevel analyses,Cognition/Recorded_Outputs/multilevel_grid_CR2.csv and multilevel_variants_CR2.csv,CR2/Satterthwaite,Paired-r by outcome-rho grid and two variants
+Small-study analyses,Cognition/Recorded_Outputs/small_study_tests.csv and trimfill_exploratory.csv,Overall cognition only,Egger-type p=.139; three hypothetical trim-and-fill studies
+Software record,Cognition/Recorded_Outputs/sessionInfo.txt and Environment/R_session.txt,final run,R 4.6.1; metafor 5.0-1; clubSandwich 0.7.0
+Independent verification,Cognition/Audit_Records/independent_validation.json,status PASS,54 v3 effect/variance checks and five REML/HK models

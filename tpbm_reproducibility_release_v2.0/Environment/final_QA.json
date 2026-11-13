@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "release": "2.0.0",
+  "locked_date": "2026-11-12",
+  "cognitive_cohorts": 18,
+  "participants": 680,
+  "overall_g": 0.35690447972971,
+  "overall_ci": [
+    0.175237219560212,
+    0.538571739899208
+  ],
+  "memory_g": 0.251221875158867,
+  "memory_ci": [
+    -0.111355,
+    0.613799
+  ],
+  "independent_effect_variance_checks": 54,
+  "independent_model_checks": 5,
+  "figures_distributed": false,
+  "note": "Existing Zenodo DOI archives v1.0.0 only; mint a new version for v2.0.0."
+}
